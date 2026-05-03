@@ -53,9 +53,12 @@ Pages do not need to live exactly under these top-level folders if a more specif
    tags: [<short tags>]
    created: YYYY-MM-DD
    updated: YYYY-MM-DD
-   sources: [[[Source Page 1]], [[Source Page 2]]]
+   sources:
+     - "[[Source Page 1]]"
+     - "[[Source Page 2]]"
    ---
    ```
+   Use the multi-line list form for `sources:` — it's unambiguous YAML and renders cleanly in Obsidian Properties.
    Bump `updated:` whenever you modify the page. Append new entries to `sources:` as they accumulate.
 5. **Headings**: H1 matches the title. Use H2/H3 for structure.
 6. **Citations**: when a claim comes from a specific source, link the source page inline:
