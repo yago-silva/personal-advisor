@@ -3,7 +3,7 @@ title: International Relocation
 type: project
 tags: [relocation, career, fx, decision]
 created: 2026-05-02
-updated: 2026-05-02
+updated: 2026-05-03
 sources:
   - "[[Source: Finances]]"
 ---
@@ -21,6 +21,15 @@ The operating thesis throughout [[Source: Finances]]: Yago is building toward an
 - Apartment equity is the **financial pivot** for the move (~R$ 217k = R$ 430k value − R$ 213k debt).
 - USD/EUR exposure must be built **before** relocation, not after — the FX hedge is a now-problem.
 - Comp floor for an international offer needs a realistic basis (cost-of-living + relocation costs).
+
+## Timing constraints (added 2026-05-03)
+
+The Rico parcelamento (see [[Finances]]) creates a hard schedule until **Mar/2027**:
+
+- **Pre-Mar/2027**: monthly cash flow committed to Rico fatura (R$ 1.85k–13.4k depending on month). A relocation kickoff in this window means inheriting the BRL parcelamento commitment — payable from abroad with FX exposure on each remaining installment.
+- **Mar/2027 onward**: Rico clean; ~R$ 6.5k/mo of clean surplus freed up. De-risks the move financially.
+
+Not a hard blocker — Yago can move before Mar/2027 — but the parcelamento becomes a BRL liability you carry. Worth modeling the FX cost of paying remaining Rico installments from abroad if relocation lands earlier than Mar/2027.
 
 ## The apartment
 
@@ -45,3 +54,4 @@ The operating thesis throughout [[Source: Finances]]: Yago is building toward an
 - Realistic comp floor based on cost-of-living + relocation costs
 - Schooling plan for [[Lorena]]
 - [[Stephanie]]'s alignment and contribution
+- (added 2026-05-03) FX cost modeling if relocation lands before Mar/2027 (Rico parcelamento still active)

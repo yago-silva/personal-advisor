@@ -3,34 +3,38 @@ title: "Source: Finances"
 type: source
 source_type: journal
 source_path: raw/journal/Finances.md
-source_date: 2026 (Jan/Feb 2026 actuals referenced)
+source_date: 2026 (planning doc, ongoing)
 ingested: 2026-05-02
 author: Yago Silva
-tags: [finances, net-worth, relocation, fluencypass]
+tags: [finances, net-worth, relocation, fluencypass, parcelamento]
 ---
 
 # Source: Finances
 
-Comprehensive personal financial snapshot. Most data-rich source in the wiki to date. Covers balance sheet, cash flow, risk assessment, multi-horizon goals, and explicit "things to push back on" / "open questions" — clearly authored to seed an advisor.
+Comprehensive personal financial snapshot AND ongoing planning doc. Yago treats this as a living working file — see modifications log below. Most data-rich source in the wiki.
+
+## Modifications
+
+- **2026-05-02** — initial ingest
+- **2026-05-03** — Yago added Rico parcelamento schedule (Mai/2026 → Mar/2027); revised monthly burn from R$ 27k to R$ 20k (now excludes Rico fatura, tracked separately)
 
 ## Key takeaways
 
-- **Net worth: R$ 479,233.55** (assets R$ 734,816 − liabilities R$ 255,600).
-- **Effective liquid net worth excluding apartment + Fluencypass equity: ~R$ 98,000.** This is the real "what's actually mine and movable" number.
-- **Critical gap: emergency reserve = R$ 2,000.** A single missed paycheck triggers debt or asset liquidation.
-- **Single income source** ([[Fluencypass]] R$ 26.5k net) + **no FX hedge** + **portfolio 100% Brazilian financial-sector equities** = compounded fragility.
-- **[[International Relocation]] is the operating thesis** — apartment equity (~R$ 217k) is the financial pivot.
-- **Push-backs Yago wants the advisor to enforce**: don't let zero-reserve state run past 6 months; no new equity purchases before reserve is built; no relocation timing that assumes <90-day apartment sale; don't count Fluencypass equity as decision-grade.
+- **Net worth: R$ 479,233.55**; effective liquid (ex-apartment + ex-Fluencypass equity): **~R$ 98,000**.
+- **Emergency reserve: R$ 2,000** — critical gap.
+- **Single income source** ([[Fluencypass]] R$ 26.5k net), **portfolio 100% BRL/B3 financial sector**, **zero FX hedge** — compounded fragility while [[International Relocation]] is the active thesis.
+- **Rico is parcelada, not revolving rotativo**: 11 monthly fatura amounts confirmed Mai/2026 → Mar/2027, total **R$ 40,924.34**. Mai/2026 has a R$ 13.4k spike that creates a one-month cash deficit; thereafter monthly fatura declines from R$ 5.5k to R$ 1.85k.
+- **4 explicit push-backs** Yago wants enforced (see [[Finances]]).
 
 ## Notable quotes
 
 > "Effective net worth excluding apartment and Fluencypass equity: R$ ~98,000. This is what's actually liquid and not tied to a single property/employer."
 
-> "Currency exposure for international move: zero. Every R$ saved buys ~R$ X dollars at today's rate; need to start building USD/EUR exposure before relocation, not after."
+> "A dívida do Rico (R$ 42.600) está parcelada e não deve ser quitada de uma vez."
 
-> "Apartment is the relocation pivot: R$ 217k equity. Realizing that equity unlocks the international move financially but creates timing risk."
+> "Currency exposure for international move: zero. Every R$ saved buys ~R$ X dollars at today's rate; need to start building USD/EUR exposure before relocation, not after."
 
 ## Wiki updates
 
-- Created: [[Finances]], [[Financial Goals]], [[Fluencypass]], [[International Relocation]]
-- Updated/cross-linked from: [[Profile]], [[Lorena]], [[Stephanie]]
+- 2026-05-03: updated [[Finances]], [[Financial Goals]], [[International Relocation]] reflecting Rico schedule + revised burn
+- 2026-05-02: created [[Finances]], [[Financial Goals]], [[Fluencypass]], [[International Relocation]], [[Lorena]], [[Stephanie]], [[Profile]]

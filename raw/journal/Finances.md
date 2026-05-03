@@ -42,6 +42,24 @@
 | Credit card (Nubank) | 0.00         | Revolving   | Currently zeroed         |
 | **Total gross**      | **255,600**  |             |                          |
 
+### Rico — cronograma de faturas (Mai/2026 → Mar/2027)
+
+A dívida do Rico (R$ 42.600) está parcelada e **não deve ser quitada de uma vez**. Saldo inicial em Abr/2026: R$ 42.600,00. Preencher fatura efetiva e saldo restante (após pagamento) a cada mês.
+
+| Mês      | Fatura (R$) | Notas |
+| -------- | ----------- | ----- |
+| Mai/2026 | 13,444.48   |       |
+| Jun/2026 | 5,476.96    |       |
+| Jul/2026 | 4,144.34    |       |
+| Ago/2026 | 3,000.48    |       |
+| Set/2026 | 2,606.98    |       |
+| Out/2026 | 2,356.66    |       |
+| Nov/2026 | 2,356.66    |       |
+| Dez/2026 | 1,915.07    |       |
+| Jan/2027 | 1,915.07    |       |
+| Fev/2027 | 1,853.82    |       |
+| Mar/2027 | 1,853.82    |       |
+
 ## 2026 Cash Flow (planned)
 
 ### Monthly recurring inflows
@@ -83,7 +101,7 @@
 
 - **Effective net worth excluding apartment and Fluencypass equity:** R$ ~98,000. This is what's actually liquid and not tied to a single property/employer.
 - **True cash runway in an emergency:** ~R$ 0 outside of liquidating equities (would crystallize gains/losses and create tax events).
-- **Monthly burn:** ~R$ 27,000. So liquid investments (R$ 137k) = ~5 months of runway _if_ willing to liquidate the entire portfolio. Realistically 2–3 months before that becomes painful.
+- **Monthly burn:** ~R$ 20,000. So liquid investments (R$ 137k) = ~5 months of runway _if_ willing to liquidate the entire portfolio. Realistically 2–3 months before that becomes painful.
 - **Currency exposure for international move:** zero. Every R$ saved buys ~R$ X dollars at today's rate; need to start building USD/EUR exposure before relocation, not after.
 - **Apartment is the relocation pivot:** R$ 217k equity (430k value − 213k debt). Realizing that equity unlocks the international move financially but creates timing risk.
 
