@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/career/fluencypass.md",
+                "file": "wiki/self/financial-goals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "fluencypass"
+              "title": "financial-goals"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/career/fluencypass.md",
+                "file": "wiki/self/financial-goals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para fluencypass"
+              "title": "Links inversos para financial-goals"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wiki/career/fluencypass.md",
+                "file": "wiki/self/financial-goals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para fluencypass"
+              "title": "Links de saída para financial-goals"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wiki/career/fluencypass.md",
+                "file": "wiki/self/financial-goals.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de fluencypass"
+              "title": "Sumário de financial-goals"
             }
           }
         ]
@@ -185,14 +185,16 @@
   },
   "active": "de6bb156572877ac",
   "lastOpenFiles": [
+    "wiki/self/finances.md",
+    "raw/journal/Goals.md",
+    "raw/journal/Finances.md",
+    "wiki/career/fluencypass.md",
     "log.md.tmp.12474.1777776487767",
     "wiki/sources/finances.md.tmp.12474.1777776483495",
     "wiki/sources/goals.md.tmp.12474.1777776482653",
     "wiki/sources/health.md.tmp.12474.1777776481332",
     "wiki/sources/identity.md.tmp.12474.1777776480614",
-    "raw/journal/Finances.md",
     "raw/journal/Health.md",
-    "raw/journal/Goals.md",
     "raw/journal/Identity.md",
     "raw/assets/Identity.md",
     "CLAUDE.md.tmp.12474.1777776362014",
@@ -203,10 +205,7 @@
     "wiki/people/stephanie.md",
     "wiki/people/stephanie.md.tmp.12474.1777776317791",
     "wiki/people/lorena.md",
-    "wiki/people/lorena.md.tmp.12474.1777776310820",
-    "wiki/career/fluencypass.md",
     "wiki/self/financial-goals.md",
-    "wiki/self/finances.md",
     "wiki/self/health.md",
     "wiki/self/profile.md",
     "wiki/sources/finances.md",
