@@ -73,6 +73,19 @@ Snapshot from [[Source: Finances]] — Jan/Feb 2026 actuals + 2026 plan. Rico pa
 - **Net monthly inflow**: R$ 26,500 ([[Fluencypass]] salary)
 - **Burn ex-Rico**: ~R$ 20,000
 
+### Salary structure (clarified 2026-05-03)
+
+The R$ 26.5k inflow is **after** a R$ 2,500/mo equity buy-in at [[Fluencypass]] (voluntary opt-in, taken at source before cash reaches Yago). Full structure:
+
+| Component | R$/mo |
+| --- | --- |
+| PJ invoice gross | 31,500 |
+| Equity buy-in (auto) | −2,500 |
+| Effective gross | 29,000 |
+| Net (after PJ taxes) | **26,500** |
+
+The R$ 2,500 equity buy-in is **not in the burn** — it's forced savings into illiquid equity. Cash-flow profile (and surplus calculations below) unchanged. Cumulative bought to date: R$ 72,500 since Nov 2023; no vesting, no cliff (Yago owns each purchase day-one).
+
 | Period | Inflow | Burn ex-Rico | Rico fatura | Net surplus |
 | --- | --- | --- | --- | --- |
 | Mai/2026 | 26.5k | 20k | 13.4k | **−7.0k** (cover w/ R$ 5k provision buffer + ~R$ 2k other) |
@@ -98,6 +111,7 @@ Snapshot from [[Source: Finances]] — Jan/Feb 2026 actuals + 2026 plan. Rico pa
 | Credit card (Rico) parcelado | Low | **downgraded from Medium** — schedule fixed, no surprise |
 | Apartment timing risk (forced sale on relocation) | Medium | unchanged |
 | Fluencypass equity counted as asset | Low | unchanged |
+| **Stock portfolio liquidation IR** | **Medium** | **new (2026-05-03)** — R$ 20k/mo gross sale exempt under BR rule; >R$ 20k/mo taxed 15% on gains. Constrains how fast portfolio can be unwound for relocation. |
 | ~~Thin monthly surplus~~ | — | **removed** — surplus is healthy from Jun/2026 onward |
 
 ## Yago's standing instructions for the advisor

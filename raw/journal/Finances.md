@@ -64,11 +64,13 @@ A dívida do Rico (R$ 42.600) está parcelada e **não deve ser quitada de uma v
 
 ### Monthly recurring inflows
 
-| Source               | Amount (R$) | Notes       |
-| -------------------- | ----------- | ----------- |
-| Gross Salary         | 29,000      | Fluencypass |
-| Net Salary           | 26,500      |             |
-| **Baseline monthly** | **26,500**  |             |
+| Source                    | Amount (R$) | Notes                                                                |
+| ------------------------- | ----------- | -------------------------------------------------------------------- |
+| PJ Invoice (Fluencypass)  | 31,500      | full PJ contract value                                               |
+| Equity buy-in (auto)      | −2,500      | voluntary opt-in; partnership program; cumulative R$ 72.5k bought    |
+| Gross to account          | 29,000      | what reaches Yago's hands gross                                      |
+| Net Salary                | 26,500      | after PJ taxes (ISS + INSS + accountant)                             |
+| **Baseline monthly**      | **26,500**  |                                                                      |
 
 ### Monthly recurring outflows (representative — Jan/Feb 2026 actuals)
 
@@ -83,19 +85,20 @@ A dívida do Rico (R$ 42.600) está parcelada e **não deve ser quitada de uma v
 | Impostos (PJ: ISS + INSS)          | 1,930–1,780 | ~7%           | Yago Silva Sistemas obligations                       |
 | Telecom / services                 | 545–595     | ~2%           | Vivo R$ 330, Google, Contabilizei R$ 204–210, Netflix |
 | Despesas domésticas                | 1,500-2,000 | ~5%           | Market, dog food, life insurance                      |
-| Provisões (credit card payoff)     | ~9,200      | varies        |                                                       |
+
 
 ## Risk assessment
 
-| Risk                                    | Severity | Why                                                                                          |
-| --------------------------------------- | -------- | -------------------------------------------------------------------------------------------- |
-| **Low emergency reserve**               | Critical | One income source + R$ 2000 cash = single missed paycheck triggers debt or asset liquidation |
-| **No FX hedge**                         | High     | All assets and income in BRL while actively targeting international career — currency-naked  |
-| **Portfolio concentration**             | Medium   | 4 names, 1 country, financial-sector heavy                                                   |
-| **Thin monthly surplus**                | Medium   | ~R$ 50–150/month most of 2026; no margin for shocks                                          |
-| **Credit card revolving**               | Medium   | R$ 42k gross balance, only partially provisioned                                             |
-| **Apartment timing risk**               | Medium   | If international offer requires fast start, forced sale = bad price                          |
-| **Fluencypass equity counted as asset** | Low      | Already mentally treated as bonus, but worth being explicit it could go to zero              |
+| Risk                                       | Severity | Why                                                                                                                      |
+| ------------------------------------------ | -------- | ------------------------------------------------------------------------------------------------------------------------ |
+| **Low emergency reserve**                  | Critical | One income source + R$ 2000 cash = single missed paycheck triggers debt or asset liquidation                             |
+| **No FX hedge**                            | High     | All assets and income in BRL while actively targeting international career — currency-naked                              |
+| **Portfolio concentration**                | Medium   | 4 names, 1 country, financial-sector heavy                                                                               |
+| **Thin monthly surplus**                   | Medium   | ~R$ 50–150/month most of 2026; no margin for shocks                                                                      |
+| **Credit card revolving**                  | Low      | R$ 42k gross balance, only partially provisioned                                                                         |
+| **Apartment timing risk**                  | Medium   | If international offer requires fast start, forced sale = bad price                                                      |
+| **Fluencypass equity counted as asset**    | Low      | Already mentally treated as bonus, but worth being explicit it could go to zero                                          |
+| **Fees for liquidating a stock portfolio** | Medium   | I can withdraw a maximum of R$ 20,000 per month without being taxed. taxes are 15% to values bigger than 20,000.00/month |
 
 ## Decision-relevant facts for the advisor
 
@@ -116,27 +119,23 @@ A dívida do Rico (R$ 42.600) está parcelada e **não deve ser quitada de uma v
 
 ### Medium-term (12–24 months)
 
-- [ ] Emergency reserve = 6 months expenses (R$ ~160,000)
+- [ ] Emergency reserve = 6 months expenses (R$ ~120,000)
 - [ ] Diversify portfolio: reduce single-country exposure below 70%
 - [ ] Decision framework documented for apartment in a relocation scenario (sell vs rent out)
 - [ ] First international comp negotiated with realistic floor based on cost-of-living + relocation costs
 
 ### Long-term (5+ years)
-
 - USD/EUR-denominated income as primary
 - Net worth excluding primary residence > R$ 1M equivalent
 - Passive income covering essential monthly burn
-
+## Family intersections
+- Currently I'm the only provider of the family. My wife ([[stephanie-identity]]) is curreltly Unemployed. To work allow she to work, We need add some coast in out life:
+	- Transport
+	- Lorena's meals at school (~ R$ 500.00 more) 
+- Stephanie’s earning potential in Brazil is around R$3,000, based on her current field, experience, and qualifications as a nursing technician.
 ## Things to push back on
 
 - Any plan that extends the zero-reserve state past 6 months
 - New equity purchases before emergency reserve is built (current strategy is upside-down: invested but unprotected)
 - Relocation timing that assumes apartment sells in <90 days at fair value
 - Treating Fluencypass equity as part of decision-making net worth
-
-## Open questions for me to answer
-
-- What's the actual monthly cost of carrying the apartment vs. renting it out post-relocation?
-- What's the tax cost of liquidating the stock portfolio if needed for relocation?
-- Is the credit card balance structural or one-off? (The R$ 36k recurring on Rico suggests structural)
-- What does Stephanie's income contribute, and how should joint vs. individual finances be modeled here?

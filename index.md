@@ -4,19 +4,22 @@ Catalog of all wiki pages. Updated on every ingest.
 
 ## Self
 
-- [[Profile]] — biographical baseline: name, DOB, location, family, work (2 sources)
+- [[Profile]] — biographical baseline; family + work + active thesis (3 sources)
 - [[Health]] — body metrics; data-thin given the wellness spend (2 sources)
-- [[Finances]] — full balance sheet, cash flow, risks, standing instructions (1 source)
-- [[Financial Goals]] — near/medium/long-term targets + aspirational ceilings (2 sources)
+- [[Finances]] — full balance sheet, cash flow, Rico schedule (Mai/2026 → Mar/2027), risks, standing instructions (1 source)
+- [[Financial Goals]] — near/medium/long-term targets + R$ 45k income goal + aspirational ceilings (3 sources)
 
 ## Career
 
-- [[Fluencypass]] — current employer; single income source; PJ structure; equity treated as zero (1 source)
+- [[Career History]] — Yago's full positioning, chronology 2011→2026, patterns, gaps for international target (1 source)
+- [[Fluencypass]] — current employer; Staff SWE + Partner; R$ 2.5k/mo equity buy-in; AI/LLM stack (2 sources)
 
 ## People
 
-- [[Lorena]] — daughter, born 2015-03-23 (2 sources)
-- [[Stephanie]] — common-law partner; financial role mostly unknown (2 sources)
+- [[Lorena]] — daughter, born 2015-03-22; Arbos SBC 6th grade; English A1 (4 sources)
+- [[Lorena Education]] — school history; English level; relocation implications (1 source)
+- [[Stephanie]] — common-law partner; aligned with relocation; advisor-boundary applied (3 sources)
+- [[Stephanie Career]] — Nursing Technician 7y, Adult ICU; currently unemployed; English A1 (1 source)
 
 ## Concepts
 
@@ -24,11 +27,17 @@ _(no pages yet)_
 
 ## Projects
 
-- [[International Relocation]] — operating thesis; apartment equity as pivot; FX hedge gap (1 source)
+- [[International Relocation]] — active multi-fase project; EB2-NIW research; Stephanie aligned; Mar/2027 timing pivot (4 sources)
+- [[Joint Plans]] — joint decisions with Stephanie; relocation, finances, family logistics (1 source)
 
 ## Sources
 
-- [[Source: Finances]] — 2026 balance sheet + plan (richest source so far)
-- [[Source: Identity]] — undated profile snapshot
+- [[Source: Career]] — Yago's full self-positioning + 3 open questions (2026-05-03)
+- [[Source: Stephanie's Career]] — nursing career + relocation aspirations + advisor boundary (2026-05-03)
+- [[Source: Finances]] — 2026 balance sheet + plan + Rico schedule (richest financial source)
+- [[Source: Stephanie's Identity]] — biographical card (2026-05-03)
+- [[Source: Lorena's Education]] — school history + English A1 (2026-05-03)
+- [[Source: Lorena's Identity]] — biographical card; birthdate corrected (2026-05-03)
+- [[Source: Identity]] — Yago's profile snapshot
 - [[Source: Goals]] — financial goals note (overlaps with Finances)
-- [[Source: Health]] — undated body-metrics snapshot
+- [[Source: Health]] — body-metrics snapshot
