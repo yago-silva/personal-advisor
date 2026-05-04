@@ -2,11 +2,11 @@
 
 | Metric                               | Value           | Notes                                |
 | ------------------------------------ | --------------- | ------------------------------------ |
-| **Net worth (Patrimônio Líquido)**   | R$ 479,233.55   | Assets − liabilities                 |
+| **Net worth (Patrimônio Líquido)**   | R$ 484,615.81   | Assets − liabilities                 |
 | Gross assets (Patrimônio)            | R$ 740,415.81   |                                      |
-| Total liabilities (Saldo Devedor)    | R$ 255,789.03   |                                      |
-| Liquid investable (não comprometido) | R$ 135,067.24   | Stock portfolio, fully exposed to B3 |
-| Emergency reserve                    | **R$ 7.600.00** | ⚠️ critical gap — see below          |
+| Total liabilities (Saldo Devedor)    | R$ 255,800.00   |                                      |
+| Liquid investable (não comprometido) | R$ 137,398.21   | Stock portfolio, fully exposed to B3 |
+| Emergency reserve                    | **R$ 7,600.00** | ⚠️ critical gap — see below          |
 | Estimated monthly passive income     | R$ 629.54       | 0.46% of net worth, dividend-based   |
 | Projected monthly passive income     | R$ 769.74       | If full DPA materializes             |
 ## Assets
@@ -17,7 +17,7 @@
 | Stock portfolio (B3)        | 137,398.21     | High      | 100% Brazilian equities; concentrated in 4 names                           |
 | Fluencypass equity (shares) | 72,500.00      | None      | Illiquid; depends entirely on company outcome — treat as zero for planning |
 | Credit card provision       | 5,017.60       | High      | Buffer earmarked against card debt                                         |
-| Emergency reserve           | 7,600.00**     | —         | Should exist; doesn't                                                      |
+| Emergency reserve           | 7,600.00       | —         | Should exist; doesn't                                                      |
 | Cash / investment account   | 0.00           | —         | Currently empty                                                            |
 | Car (BMW 320i 2013)         | 87,900.00      | Medium    | Depreciating; would sell before international relocation                   |
 | **Total**                   | **740,415.81** |           |                                                                            |
@@ -42,12 +42,12 @@ Check the [[Investment Thesis]] to more details about each investiment thesis
 | Apartment financing  | 213,000.00   | Real estate | R$ 2,200/month (parcela) |
 | Credit card (Rico)   | 42,800.00    | Revolving   |                          |
 | Credit card (Nubank) | 0.00         | Revolving   | Currently zeroed         |
-| **Total gross**      | **261,800**  |             |                          |
+| **Total gross**      | **255,800**  |             |                          |
 |                      |              |             |                          |
 
 ### Rico — cronograma de faturas (Mai/2026 → Mar/2027)
 
-A dívida do Rico (R$ 42.600) está parcelada e **não deve ser quitada de uma vez**. Saldo inicial em Abr/2026: R$ 42.600,00. Preencher fatura efetiva e saldo restante (após pagamento) a cada mês.
+A dívida do Rico (R$ 42.800) está parcelada e **não deve ser quitada de uma vez**. Saldo inicial em Abr/2026: R$ 42.800,00. Preencher fatura efetiva e saldo restante (após pagamento) a cada mês.
 
 | Mês      | Fatura (R$) | Notas |
 | -------- | ----------- | ----- |
@@ -163,9 +163,9 @@ A dívida do Rico (R$ 42.600) está parcelada e **não deve ser quitada de uma v
 
 ## Decision-relevant facts for the advisor
 
-- **Effective net worth excluding apartment and Fluencypass equity:** R$ ~98,000. This is what's actually liquid and not tied to a single property/employer.
+- **Effective net worth excluding apartment and Fluencypass equity:** R$ ~102,000 (stock portfolio + emergency reserve − Rico card debt). This is what's actually liquid and not tied to a single property/employer.
 - **True cash runway in an emergency:** ~R$ 0 outside of liquidating equities (would crystallize gains/losses and create tax events).
-- **Monthly burn:** ~R$ 17,320.70. So liquid investments (R$ 137k) = ~7 months of runway _if_ willing to liquidate the entire portfolio. Realistically 2–3 months before that becomes painful.
+- **Monthly burn:** ~R$ 17,320.70. So liquid investments (R$ 137k) = ~8 months of runway _if_ willing to liquidate the entire portfolio. Realistically 2–3 months before that becomes painful.
 - **Currency exposure for international move:** zero. Every R$ saved buys ~R$ X dollars at today's rate; need to start building USD/EUR exposure before relocation, not after.
 - **Apartment is the relocation pivot:** R$ 217k equity (430k value − 213k debt). Realizing that equity unlocks the international move financially but creates timing risk.
 
@@ -173,14 +173,14 @@ A dívida do Rico (R$ 42.600) está parcelada e **não deve ser quitada de uma v
 
 ### Near-term (next 6 months)
 
-- [ ] **Build emergency reserve to R$ 17,320.70 (~1 month of expenses). Source: redirect provisão flows + reduce discretionary.
+- [ ] **Build emergency reserve to R$ 17,320.70** (~1 month of expenses). Source: redirect provisão flows + reduce discretionary.
 - [ ] Pay down Rico card to zero (currently provisioned but not extinguished)
 - [ ] Begin USD-denominated savings — even R$ 1,000/month → ETF/Wise — to start the FX hedge
 - [ ] Document the Fluencypass equity terms (vesting, cliff, liquidity events) in a separate file
 
 ### Medium-term (12–24 months)
 
-- [ ] Emergency reserve = 6 months expenses (R$ ~105,000)
+- [ ] Emergency reserve = 6 months expenses (R$ ~103,924)
 - [ ] Diversify portfolio: reduce single-country exposure below 70%
 - [ ] Decision framework documented for apartment in a relocation scenario (sell vs rent out)
 - [ ] First international comp negotiated with realistic floor based on cost-of-living + relocation costs

@@ -3,7 +3,7 @@ title: Financial Goals
 type: self
 tags: [goals, finances, planning, income]
 created: 2026-05-02
-updated: 2026-05-03
+updated: 2026-05-04
 sources:
   - "[[Source: Goals]]"
   - "[[Source: Finances]]"
@@ -12,22 +12,22 @@ sources:
 
 # Financial Goals
 
-Active goal stack from [[Source: Finances]] plus aspirational ceilings from [[Source: Goals]] plus income target from [[Source: Career]].
+Active goal stack from [[Source: Finances]] plus aspirational ceilings from [[Source: Goals]] plus income target from [[Source: Career]]. Targets re-baselined 2026-05-04 against the new R$ 17,320.70/mo replanned burn (essential R$ 8,454 + discretionary R$ 8,866.70).
 
 ## Near-term (next 6 months)
 
-- [ ] Build emergency reserve to **R$ 30,000** (~1.5 months of expenses at the new R$ 20k/mo burn).
+- [ ] Build emergency reserve to **R$ 17,320.70** (~1 month of expenses at the new R$ 17.3k/mo burn). Source per [[Source: Finances]]: redirect provisão flows + reduce discretionary.
 - [ ] **Land role at R$ 45k+/mo** (active search per [[Career History]]). Floor unchanged from Yago's framing in [[Source: Career]]. May be Brazilian top-tier employer, dollar-paid remote, or relocation.
-- **Rico (parcelada Mai/2026 → Mar/2027)** — schedule fixed in [[Finances]]; tracked commitment with **Mar/2027 anchor**. Total: R$ 40,924.34.
+- **Rico (parcelada Mai/2026 → Mar/2027)** — schedule fixed in [[Finances]]; tracked commitment with **Mar/2027 anchor**. Total scheduled: R$ 42,980.34.
 - [ ] Begin USD-denominated savings — R$ 1,000+/month → ETF/Wise — to start the FX hedge.
 - [ ] Document [[Fluencypass]] equity terms (vesting, cliff, liquidity events).
 - [ ] **Decide on R$ 2,500/mo equity buy-in at [[Fluencypass]]**: continue, pause, or unwind. Resolved 2026-05-03: not in the burn (taken at source before cash reaches Yago). Decision is now a direct version of Q2 in [[Source: Career]] — "is [[Fluencypass]] equity better than working abroad?" Each R$ 2.5k to equity is R$ 2.5k not going to FX hedge, reserve, or other priorities.
 
-**Note (2026-05-03):** the cumulative surplus Jun/2026 → Mar/2027 (~R$ 37k) makes the R$ 30k reserve goal cash-flow feasible without portfolio liquidation. Mai/2026 still has a ~R$ 7k cash deficit — to be covered by R$ 5k provision buffer + ~R$ 2k discretionary cut.
+**Note (2026-05-04):** the cumulative surplus Jun/2026 → Mar/2027 grew to **~R$ 64k** under the replanned R$ 17.3k burn (was ~R$ 37k under the old R$ 20k estimate). The 1-month reserve goal is cash-flow trivial; the medium-term 6-month goal becomes reachable in ~14 months without touching the portfolio. Mai/2026 still has a ~R$ 6.3k cash deficit (was R$ 8.3k) — covered by R$ 5k provision buffer + ~R$ 1.3k discretionary cut.
 
 ## Medium-term (12–24 months)
 
-- [ ] Emergency reserve = 6 months of expenses (~R$ 120,000 at the new R$ 20k/mo burn).
+- [ ] Emergency reserve = 6 months of expenses (**~R$ 103,924** at the new R$ 17.3k/mo burn). Reachable ~Aug/2027 from cash-flow surplus alone.
 - [ ] Diversify portfolio: reduce single-country exposure below 70%.
 - [ ] Decision framework documented for the apartment in a relocation scenario — see [[International Relocation]].
 - [ ] First international comp negotiated with realistic floor (cost-of-living + relocation costs).
@@ -36,7 +36,7 @@ Active goal stack from [[Source: Finances]] plus aspirational ceilings from [[So
 
 - USD/EUR-denominated income as primary
 - Net worth excluding primary residence > R$ 1M equivalent
-- Passive income covering essential monthly burn (~R$ 20k/mo at current run-rate)
+- Passive income covering **full** monthly burn (~R$ 17,320.70/mo at the replanned baseline — essential R$ 8,454 + discretionary R$ 8,866.70). Yago's long-term floor is the full burn, not just the essential bucket — discretionary lifestyle (gyms, supplements, eating out, leisure) is part of what passive income should cover, not something to be cut to call the goal "met."
 
 ## Aspirational ceilings (from [[Source: Goals]])
 

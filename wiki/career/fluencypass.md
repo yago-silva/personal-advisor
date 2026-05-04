@@ -125,9 +125,9 @@ To hit 5x on the stake at 5y: multiple needs to expand ~2.7x. More plausible but
 
 FP's current internal valuation used to set the buy-in price is still not documented. Without it, % ownership and absolute exit math cannot be sized concretely. Open follow-up below.
 
-## Notable financial reconciliation needed
+## Notable financial reconciliation (resolved 2026-05-03)
 
-The R$ 2,500/mo equity buy-in is a meaningful line **not separately broken out in [[Finances]]**. Either it sits inside one of the existing budget categories or it's missing entirely. **Worth confirming**: is it inside the ~R$ 20k burn ex-Rico, or on top? If on top, real burn = ~R$ 22.5k and the surplus profile in [[Finances]] shifts ~R$ 2.5k/mo down — which materially affects the reserve-build timeline.
+The R$ 2,500/mo equity buy-in was a meaningful line not initially broken out in [[Finances]]. **Resolved**: the buy-in is taken at source before cash reaches Yago, so it is **not** in the burn — the cash-flow profile in [[Finances]] (now at the replanned R$ 17,320.70/mo burn) is correct as written. Buy-in is forced savings into illiquid equity, not a recurring outflow.
 
 ## Open follow-ups
 

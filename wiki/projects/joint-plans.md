@@ -23,7 +23,7 @@ Per [[Source: Finances]] "Family intersections" section (Yago's documentation, 2
   - Additional transport (amount not yet quantified)
   - [[Lorena]]'s school meals: +R$ 500/mo (presumably for days Stephanie can't pick her up)
   - Other potential costs (childcare, etc.) not yet documented
-- **Net effect estimate**: if Stephanie earns R$ 3k and enabling costs land at ~R$ 700–1k, household cash flow improves by ~R$ 2–2.3k/mo (~10% of current burn). Meaningful but not transformative.
+- **Net effect estimate**: if Stephanie earns R$ 3k and enabling costs land at ~R$ 700–1k, household cash flow improves by ~R$ 2–2.3k/mo (~13% of the replanned R$ 17.3k/mo burn). Meaningful but not transformative.
 
 This is information for joint discussion, not a recommendation. The decision of whether/when she returns to work is hers (per the [[Stephanie]] boundary).
 

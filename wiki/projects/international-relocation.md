@@ -78,7 +78,7 @@ Realistic first-position USD comp for Yago: **$150-250k total comp**. Cost-of-li
 The Rico parcelamento (see [[Finances]]) creates a hard schedule until **Mar/2027**:
 
 - **Pre-Mar/2027**: monthly cash flow committed to Rico fatura. Relocation in this window means inheriting the BRL parcelamento commitment payable from abroad.
-- **Mar/2027 onward**: Rico clean; ~R$ 6.5k/mo of clean surplus freed up.
+- **Mar/2027 onward**: Rico clean; **~R$ 9.2k/mo** of clean surplus freed up (revised 2026-05-04 against the new R$ 17,320.70 burn baseline; was ~R$ 6.5k under the old R$ 20k estimate).
 
 NIW realistic timeline (12-24 months for I-140 + variable wait for visa) **accidentally aligns with Mar/2027 Rico end** — financial readiness and visa readiness can converge.
 
