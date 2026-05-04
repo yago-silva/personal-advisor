@@ -31,3 +31,9 @@ Approximately 82% of this revenue comes from B2C subscriptions, 10% from the stu
 B2B is Fluencypass’s main focus for 2026. Sales of this product began in November 2025, and it currently represents about 8% of total revenue. The goal for 2026 is to increase B2B to 30% of total revenue while maintaining the current revenue levels of the other segments, meaning growth will be driven primarily by the expansion of the B2B product.
 
 The company does not have a clear vision about other markers, for example: churn rate
+
+**Data from CEO pitch in general meet**
+
+- MRR growth: 13% YoY (mar 2025 / mar 2026)
+- +26% sales per seller
+

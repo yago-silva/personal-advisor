@@ -141,3 +141,16 @@ Chronological record of wiki activity. Append-only. Each entry starts with `## [
   - MRR growth trajectory + B2B pivot trajectory (blocks P(exit) calibration)
   - B2C churn trend (Yago's source notes FP itself lacks visibility)
 - thesis-orphan tension flagged in [[Investment Thesis]]: building USD savings for [[International Relocation]] FX hedge does not fit either of Yago's two existing buckets (dividend or insider growth) — a third bucket would need to be named.
+
+## [2026-05-04 13:31] re-ingest | Investment Thesis.md (CEO pitch growth data added)
+- raw/journal/Investment Thesis.md: Yago appended "Data from CEO pitch in general meet" section
+  - **MRR growth: 13% YoY (Mar 2025 → Mar 2026)**
+  - **+26% sales per seller** YoY
+- pages updated: [[Source: Investment Thesis]] (modifications log + metrics table + observations), [[Fluencypass]] (growth row + revised valuation framing + closed one open question), [[Investment Thesis]] (new "Growth-trajectory analysis" section)
+- key analytical update: 13% YoY MRR is **the single most important new data point** for evaluating the growth thesis. SaaS exits at 5-10x typically require 40-80% YoY growth. At 13%, FP compounds to only 1.44x in 3y / 1.84x in 5y, so the 5-10x stake math depends almost entirely on multiple expansion (AI premium / strategic acquirer) rather than fundamentals — a much narrower, riskier path.
+- new framing introduced: the growth thesis is now better articulated as **"a bet on the B2B pivot landing"** rather than "a bet on FP being a great company." This produces falsifiable quarterly checkpoints through 2026:
+  - Q2 2026: B2B share above 12-15%?
+  - Q3 2026: above 18-22%?
+  - Q4 2026: at/near 30% (the company plan)?
+- consistency check: this new data is **consistent with**, not in contradiction to, the conversation-level "10x is cauda, 2-3x is realistic" framing converged earlier in the day. Strengthens the case the wiki was already pointing toward.
+- one open question closed (MRR growth trajectory partially answered); two new open questions added (B2B trajectory tracking; whether 13% is accelerating or decelerating QoQ).

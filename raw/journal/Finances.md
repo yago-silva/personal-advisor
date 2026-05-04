@@ -3,24 +3,24 @@
 | Metric                               | Value           | Notes                                |
 | ------------------------------------ | --------------- | ------------------------------------ |
 | **Net worth (Patrimônio Líquido)**   | R$ 479,233.55   | Assets − liabilities                 |
-| Gross assets (Patrimônio)            | R$ 734,815.81   |                                      |
-| Total liabilities (Saldo Devedor)    | R$ 255,600.00   |                                      |
-| Liquid investable (não comprometido) | R$ 137,398.21   | Stock portfolio, fully exposed to B3 |
-| Emergency reserve                    | **R$ 2.000.00** | ⚠️ critical gap — see below          |
+| Gross assets (Patrimônio)            | R$ 740,415.81   |                                      |
+| Total liabilities (Saldo Devedor)    | R$ 255,789.03   |                                      |
+| Liquid investable (não comprometido) | R$ 135,067.24   | Stock portfolio, fully exposed to B3 |
+| Emergency reserve                    | **R$ 7.600.00** | ⚠️ critical gap — see below          |
 | Estimated monthly passive income     | R$ 629.54       | 0.46% of net worth, dividend-based   |
 | Projected monthly passive income     | R$ 769.74       | If full DPA materializes             |
 ## Assets
 
-| Asset                       | Value (R$)   | Liquidity | Decision relevance                                                         |
-| --------------------------- | ------------ | --------- | -------------------------------------------------------------------------- |
-| Apartment                   | 430,000.00   | Low       | Single largest asset; biggest practical anchor to São Paulo; Financed      |
-| Stock portfolio (B3)        | 137,398.21   | High      | 100% Brazilian equities; concentrated in 4 names                           |
-| Fluencypass equity (shares) | 72,500.00    | None      | Illiquid; depends entirely on company outcome — treat as zero for planning |
-| Credit card provision       | 5,017.60     | High      | Buffer earmarked against card debt                                         |
-| Emergency reserve           | **2,000.00** | —         | Should exist; doesn't                                                      |
-| Cash / investment account   | 0.00         | —         | Currently empty                                                            |
-| Car (BMW 320i 2013)         | 87,900.00    | Medium    | Depreciating; would sell before international relocation                   |
-| **Total**                   | **734,815**  |           |                                                                            |
+| Asset                       | Value (R$)     | Liquidity | Decision relevance                                                         |
+| --------------------------- | -------------- | --------- | -------------------------------------------------------------------------- |
+| Apartment                   | 430,000.00     | Low       | Single largest asset; biggest practical anchor to São Paulo; Financed      |
+| Stock portfolio (B3)        | 137,398.21     | High      | 100% Brazilian equities; concentrated in 4 names                           |
+| Fluencypass equity (shares) | 72,500.00      | None      | Illiquid; depends entirely on company outcome — treat as zero for planning |
+| Credit card provision       | 5,017.60       | High      | Buffer earmarked against card debt                                         |
+| Emergency reserve           | 7,600.00**     | —         | Should exist; doesn't                                                      |
+| Cash / investment account   | 0.00           | —         | Currently empty                                                            |
+| Car (BMW 320i 2013)         | 87,900.00      | Medium    | Depreciating; would sell before international relocation                   |
+| **Total**                   | **740,415.81** |           |                                                                            |
 
 ### Stock portfolio detail (4 active positions)
 
@@ -40,9 +40,10 @@ Check the [[Investment Thesis]] to more details about each investiment thesis
 | Liability            | Balance (R$) | Type        | Notes                    |
 | -------------------- | ------------ | ----------- | ------------------------ |
 | Apartment financing  | 213,000.00   | Real estate | R$ 2,200/month (parcela) |
-| Credit card (Rico)   | 42,600.00    | Revolving   |                          |
+| Credit card (Rico)   | 42,800.00    | Revolving   |                          |
 | Credit card (Nubank) | 0.00         | Revolving   | Currently zeroed         |
-| **Total gross**      | **255,600**  |             |                          |
+| **Total gross**      | **261,800**  |             |                          |
+|                      |              |             |                          |
 
 ### Rico — cronograma de faturas (Mai/2026 → Mar/2027)
 
@@ -50,7 +51,7 @@ A dívida do Rico (R$ 42.600) está parcelada e **não deve ser quitada de uma v
 
 | Mês      | Fatura (R$) | Notas |
 | -------- | ----------- | ----- |
-| Mai/2026 | 14,800.48   |       |
+| Mai/2026 | 15,500.48   |       |
 | Jun/2026 | 5,476.96    |       |
 | Jul/2026 | 4,144.34    |       |
 | Ago/2026 | 3,000.48    |       |
@@ -66,34 +67,92 @@ A dívida do Rico (R$ 42.600) está parcelada e **não deve ser quitada de uma v
 
 ### Monthly recurring inflows
 
-| Source                    | Amount (R$) | Notes                                                                |
-| ------------------------- | ----------- | -------------------------------------------------------------------- |
-| PJ Invoice (Fluencypass)  | 31,500      | full PJ contract value                                               |
-| Equity buy-in (auto)      | −2,500      | voluntary opt-in; partnership program; cumulative R$ 72.5k bought    |
-| Gross to account          | 29,000      | what reaches Yago's hands gross                                      |
-| Net Salary                | 26,500      | after PJ taxes (ISS + INSS + accountant)                             |
-| **Baseline monthly**      | **26,500**  |                                                                      |
+| Source                   | Amount (R$) | Notes                                                             |
+| ------------------------ | ----------- | ----------------------------------------------------------------- |
+| PJ Invoice (Fluencypass) | 31,500      | full PJ contract value                                            |
+| Equity buy-in (auto)     | −2,500      | voluntary opt-in; partnership program; cumulative R$ 72.5k bought |
+| Gross to account         | 29,000      | what reaches Yago's hands gross                                   |
+| Net Salary               | 26,500      | after PJ taxes (ISS + INSS + accountant)                          |
+| **Baseline monthly**     | **26,500**  |                                                                   |
 
-### Monthly recurring outflows (representative — Jan/Feb 2026 actuals)
+### Monthly recurring outflows (replanned baseline — 2026-05)
 
-| Category                           | Amount (R$) | % of expenses | Notes                                                 |
-| ---------------------------------- | ----------- | ------------- | ----------------------------------------------------- |
-| Educação (Lorena: school + extras) | 3,060–3,310 | ~12%          | School R$ 2,800–2,851 + meals R$ 200–300              |
-| Moradia (apt parcel + condo)       | 2,200–3,150 | ~10%          | Condo R$ 810; occasional arrears                      |
-| Ifood                              | 1500-2500   | ~10%          |                                                       |
-| Beleza & wellness                  | 1,550–1,950 | ~7%           | Gyms, supplements, coaches (×2), TRT provision        |
-| Transporte                         | 1,400–2,300 | ~6%           | Insurance R$ 625, IPVA installments, fuel, Uber       |
-| Saúde                              | 770–1,500   | ~4%           | Convênio R$ 730–770, occasional consults              |
-| Impostos (PJ: ISS + INSS)          | 1,930–1,780 | ~7%           | Yago Silva Sistemas obligations                       |
-| Telecom / services                 | 545–595     | ~2%           | Vivo R$ 330, Google, Contabilizei R$ 204–210, Netflix |
-| Despesas domésticas                | 1,500-2,000 | ~5%           | Market, dog food, life insurance                      |
+**Totals**
+
+| Bucket                    | Monthly (R$)  |
+| ------------------------- | ------------- |
+| **Total**                 | **17,320.70** |
+| Essential                 | 8,454.00      |
+| Discretionary             | 8,866.70      |
+
+**Reserve targets derived from this baseline**
+
+| Horizon         | Essential (R$) | Discretionary (R$) |
+| --------------- | -------------- | ------------------ |
+| Quarterly (3m)  | 25,362.00      | 26,600.10          |
+| Semiannual (6m) | 50,724.00      | 53,200.20          |
+| Annual (12m)    | 101,448.00     | 106,400.40         |
+
+**Line items** (grouped by category, descending category total)
+
+| Category                | Item                             | Amount (R$)   | Essential? |
+| ----------------------- | -------------------------------- | ------------- | ---------- |
+| Education               | Lorena's school tuition          | 2,800.00      | No         |
+| Education               | Lorena's school meals            | 400.00        | No         |
+| Education               | Lorena's allowance               | 60.00         | No         |
+| **Education total**     |                                  | **3,260.00**  |            |
+| Housing                 | Apartment mortgage installment   | 2,200.00      | Yes        |
+| Housing                 | Condo fee                        | 950.00        | Yes        |
+| **Housing total**       |                                  | **3,150.00**  |            |
+| Transport               | Fuel — car (credit card)         | 800.00        | Yes        |
+| Transport               | Uber                             | 700.00        | No         |
+| Transport               | BMW insurance                    | 625.00        | No         |
+| Transport               | IPVA (vehicle tax)               | 500.00        | Yes        |
+| **Transport total**     |                                  | **2,625.00**  |            |
+| Taxes                   | Yago Silva Sistemas (ISS)        | 1,700.00      | No         |
+| Taxes                   | INSS (social security)           | 180.00        | Yes        |
+| Taxes                   | IPTU (property tax)              | 130.00        | Yes        |
+| **Taxes total**         |                                  | **2,010.00**  |            |
+| Household               | Groceries                        | 1,600.00      | Yes        |
+| Household               | Dog food                         | 150.00        | No         |
+| Household               | Nubank life insurance            | 35.00         | Yes        |
+| **Household total**     |                                  | **1,785.00**  |            |
+| Personal care           | Supplements                      | 600.00        | No         |
+| Personal care           | Testosterone enanthate (reserve) | 500.00        | Yes        |
+| Personal care           | Smartfit (Yago)                  | 138.40        | No         |
+| Personal care           | Smartfit (Stephanie)             | 138.40        | No         |
+| Personal care           | Coach (reserve)                  | 0.00          | No         |
+| Personal care           | Coach — Stephanie (reserve)      | 0.00          | No         |
+| Personal care           | Free balance — Yago              | 0.00          | No         |
+| Personal care           | Free balance — Stephanie         | 0.00          | No         |
+| Personal care           | Free balance — Lorena            | 0.00          | No         |
+| Personal care           | Apartment improvements (reserve) | 0.00          | No         |
+| **Personal care total** |                                  | **1,376.80**  |            |
+| Health                  | Health insurance                 | 730.00        | No         |
+| Health                  | EDNA                             | 500.00        | No         |
+| **Health total**        |                                  | **1,230.00**  |            |
+| Discretionary spend     | iFood (reserve)                  | 1,000.00      | No         |
+| Discretionary spend     | Nightlife & misc (reserve)       | 0.00          | No         |
+| **Discretionary total** |                                  | **1,000.00**  |            |
+| Telecom                 | Vivo Família                     | 330.00        | Yes        |
+| **Telecom total**       |                                  | **330.00**    |            |
+| Contracted services     | Contabilizei                     | 204.00        | Yes        |
+| Contracted services     | Google G-Suite                   | 50.00         | Yes        |
+| **Services total**      |                                  | **254.00**    |            |
+| Electricity             | Apartment                        | 200.00        | Yes        |
+| **Electricity total**   |                                  | **200.00**    |            |
+| Leisure                 | YouTube Premium                  | 55.00         | No         |
+| Leisure                 | Netflix                          | 44.90         | No         |
+| Leisure                 | Travel (reserve)                 | 0.00          | No         |
+| **Leisure total**       |                                  | **99.90**     |            |
+| **GRAND TOTAL**         |                                  | **17,320.70** |            |
 
 
 ## Risk assessment
 
 | Risk                                       | Severity | Why                                                                                                                      |
 | ------------------------------------------ | -------- | ------------------------------------------------------------------------------------------------------------------------ |
-| **Low emergency reserve**                  | Critical | One income source + R$ 2000 cash = single missed paycheck triggers debt or asset liquidation                             |
+| **Low emergency reserve**                  | Critical | One income source + R$ 7600 cash = single missed paycheck triggers debt or asset liquidation                             |
 | **No FX hedge**                            | High     | All assets and income in BRL while actively targeting international career — currency-naked                              |
 | **Portfolio concentration**                | Medium   | 4 names, 1 country, financial-sector heavy                                                                               |
 | **Thin monthly surplus**                   | Medium   | ~R$ 50–150/month most of 2026; no margin for shocks                                                                      |
@@ -106,7 +165,7 @@ A dívida do Rico (R$ 42.600) está parcelada e **não deve ser quitada de uma v
 
 - **Effective net worth excluding apartment and Fluencypass equity:** R$ ~98,000. This is what's actually liquid and not tied to a single property/employer.
 - **True cash runway in an emergency:** ~R$ 0 outside of liquidating equities (would crystallize gains/losses and create tax events).
-- **Monthly burn:** ~R$ 20,000. So liquid investments (R$ 137k) = ~5 months of runway _if_ willing to liquidate the entire portfolio. Realistically 2–3 months before that becomes painful.
+- **Monthly burn:** ~R$ 17,320.70. So liquid investments (R$ 137k) = ~7 months of runway _if_ willing to liquidate the entire portfolio. Realistically 2–3 months before that becomes painful.
 - **Currency exposure for international move:** zero. Every R$ saved buys ~R$ X dollars at today's rate; need to start building USD/EUR exposure before relocation, not after.
 - **Apartment is the relocation pivot:** R$ 217k equity (430k value − 213k debt). Realizing that equity unlocks the international move financially but creates timing risk.
 
@@ -114,14 +173,14 @@ A dívida do Rico (R$ 42.600) está parcelada e **não deve ser quitada de uma v
 
 ### Near-term (next 6 months)
 
-- [ ] **Build emergency reserve to R$ 30,000** (~1 month of expenses). Source: redirect provisão flows + reduce discretionary.
+- [ ] **Build emergency reserve to R$ 17,320.70 (~1 month of expenses). Source: redirect provisão flows + reduce discretionary.
 - [ ] Pay down Rico card to zero (currently provisioned but not extinguished)
 - [ ] Begin USD-denominated savings — even R$ 1,000/month → ETF/Wise — to start the FX hedge
 - [ ] Document the Fluencypass equity terms (vesting, cliff, liquidity events) in a separate file
 
 ### Medium-term (12–24 months)
 
-- [ ] Emergency reserve = 6 months expenses (R$ ~120,000)
+- [ ] Emergency reserve = 6 months expenses (R$ ~105,000)
 - [ ] Diversify portfolio: reduce single-country exposure below 70%
 - [ ] Decision framework documented for apartment in a relocation scenario (sell vs rent out)
 - [ ] First international comp negotiated with realistic floor based on cost-of-living + relocation costs
