@@ -19,6 +19,7 @@ Comprehensive personal financial snapshot AND ongoing planning doc. Yago treats 
 - **2026-05-03** — Yago added Rico parcelamento schedule (Mai/2026 → Mar/2027); revised monthly burn from R$ 27k to R$ 20k (now excludes Rico fatura, tracked separately)
 - **2026-05-03 (later)** — Yago clarified salary structure: real PJ contract is R$ 31,500/mo (was shown as R$ 29k); R$ 2,500/mo is voluntary equity buy-in taken at source. Cash-flow analysis unchanged. Inflow table in raw/journal/Finances.md updated.
 - **2026-05-03 (15:18)** — Yago revised the source: (a) added new risk "Fees for liquidating stock portfolio" Medium — documents R$ 20k/mo gross-sale exemption, 15% IR on excess; (b) removed obsolete "Provisões R$ 9,200" line from outflows (Rico now tracked in its own schedule); (c) downgraded "Credit card revolving" risk to Low; (d) updated 6-month reserve target to R$ 120k; (e) removed "Open questions for me to answer" section; (f) **added new section "Family intersections"** — Yago is sole provider, Stephanie's BR earning potential ~R$ 3,000/mo, costs to enable her to work (transport + Lorena school meals ~R$ 500).
+- **2026-05-04 (11:18)** — Yago revised Mai/2026 Rico fatura up by R$ 1,356 (from R$ 13,444.48 to R$ 14,800.48). New total Rico schedule: R$ 42,280.34 — closes the gap to current balance (R$ 42,600) to ~R$ 320, suggesting May absorbed accrued interest. Mai/2026 cash deficit grew from R$ 7.0k to R$ 8.3k. Also added inline reference to [[Investment Thesis]] from the stock-portfolio section.
 
 ## Key takeaways
 

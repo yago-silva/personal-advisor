@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "raw/journal/Finances.md",
+                "file": "raw/journal/Investment Thesis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Finances"
+              "title": "Investment Thesis"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "raw/journal/Finances.md",
+                "file": "raw/journal/Investment Thesis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Finances"
+              "title": "Links inversos para Investment Thesis"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "raw/journal/Finances.md",
+                "file": "raw/journal/Investment Thesis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para Finances"
+              "title": "Links de saída para Investment Thesis"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "raw/journal/Finances.md",
+                "file": "raw/journal/Investment Thesis.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Finances"
+              "title": "Sumário de Investment Thesis"
             }
           }
         ]
@@ -185,20 +185,24 @@
   },
   "active": "77e402a4896cd72e",
   "lastOpenFiles": [
-    "wiki/projects/joint-plans.md.tmp.12474.1777832599785",
-    "log.md.tmp.12474.1777832575327",
-    "wiki/self/finances.md.tmp.12474.1777832565732",
-    "wiki/sources/finances.md.tmp.12474.1777832561641",
+    "index.md.tmp.12474.1777911895398",
+    "index.md.tmp.12474.1777911884845",
+    "index.md.tmp.12474.1777911880078",
+    "log.md.tmp.12474.1777911871744",
+    "wiki/sources/finances.md.tmp.12474.1777911844387",
+    "wiki/self/finances.md.tmp.12474.1777911824824",
+    "wiki/self/finances.md.tmp.12474.1777911811112",
+    "wiki/self/finances.md.tmp.12474.1777911798403",
+    "wiki/self/finances.md.tmp.12474.1777911787380",
+    "wiki/self/finances.md.tmp.12474.1777911778988",
+    "wiki/career/fluencypass.md.tmp.12474.1777911768513",
+    "wiki/self/investment-thesis.md",
+    "wiki/sources/investment-thesis.md",
+    "raw/journal/Family/Daughter/Lorena's Education.md",
     "raw/journal/Family/Wife/Stephanie's Career.md",
+    "raw/journal/Investment Thesis.md",
     "raw/journal/Finances.md",
     "raw/journal/Career.md",
-    "log.md.tmp.12474.1777824255979",
-    "wiki/sources/career.md.tmp.12474.1777824250207",
-    "wiki/sources/finances.md.tmp.12474.1777824247255",
-    "wiki/projects/international-relocation.md.tmp.12474.1777824244593",
-    "wiki/self/financial-goals.md.tmp.12474.1777824242214",
-    "wiki/career/career-history.md.tmp.12474.1777824240061",
-    "wiki/career/fluencypass.md.tmp.12474.1777824238048",
     "wiki/projects/joint-plans.md",
     "wiki/people/lorena-education.md",
     "wiki/people/stephanie-career.md",
@@ -208,7 +212,6 @@
     "wiki/sources/stephanie-career.md",
     "wiki/sources/stephanie-identity.md",
     "wiki/sources/career.md",
-    "raw/journal/Family/Daughter/Lorena's Education.md",
     "raw/journal/Family/Wife/Stephanie's Identity.md",
     "raw/journal/Family/Daughter/Lorena's Identity.md",
     "raw/journal/Identity.md",
@@ -218,9 +221,6 @@
     "raw/journal/Family/Sem título.md",
     "wiki/people/stephanie.md",
     "Family.md",
-    "wiki/people/lorena.md",
-    "wiki/self/financial-goals.md",
-    "wiki/self/finances.md",
     "Sem título.canvas"
   ]
 }

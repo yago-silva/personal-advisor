@@ -122,3 +122,22 @@ Chronological record of wiki activity. Append-only. Each entry starts with `## [
 - 7 wiki data gaps surfaced that block personalized recommendation: Yago's role/seniority/stack at [[Fluencypass]], English level, education credential, NIW dossier evidence (publications/awards), [[Stephanie]] alignment + career, motivation (push vs pull), [[Lorena]] English level.
 - timing-coincidence flagged: NIW realistic timeline (18-30 months from filing) approximately aligns with Mar/2027 end of Rico parcelamento — financial readiness and visa readiness can converge.
 - recommendation: not a single decision, a multi-fase project. Phase 0 → answer the 7 gap questions (zero cost, weeks). Don't file I-140 yet.
+
+## [2026-05-04] ingest | raw/journal/Investment Thesis.md (NEW) + Finances.md revision
+- pages created (sources): [[Source: Investment Thesis]]
+- pages created (wiki): [[Investment Thesis]] (in wiki/self/)
+- pages updated: [[Fluencypass]] (operating metrics block + valuation framing + open follow-ups), [[Finances]] (Mai/2026 fatura, Rico total, portfolio thesis link, risk table), [[Source: Finances]] (modifications log)
+- key new factual data (first wiki documentation):
+  - Fluencypass MRR ~R$ 1.25M (≈ R$ 15M ARR), ~120 employees, 82% B2C / 10% study abroad / 8% B2B
+  - B2C churn 9-11%/month, LTV 8-12 months — high churn structurally drives B2B pivot
+  - B2B launched Nov 2025; target 30% of revenue by end of 2026 (from 8% today, requires ~4x B2B revenue)
+  - Investment philosophy explicit: Barsi/AGF dividend methodology for the public bucket; growth thesis applies only to FP
+- corrections to wiki framing:
+  - Stock portfolio concentration was previously framed neutrally as "risk" — now reframed as **intentional methodology** per [[Investment Thesis]]; concentration is a deliberate Barsi-style choice, not an oversight. Risk row retained but annotated.
+  - Mai/2026 Rico fatura up R$ 1,356 (R$ 13,444.48 → R$ 14,800.48); cash deficit grows from R$ 7k to R$ 8.3k. Rico schedule total now R$ 42,280.34 — closes gap to balance to ~R$ 320 (was R$ 1.7k).
+- analytical insight surfaced: with concrete FP metrics now documented, the "10x exit" framing used in earlier conversations gets sharper. Realistic BR EdTech multiples (2-3x revenue) give FP enterprise value R$ 30-45M today; for Yago's R$ 75k buy-in to reach R$ 750k (10x), the **valuation itself must grow 10x** — not just the multiple at exit. Documented in [[Fluencypass#Valuation framing]] and [[Investment Thesis]].
+- new open questions surfaced:
+  - FP's current internal valuation used to set buy-in price (blocks % ownership math)
+  - MRR growth trajectory + B2B pivot trajectory (blocks P(exit) calibration)
+  - B2C churn trend (Yago's source notes FP itself lacks visibility)
+- thesis-orphan tension flagged in [[Investment Thesis]]: building USD savings for [[International Relocation]] FX hedge does not fit either of Yago's two existing buckets (dividend or insider growth) — a third bucket would need to be named.

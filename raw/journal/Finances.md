@@ -24,12 +24,14 @@
 
 ### Stock portfolio detail (4 active positions)
 
-|Ticker|Qty|Price (R$)|Position (R$)|Avg cost|Unrealized P/L|Weight|
-|---|---|---|---|---|---|---|
-|BBAS3|2347|22.21|52,127|20.54|+R$ 3,929|38%|
-|CXSE3|2567|18.09|46,437|12.28|+R$ 14,906|34%|
-|ISAE4|789|29.51|23,283|22.59|+R$ 5,461|17%|
-|BBSE3|459|33.88|15,551|31.77|+R$ 970|11%|
+Check the [[Investment Thesis]] to more details about each investiment thesis
+
+| Ticker | Qty  | Price (R$) | Position (R$) | Avg cost | Unrealized P/L | Weight |
+| ------ | ---- | ---------- | ------------- | -------- | -------------- | ------ |
+| BBAS3  | 2347 | 22.21      | 52,127        | 20.54    | +R$ 3,929      | 38%    |
+| CXSE3  | 2567 | 18.09      | 46,437        | 12.28    | +R$ 14,906     | 34%    |
+| ISAE4  | 789  | 29.51      | 23,283        | 22.59    | +R$ 5,461      | 17%    |
+| BBSE3  | 459  | 33.88      | 15,551        | 31.77    | +R$ 970        | 11%    |
 
 **Concentration risk:** 100% Brazilian equities, 72% in two financial-sector names (BBAS3 + BBSE3 + CXSE3 are all financial/insurance). Fully BRL-denominated — no FX hedge.
 
@@ -48,7 +50,7 @@ A dívida do Rico (R$ 42.600) está parcelada e **não deve ser quitada de uma v
 
 | Mês      | Fatura (R$) | Notas |
 | -------- | ----------- | ----- |
-| Mai/2026 | 13,444.48   |       |
+| Mai/2026 | 14,800.48   |       |
 | Jun/2026 | 5,476.96    |       |
 | Jul/2026 | 4,144.34    |       |
 | Ago/2026 | 3,000.48    |       |
