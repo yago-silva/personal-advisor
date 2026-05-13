@@ -28,11 +28,12 @@ _(no pages yet)_
 
 ## Projects
 
-- [[International Relocation]] — active multi-fase project; EB2-NIW research; Stephanie aligned; Mar/2027 timing pivot (4 sources)
-- [[Joint Plans]] — joint decisions with Stephanie; relocation, finances, family logistics (1 source)
+- [[International Relocation]] — active project, **phased plan locked 2026-05-04**, Phase 0 Mai/2026, target landing Out/2028 (5 sources)
+- [[Joint Plans]] — joint decisions with Stephanie; relocation strategy locked, Stephanie path decision Mar/2027 (3 sources)
 
 ## Sources
 
+- [[Source: Relocation Plan]] — comprehensive 30-month phased plan; US primary + Canadá hedge; landing Out/2028; decisions locked (2026-05-04)
 - [[Source: Investment Thesis]] — Barsi dividend bucket + FP-only growth bucket; first FP operating metrics (2026-05-04)
 - [[Source: Career]] — Yago's full self-positioning + 3 open questions (2026-05-03)
 - [[Source: Stephanie's Career]] — nursing career + relocation aspirations + advisor boundary (2026-05-03)

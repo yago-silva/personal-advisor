@@ -3,9 +3,10 @@ title: Stephanie Career
 type: people
 tags: [family, partner, career, nursing, aspirations]
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-05-04
 sources:
   - "[[Source: Stephanie's Career]]"
+  - "[[Source: Relocation Plan]]"
 ---
 
 # Stephanie Career
@@ -57,7 +58,26 @@ Career page for [[Stephanie]]. Per durable rule on [[Stephanie]]: this page docu
 - Open to "generic" entry role (clerk-equivalent) initially abroad
 - Interested in occupational therapy as a possible new direction
 
-Near-term and medium-term: not yet discussed (per the source).
+## Path lock-in for [[International Relocation]] — decisão Mar/2027
+
+Per [[Source: Relocation Plan]] Phase 1, joint decision deadline é **Mar/2027** sobre qual caminho Stephanie pretende seguir nos EUA. Opções documentadas:
+
+| Opção | Tempo até income | Implicação no plano |
+|-------|------------------|---------------------|
+| **NCLEX-RN bridge** | 2-3 anos pós-pouso | Faz **US estritamente melhor que Canadá**; coursework remoto pode começar Phase 2 |
+| **Retreinamento** (occupational therapy, healthcare admin) | 1-3 anos pós-pouso | US ou Canadá viáveis; depende da modalidade escolhida |
+| **Não-clínico inicial** (qualquer função para destravar income) | Mês 6-12 pós-pouso | Mais flexível geograficamente; menor rendimento ano 1 |
+| **Ano 1 sem trabalhar** (foco em adaptação família + aprendizado inglês) | 12-18 meses até income | Aceito no orçamento do plano; reduz salary delta US vs BR |
+
+**Boundary**: a decisão é dela. O output joint que afeta o plano de relocação é apenas qual caminho ela escolhe, não como ela executa.
+
+## Diploma / credenciais
+
+- **Diploma técnico de enfermagem** (Escola de Enfermagem ABC Myrthes Silva, 2020): verificar se está em mãos. Se não, mesmo processo do diploma do Yago: solicitação à instituição → apostila → tradução juramentada.
+- **CGFNS** (Commission on Graduates of Foreign Nursing Schools): credential evaluation necessária para qualquer caminho clínico nos EUA. Custo USD 350-500. Phase 1-2.
+- **English**: A1 atual; alinhada com plano de inglês família (Praktika + FP). NCLEX-RN exige inglês alto (TOEFL ~83+ ou IELTS 6.5+); dimensiona timeline da bridge.
+
+Near-term: ainda não discutido individualmente (per source).
 
 ## Notes for the advisor
 

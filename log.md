@@ -164,3 +164,32 @@ Chronological record of wiki activity. Append-only. Each entry starts with `## [
   - 6-month reserve goal at the new burn is reachable from cash-flow surplus alone in ~14 months from Jun/2026 (≈ Aug/2027) — first time this milestone has been within reach without portfolio sale.
   - Long-term passive-income floor explicitly tied to **essential-only** (R$ 8,454/mo) per the new bucket split, not full burn — meaningful softening of the long-term target.
 - consistency note: total Rico scheduled now slightly **exceeds** balance (R$ 42,980 vs R$ 42,800 = ~R$ 180 over). Previously schedule was under balance by ~R$ 1.7k. Worth confirming on next actual fatura whether this is interest-absorbed or a small estimation gap.
+
+## [2026-05-04] ingest | raw/journal/Plans/Relocation.md (NEW — comprehensive 30-month relocation plan)
+- pages created (sources): [[Source: Relocation Plan]]
+- pages updated (wiki): [[International Relocation]] (full integration: 6 phases, decision gates, decisions locked, top-3 actions, salary calibration to $130-150k initial, gaps revised), [[Joint Plans]] (Stephanie path lock-in date Mar/2027 + apartment strategy locked rent year 1), [[Financial Goals]] (FX hedge milestones table, landing capital target, reserve trajectory aligned to phases), [[Lorena Education]] (Praktika decision gate Set/2026 + English ramp plan + ESL adaptation expectations), [[Stephanie Career]] (NCLEX-RN bridge / retreinamento / non-clinical options + CGFNS requirement noted), [[Index]] (new source pointer)
+- key resolutions (decisions locked 2026-05-04):
+  - **Target landing: Outubro/2028.** Anchored to 4 converging constraints — fim Rico Mar/2027, reserva 6m Ago/2027, IELTS B2 Mar/2027, Lorena 13.5 anos no pouso (final janela 11-13)
+  - **US primário, Canadá fallback paralelo** (Express Entry filed Q3/2026 como hedge ~R$ 6k)
+  - **Apartamento alugado durante ano 1** abroad; decisão de venda Set/2029 (não vender pré-mudança)
+  - **Buy-in FP mantido até saída da empresa** (~Mai/2028) — sinalização partnership, não decisão financeira pura
+  - **Inglês**: Fluencypass curriculum + Praktika para adultos (R$ 600/ano cada); Lorena tem decisão gate Set/2026 entre minimal vs. imersão presencial
+  - **IELTS Academic**, não TOEFL — cobre Canadá EE (obrigatório) + dossiê US num único teste
+  - **Sem pós-graduação só para credentialing** (ROI ruim vs. inglês/network/dossiê); exceção opcional Georgia Tech OMSCS se houver disciplina genuína
+  - **Cidade alvo: médio-tier** (Austin/Tampa/Charlotte/Raleigh/Denver/Phoenix/Dallas); HCOL descartado a $130k inicial
+  - **Família viaja junta** — sem split-departure
+- new gating items descobertos durante a sessão de planejamento:
+  - **Diploma não retirado há 10+ anos** — gating do I-140 filing; lead time 3-6 meses (universidade → apostila → tradução → WES). Adicionado como Top-3 ação Phase 0
+  - **Vacinação família incompleta** — Hep B série leva 6 meses (0-1-6), gating do panel physician medical exam pré-visa stamping. Adicionado como Top-3 ação Phase 0
+- Top 3 ações esta semana (semana 1 de Mai/2026):
+  1. Marcar consulta com advogado de imigração US (USD 300-600) — gating do plano inteiro
+  2. Solicitar emissão do diploma na universidade — gating do dossiê
+  3. Levantar carteirinhas de vacinação + consulta médica — Hep B lead time crítico
+- analytical conversations leading to the plan (filed only as conversation, not as separate wiki pages):
+  - "Análise sincera da carteira" → identificou 3 problemas estruturais (concentração financeira, growth bucket FP super-dimensionado vs 13% YoY, ausência de RF) e R$ 7.6k reserva como risco maior que qualquer item de portfolio
+  - "Faz sentido financeiramente mudar vs FP exit?" → resposta: salário US composto 5 anos > qualquer cenário plausível de exit FP para stake atual; B2B em ritmo reforça FP mas não inverte ranking
+  - "$130k é viável e como fica QoL?" → break-even ano 1 em cidade médio-tier, positivo ano 2-3; HCOL inviável a $130k
+  - "B1 → C1 timeline + TOEFL vs IELTS" → C1 24-30 meses realista; chega nos EUA B2-forte/C1-emergente; IELTS é dominant choice por cobrir Canadá EE também
+  - "Pós-graduação atrapalha?" → não materialmente; bacharel + 15 anos cobre EB2 trivialmente; pós ranqueia 4º-5º em ROI vs. alternativas
+- new feedback memory considered: passive-income floor já capturado em sessão anterior (full burn vs essential-only)
+- pattern noted: a sessão de hoje converteu múltiplas conversas analíticas em um único living planning doc no raw/, espelhando a convenção do Finances.md. Este pattern (consolidação de análise em planning doc raw → single source page no wiki) deve ser repetido para futuros planos multi-fase.

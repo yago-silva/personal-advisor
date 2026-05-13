@@ -8,6 +8,7 @@ sources:
   - "[[Source: Goals]]"
   - "[[Source: Finances]]"
   - "[[Source: Career]]"
+  - "[[Source: Relocation Plan]]"
 ---
 
 # Financial Goals
@@ -27,10 +28,29 @@ Active goal stack from [[Source: Finances]] plus aspirational ceilings from [[So
 
 ## Medium-term (12–24 months)
 
-- [ ] Emergency reserve = 6 months of expenses (**~R$ 103,924** at the new R$ 17.3k/mo burn). Reachable ~Aug/2027 from cash-flow surplus alone.
-- [ ] Diversify portfolio: reduce single-country exposure below 70%.
-- [ ] Decision framework documented for the apartment in a relocation scenario — see [[International Relocation]].
-- [ ] First international comp negotiated with realistic floor (cost-of-living + relocation costs).
+- [ ] Emergency reserve = 6 months of expenses (**~R$ 103,924** at the new R$ 17.3k/mo burn). **Reachable Ago/2027** alinhado com [[Source: Relocation Plan]] Phase 2.
+- [ ] Diversify portfolio: reduce single-country exposure below 70% — via rotação para USD começando Jan/2027 (Phase 1 do plano).
+- [ ] **Apartment strategy locked 2026-05-04**: alugar durante ano 1 abroad, decisão de venda Set/2029 (ver [[International Relocation]]).
+- [ ] First international comp negotiated — alvo realista USD 130-160k em cidade médio-tier (Phase 2, oferta Mai/2028).
+
+## FX hedge milestones (alinhados ao plano de [[International Relocation]])
+
+| Data | USD acumulado alvo | Phase |
+|------|--------------------|-------|
+| Jun/2026 | Conta USD aberta (Avenue/Wise); R$ 2k/mês recurring | 0 |
+| Out/2026 | R$ 14-19k acumulados | 0 |
+| Abr/2027 | R$ 60-70k (rotação portfolio começa Jan/2027) | 1 |
+| Out/2027 | R$ 90k | 2 |
+| Abr/2028 | R$ 130k | 2 |
+| Pré-mudança Jul/2028 | R$ 200k | 3 |
+| **Landing Out/2028** | **USD 46k = ~R$ 230k** | 3 |
+
+## Landing capital target
+
+- **Alvo de capital líquido USD pré-mudança**: USD 46k (≈ R$ 230k a R$ 5/USD)
+- **Composição**: 50% USD acumulado em hedge + 50% rotação portfolio + venda BMW
+- **Cobertura**: 3-5 meses de burn US em cidade médio-tier (USD 4.5-5k/mês família 3)
+- **Sign-on negociado**: USD 25-40k earmarked relocação (cobre ~80% dos custos de mudança)
 
 ## Long-term (5+ years)
 

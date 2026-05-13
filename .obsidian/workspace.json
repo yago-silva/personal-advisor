@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "898fa939d6210bc2",
+        "id": "90c0e0dbc551942e",
         "type": "tabs",
         "children": [
           {
-            "id": "485991f8434646dd",
+            "id": "45ce592f93ca3262",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "raw/journal/Finances.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Finances"
+              "title": "Nova aba"
             }
           }
         ]
@@ -183,26 +179,31 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "485991f8434646dd",
+  "active": "45ce592f93ca3262",
   "lastOpenFiles": [
-    "wiki/self/financial-goals.md.tmp.86551.1777935324644",
-    "log.md.tmp.86551.1777935203413",
-    "wiki/projects/joint-plans.md.tmp.86551.1777935176393",
-    "wiki/career/fluencypass.md.tmp.86551.1777935169708",
-    "wiki/projects/international-relocation.md.tmp.86551.1777935154100",
-    "wiki/sources/finances.md.tmp.86551.1777935146139",
-    "wiki/sources/finances.md.tmp.86551.1777935119164",
-    "wiki/self/financial-goals.md.tmp.86551.1777935091570",
-    "wiki/self/finances.md.tmp.86551.1777935058582",
-    "wiki/self/finances.md.tmp.86551.1777935020287",
-    "wiki/self/finances.md.tmp.86551.1777935006684",
+    "wiki/people/lorena.md",
+    "raw/journal/Finances.md",
+    "raw/journal/Family/Daughter/Lorena's Identity.md",
+    "raw/journal/Family/Daughter/Lorena's Education.md",
+    "raw/journal/Identity.md",
+    "raw/journal/Goals.md",
+    "raw/journal/Plans/Relocation.md",
+    "raw/journal/Plans/Relocation.md.tmp.29234.1777995201384",
+    "index.md.tmp.86551.1777949592546",
+    "index.md.tmp.86551.1777949587144",
+    "log.md.tmp.86551.1777949579599",
+    "wiki/people/stephanie-career.md.tmp.86551.1777949529126",
+    "wiki/people/stephanie-career.md.tmp.86551.1777949508701",
+    "wiki/people/lorena-education.md.tmp.86551.1777949503705",
+    "wiki/self/financial-goals.md.tmp.86551.1777949474186",
+    "wiki/self/financial-goals.md.tmp.86551.1777949455856",
+    "wiki/projects/joint-plans.md.tmp.86551.1777949450144",
+    "wiki/sources/relocation-plan.md",
     "wiki/people/stephanie.md",
     "raw/journal/Investment Thesis.md",
     "wiki/self/investment-thesis.md",
     "wiki/sources/investment-thesis.md",
-    "raw/journal/Family/Daughter/Lorena's Education.md",
     "raw/journal/Family/Wife/Stephanie's Career.md",
-    "raw/journal/Finances.md",
     "raw/journal/Career.md",
     "wiki/projects/joint-plans.md",
     "wiki/people/lorena-education.md",
@@ -214,13 +215,8 @@
     "wiki/sources/stephanie-identity.md",
     "wiki/sources/career.md",
     "raw/journal/Family/Wife/Stephanie's Identity.md",
-    "raw/journal/Family/Daughter/Lorena's Identity.md",
-    "raw/journal/Identity.md",
     "raw/journal/Health.md",
-    "raw/journal/Goals.md",
     "raw/journal/Family/Wife.md",
-    "raw/journal/Family/Sem título.md",
-    "Family.md",
     "Sem título.canvas"
   ]
 }

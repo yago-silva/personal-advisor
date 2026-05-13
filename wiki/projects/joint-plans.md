@@ -3,10 +3,11 @@ title: Joint Plans
 type: project
 tags: [joint, family, stephanie, relocation, planning]
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-05-04
 sources:
   - "[[Source: Stephanie's Career]]"
   - "[[Source: Finances]]"
+  - "[[Source: Relocation Plan]]"
 ---
 
 # Joint Plans
@@ -32,7 +33,14 @@ This is information for joint discussion, not a recommendation. The decision of 
 ### [[International Relocation]]
 
 - **Status**: Stephanie aligned with relocating ([[Source: Stephanie's Career]]). Open to using nursing experience or starting a new career, including entry-level roles initially.
-- **Open joint items**: target country/city, schooling plan for [[Lorena]], language ramp timeline (both adults + Lorena), apartment sell vs rent, who departs first if needed.
+- **Plano locked 2026-05-04** (ver [[Source: Relocation Plan]]):
+  - Target landing **Out/2028**, US primário com Canadá fallback
+  - Cidade alvo: médio-tier (Austin/Tampa/Charlotte/Raleigh/Denver/Phoenix/Dallas)
+  - **Família viaja junta** — sem split-departure (decisão joint)
+  - **Apartamento alugado durante ano 1** (não vendido pré-mudança); decisão venda Set/2029
+- **Joint decisions ainda em aberto**:
+  - Cidade específica dentro de médio-tier (depende do mercado de trabalho onde Yago landar oferta)
+  - Schooling plan para [[Lorena]] (definir após cidade alvo, Q3/2027)
 
 ### Joint finances
 
@@ -51,9 +59,14 @@ This is information for joint discussion, not a recommendation. The decision of 
 
 ## Open questions for joint discussion
 
-- If Stephanie returns to work in Brazil at ~R$ 3k/mo, what enabling costs would actually materialize? (Transport, meals, anything else not yet listed?)
-- How is the apartment titled? Affects sale + tax mechanics during relocation.
-- Any path she'd want to explore for international credentialing (NCLEX-RN bridge, etc.)? **Boundary**: this is for her to consider; the question here is purely about joint-plan implications.
+- **Stephanie's career path lock-in (decisão Mar/2027)** — opções documentadas em [[Stephanie Career]]:
+  - NCLEX-RN bridge (2-3 anos pós-pouso, exige inglês alto): faz US estritamente melhor que Canadá
+  - Retreinamento em outra área (occupational therapy, healthcare admin)
+  - Role não-clínico inicial (qualquer função para destravar income)
+  - **Boundary**: a decisão é dela; o output joint é qual caminho afeta timing/destination do plano de relocação
+- If Stephanie returns to work in Brazil at ~R$ 3k/mo (cenário pré-relocação), what enabling costs would actually materialize? (Transport, meals, anything else not yet listed?)
+- How is the apartment titled? Affects sale + tax mechanics quando vier a venda Set/2029.
+- Cidade específica nos EUA (médio-tier) — dependerá da oferta que Yago receber em Phase 2; conversa em Q3/2027.
 
 ## Lint
 

@@ -3,123 +3,175 @@ title: International Relocation
 type: project
 tags: [relocation, career, fx, decision, eb2-niw, family]
 created: 2026-05-02
-updated: 2026-05-03
+updated: 2026-05-04
 sources:
   - "[[Source: Finances]]"
   - "[[Source: Career]]"
   - "[[Source: Stephanie's Career]]"
   - "[[Source: Lorena's Education]]"
+  - "[[Source: Relocation Plan]]"
 ---
 
 # International Relocation
 
-Active project. Yago is in active job search ([[Career History]]) with US/Canada explicitly on the table per his own open question. [[Stephanie]] aligned per [[Source: Stephanie's Career]]. Status moved from "operating thesis" (2026-05-02) to "active project, multi-fase" (2026-05-03).
+Active project, **fully sequenced as of 2026-05-04**. Yago e [[Stephanie]] aligned. Status moved from "operating thesis" (2026-05-02) to "active project, multi-fase" (2026-05-03) to **"phased plan locked, Phase 0 begins Mai/2026"** (2026-05-04). Plano completo vive em [[Source: Relocation Plan]] (raw/journal/Plans/Relocation.md).
 
-## Status
+## Status (2026-05-04)
 
-**Active project, phase 0** — information gathering and readiness building.
+**Active project, Phase 0 begins May 2026.**
 
-- **Yago**: actively looking for roles ≥R$ 45k/mo (Brazilian top-tier or remote international or relocation-paid)
-- **Stephanie**: aligned with relocating; flexible on role
-- **Lorena**: schooling needs a plan; English ramp needed
-- **Visa path**: EB2-NIW most discussed (research below); subject to current Brazil immigrant-visa pause
+- **Target landing**: **Outubro 2028** (US primário, EB2-NIW)
+- **Hedge**: Canadá Express Entry filed Q3/2026 (~R$ 6k); vira primário se pause Brasil persistir além Q1/2028
+- **Total investimento upfront**: ~R$ 230k espalhados em 30 meses
+- **Plano detalhado**: ver [[Source: Relocation Plan]]
 
-## Why it's an active project (not just a thesis)
+## Decisões locked (2026-05-04)
 
-- Apartment equity is the financial pivot (~R$ 217k = R$ 430k − R$ 213k)
-- USD/EUR exposure must be built **before** relocation — FX hedge is a now-problem
-- [[Stephanie]] is open to relocation; this resolves the largest prior unknown
-- Yago has 3 open questions (in [[Source: Career]]) that frame the decision
+1. **US primário, Canadá fallback paralelo.** EB2-NIW self-petition. Express Entry como hedge gratuito.
+2. **Apartamento alugado durante ano 1 abroad** (não vender pré-mudança); decisão de venda revisitada Set/2029.
+3. **Buy-in [[Fluencypass]] mantido até saída da empresa** (~Mai/2028). Pausar enquanto interno é sinalizar sócio desengajado. Acumulado R$ 132.5k fica parado sem cliff.
+4. **Inglês via Fluencypass + Praktika** (Yago + Stephanie, R$ 600/ano cada). Lorena: avaliação 2-3 meses para decidir minimal vs. imersão presencial.
+5. **IELTS Academic, não TOEFL.** Cobre Canadá EE (obrigatório) + dossiê US num único teste.
+6. **Sem pós-graduação só para credentialing.** ROI ruim vs. inglês/network/dossiê. Bacharel + 15 anos cobre EB2 trivialmente.
+7. **Cidade alvo: médio-tier** (Austin, Tampa, Charlotte, Raleigh, Denver, Phoenix, Dallas). HCOL descartado a $130k inicial.
+8. **Família viaja junta** — sem split-departure.
 
-## Yago's three open questions
+## Phased plan (resumo)
 
-1. Is working abroad (US or Canada) the best strategy?
-2. Is [[Fluencypass]] equity better than working abroad?
-3. IC vs management in the AI age — which is the smarter long-term decision?
+Detalhe completo em [[Source: Relocation Plan]].
 
-Question 1 frames this project; question 2 is the alternative-cost analysis; question 3 is independent of geography but co-loaded.
+| Phase | Período | Marco crítico | Estado fim de phase |
+|-------|---------|---------------|---------------------|
+| **0 — Foundation** | Mai-Out 2026 | Reserva 1 mês + advogado opinion + diploma solicitado + Hep B iniciado | R$ 17k reserva, R$ 14-19k USD |
+| **1 — Dossier + Hedge** | Nov 2026 - Abr 2027 | IELTS B2 (7.0+), I-140 dossier filable, 50% portfolio em USD | R$ 35-47k reserva, R$ 60-70k USD |
+| **2 — File + Lock** | Mai 2027 - Abr 2028 | I-140 filed, reserva 6m, oferta US assinada, Stephanie path locked | R$ 105k reserva, R$ 130k USD |
+| **3 — Move + Land** | Mai-Out 2028 | Visto, mudança, start date | USD 46k landing capital |
+| **4 — Stabilization** | Nov 2028 - Out 2029 | Ano 1 US, reserva USD 6m reconstruída | USD 101k |
+| **5 — Apt Decision** | Set 2029 | Vender ou continuar alugado | Vende → USD 137k total |
 
-## EB2-NIW research (2026-05-03)
+## Top 3 ações esta semana (Mai/2026 — semana 1)
+
+1. **Marcar consulta com advogado de imigração US** (USD 300-600). Gating do plano inteiro — sem opinião escrita sobre pause Brasil, todas as datas downstream são especulativas.
+2. **Solicitar emissão do diploma na universidade** (lead time 30-90+ dias). Sem diploma + WES, I-140 não é filable em Phase 1.
+3. **Levantar carteirinhas de vacinação família + consulta médica para mapear gaps** (Hep B série leva 6 meses).
+
+## Decision gates (consolidados)
+
+| Gate | Data | Acelera se | Aborta se |
+|------|------|------------|-----------|
+| Opinião advogado pause Brasil | Ago/2026 | NIW filable | Pause ≥24m + sem CRS |
+| Diploma emitido | Ago/2026 | Recebido | Universidade não responde + ouvidoria sem efeito |
+| Reserva 1 mês | Out/2026 | R$ 17k+ | <R$ 8k → Phase 0 estende |
+| IELTS Academic | Mar/2027 | 7.0+ | <6.5 → +6m slip |
+| Review dossiê I-140 | Abr/2027 | "Forte" | "Fraco" → Canadá |
+| Reserva 6 meses | Ago/2027 | R$ 104k | <R$ 70k → +6m slip |
+| Decisão I-140 | Q4/2027 | Aprovado | Negado → Canadá |
+| Oferta US assinada | Mai/2028 | ≥USD 130k TC | <USD 130k → renegocia |
+| Stephanie joint go/no-go | contínuo | Aligned | Retirada → para projeto |
+| Decisão venda apto | Set/2029 | Family settled | Mercado deprimido → segura |
+
+## EB2-NIW research (validado 2026-05-04)
 
 Yago's profile vs. EB2-NIW eligibility:
 
 | Requirement | Status | Notes |
 | --- | --- | --- |
-| Master's OR Bachelor's + 5 years progressive | **Bachelor's + 15y** | Easily meets the experience prong |
-| Demonstrated exceptional ability | **Moderate** | 3 publications (2015-16, dated); brand portfolio (Etsy/AB InBev/OLX); real metrics; AI/LLM production work. Gaps: no recent technical writing, no OSS, no talks |
-| Salary above peers | **Yes for BR market** | R$ 29k gross is upper percentile in Brazil |
+| Master's OR Bachelor's + 5 years progressive | **Bachelor's + 15y** ✓ | Easily meets the experience prong; pós **não é necessária** |
+| Demonstrated exceptional ability | **Moderate, ramping** | 3 publications (2015-16, dated); brand portfolio (Etsy/AB InBev/OLX); production AI/LLM. Phase 0-1 plan: build 6-10 articles + 1-2 OSS contributions + 1-2 talks |
+| Salary above peers | **Yes for BR market** | R$ 29k gross is upper percentile |
 | Work in national interest | **Plausible** | AI/LLM production is a well-trodden NIW path |
 
-**CRITICAL caveat**: per 2026-05-03 web research (single-source, must verify), US Department of State paused immigrant visa issuance for ~75 countries including Brazil as of Jan 21, 2026. I-140 filing still possible but consular processing on hold. **Verify with immigration lawyer** before filing.
+**CRITICAL caveat**: per 2026-05-03 web research (single-source, must verify), US Department of State pausou immigrant visa issuance para ~75 países incluindo Brasil em Jan 21, 2026. **Verify with immigration lawyer** in Phase 0 (Mai-Jul/2026). Hedge Canadá filed em Phase 1 garante caminho B se pause persistir.
 
-## Salary expectation if move succeeds
+## Salary expectation — calibrado realisticamente
 
-Per BLS 2024 + PayScale 2026:
+**Realistic first job (single, sem network forte)**: USD 130-160k total comp em cidade médio-tier. Ano 1 é break-even em qualidade de vida; ano 2-3 é onde aparece o ganho real (C1 consolidado + experiência US + network local destrava reentrevista para $180-220k+).
 
-- Mid (3-5y): $130-180k total comp
-- **Senior (5-8y): $180-280k total comp** ← Yago's likely range
-- Staff/Principal (8+y): $300-500k+ at top-tier companies
+| Tier | TC esperado | Cenário |
+|------|-------------|---------|
+| Realistic floor | $130k | Cidade médio-tier, B2 forte, sem network strong |
+| Realistic mid | $150-170k | Médio-tier, network alguma, B2 sólido |
+| Aggressive | $180-220k | C1 consolidado + network forte + dossiê acima da média |
+| FAANG | $250-400k+ | 6+ meses prep entrevistas, geralmente ano 2-3 não ano 1 |
 
-Realistic first-position USD comp for Yago: **$150-250k total comp**. Cost-of-living adjustment substantial — net real-terms gain ≈ 1.5-2× lifestyle plus much higher savings rate.
+Caminhos prioritários para primeiro emprego (ranqueados):
+1. Empresas BR com escritório US (Stone, Nubank, Inter US, Mercado Libre)
+2. Companies hiring para LATAM expansion (português é diferencial)
+3. Startups Series A-C com fundadores LATAM (Brex, Rappi US, Kavak)
+4. Consultorias (Thoughtworks, Globant, EPAM)
 
-## The apartment
+**HCOL descartado a $130k inicial.** SF/NY/Boston só viáveis com TC ≥ $200k.
 
-- Equity: R$ 217k.
-- **Timing risk**: forced sale = bad price. Yago's standing instruction in [[Finances]]: do not accept a plan assuming <90-day sale at fair value.
-- Sell vs. rent post-relocation: open question.
+## The apartment — strategy locked
 
-## Currency exposure
+- Equity: **R$ 217k** (R$ 430k value − R$ 213k debt)
+- **Strategy**: alugar durante ano 1, decisão de venda Set/2029
+- **Rationale**: não crystallizar pré-mudança porque relocação ainda pode reverter. R$ 1.4k/mês líquido ajuda no ano 1 US. Decisão data-driven Set/2029 com 12 meses de dados (gestão funciona? mercado valoriza? família settled?).
+- **Setup pré-mudança**: imobiliária com locação garantida (8-10% custo) ou family member confiável; primeiro inquilino fechado Mai-Jul/2028.
+- **Yago's standing instruction**: do not accept a plan assuming <90-day sale at fair value. Honored — venda só após 12+ meses.
 
-- Currently zero USD/EUR exposure.
-- Near-term goal in [[Financial Goals]]: begin USD-denominated savings (R$ 1,000+/mo → ETF/Wise) immediately.
+## Currency exposure — milestones
 
-## Timing constraints
+| Data | USD acumulado alvo |
+|------|--------------------|
+| Out/2026 | R$ 14-19k |
+| Abr/2027 | R$ 60-70k (rotação portfolio começa Jan/2027) |
+| Out/2027 | R$ 90k |
+| Abr/2028 | R$ 130k |
+| Pré-mudança Jul/2028 | R$ 200k |
+| Landing Out/2028 | USD 46k (R$ 230k) |
 
-The Rico parcelamento (see [[Finances]]) creates a hard schedule until **Mar/2027**:
+USD account: Avenue ou Wise, abrir em **Mai-Jun/2026**. R$ 2k/mês recurring transfer começa Jun/2026.
 
-- **Pre-Mar/2027**: monthly cash flow committed to Rico fatura. Relocation in this window means inheriting the BRL parcelamento commitment payable from abroad.
-- **Mar/2027 onward**: Rico clean; **~R$ 9.2k/mo** of clean surplus freed up (revised 2026-05-04 against the new R$ 17,320.70 burn baseline; was ~R$ 6.5k under the old R$ 20k estimate).
+## Family dependencies
 
-NIW realistic timeline (12-24 months for I-140 + variable wait for visa) **accidentally aligns with Mar/2027 Rico end** — financial readiness and visa readiness can converge.
+| Person | Status | Path |
+|--------|--------|------|
+| [[Yago]] | Plan owner | English B1→C1 (Mar/27 IELTS B2; C1 consolida pós-pouso); diploma retrieval Phase 0; dossier build Phase 0-1 |
+| [[Stephanie]] | **Aligned** (per [[Source: Stephanie's Career]]) | Path lock-in **Mar/2027**: NCLEX-RN bridge OU retreinamento OU não-clínico inicial. Boundary: advisor doesn't drive her career; ver [[Joint Plans]] |
+| [[Lorena]] | Plan owner ramps her | Praktika Kids minimal por 60 dias; decisão Set/2026 sobre imersão presencial. Schooling US plan starts Q3/2027. **No landing terá 13.5 anos** — final da janela ótima 11-13 |
 
-## Family dependencies (resolved to varying degrees, 2026-05-03)
+## Yago's three open questions (status 2026-05-04)
 
-| Person | Status |
-| --- | --- |
-| [[Stephanie]] | **Aligned.** Wants to work abroad; flexible on initial role. Boundary: advisor doesn't drive her career; see [[Joint Plans]]. |
-| [[Lorena]] | Schooling plan needed. English A1 ramp required (~12 months intensive). Recent school transition makes another transition <12m non-trivial. |
+1. **Is working abroad (US/Canadá) the best strategy?** — **Sim, financeiramente.** Salário US composto em 5 anos > qualquer cenário plausível de exit FP para a stake atual. Confirmado em análise comparativa 2026-05-04.
+2. **Is [[Fluencypass]] equity better than working abroad?** — **Não, mas mantém o buy-in até saída por sinalização partnership.** Acumulado fica parado sem cliff; pausa só no momento da assinatura da oferta US. B2B em ritmo reforça tese growth FP mas não inverte o ranking.
+3. **IC vs management in the AI age?** — **Independente de geografia.** IC em AI/LLM tem trajetória clara; decidir baseado em preferência pessoal, não no plano de relocação.
 
-## Yago's gaps (informational, not decision-blocking)
+## Yago's gaps (atualizado 2026-05-04)
 
-The 7 gap-questions from the 2026-05-03 EB2-NIW analysis are now mostly answered:
+| Gap | Severidade | Plano de fechamento | Phase |
+|-----|------------|---------------------|-------|
+| **Inglês B1 (vs C1)** | Alta | Praktika + FP curriculum 1-1.5h/dia; IELTS Mar/27 (B2); C1 consolida pós-pouso | 0-3 |
+| **Network US fraco** | Alta | 5 BR-em-tech entrevistas Out/26; LinkedIn outreach contínuo; eventos virtuais; viagens estratégicas | 0-2 |
+| **Dossiê NIW thin** | Média-Alta | 6-10 artigos + 1-2 OSS + 1-2 talks; cartas de recomendação Phase 1 | 0-1 |
+| **Diploma não retirado** (descoberto 2026-05-04) | Crítica | Solicitar emissão Mai/26; apostila + WES até Dez/26 | 0 |
+| **Vacinação incompleta** (descoberto 2026-05-04) | Média | Hep B série Jun/26 (lead time 6m); panel physician Q4/27-Q1/28 | 0-2 |
+| **Sem pós** | Baixa-Média | NÃO fechar (ROI ruim vs alternativas); exceção opcional Georgia Tech OMSCS se houver disciplina | — |
 
-| Gap | Status |
-| --- | --- |
-| Yago role/seniority/stack | ✓ Staff SWE; Java/Spring/AWS + AI/LLM |
-| English level | ⚠ B1 — must improve to B2+ for Staff-level US roles |
-| Education credential | ✓ Bachelor's; EB2-NIW path via experience |
-| Publications/awards | ⚠ 3 old articles; dossier light; needs strengthening |
-| Stephanie alignment | ✓ Aligned |
-| Stephanie career | ✓ Documented (see [[Stephanie Career]]) |
-| Lorena English | ⚠ A1; ramp plan needed |
+## Open decisions tracked (resolvidas e abertas)
 
-**Largest single career-readiness item: Yago's English ramp B1 → B2/C1 before international interviewing.**
+### Resolvidas 2026-05-04
+- ~~Apartamento sell vs. rent~~ → **Rent ano 1, decisão venda Set/2029**
+- ~~Buy-in pause vs. continue~~ → **Continue até saída**
+- ~~Inglês: curso pago vs. self-paced~~ → **FP + Praktika** (lean)
+- ~~Cambridge B2 vs. TOEFL vs. IELTS~~ → **IELTS Academic**
+- ~~Pós-graduação?~~ → **Não, exceto OMSCS opcional**
+- ~~US vs. Canadá~~ → **US primário, Canadá hedge**
+- ~~Cidade alvo~~ → **Médio-tier** (Austin/Tampa/Charlotte/Raleigh/Denver/Phoenix/Dallas)
 
-## Open decisions tracked
-
-- Sell vs. rent the apartment post-relocation
-- Tax cost of stock-portfolio liquidation if needed
-- Realistic comp floor (cost-of-living + relocation costs)
-- Schooling plan for [[Lorena]]
-- FX cost modeling if relocation lands before Mar/2027
-- **(new 2026-05-03)** Verify with US immigration lawyer: status of Brazil immigrant-visa pause, NIW filing strategy, target priority date
-- **(new 2026-05-03)** Yago's English ramp plan — intensive course + speaking practice schedule
-- **(2026-05-03, sharpened)** [[Fluencypass]] equity buy-in (R$ 2,500/mo, voluntary, no vesting/cliff): continue, pause, or unwind given relocation pull? Cumulative R$ 72,500 bought; current value R$ 72,500; Yago's own rule treats it as zero for planning. **Direct version of Yago's Q2** in [[Source: Career]]: "is [[Fluencypass]] equity better than working abroad?" Each month's R$ 2.5k displaces FX hedge / reserve / other priorities.
-- **(new 2026-05-03)** Stephanie's nursing credential portability path (NCLEX-RN bridge if she pursues nursing in US)
+### Ainda abertas
+- **Verify pause Brasil status** com advogado real (Mai-Jul/2026, gating de tudo)
+- Stephanie's path lock-in (NCLEX-RN bridge / retreinamento / não-clínico) — **decisão Mar/2027**
+- Lorena Praktika minimal vs. imersão presencial — **decisão Set/2026**
+- FX cost modeling se relocação landar antes de Mar/2027 (improvável dado o plano, mas track)
+- Yago's English ramp specific intensity adjustment se B2 não vier em Mar/27
 
 ## See also
 
-- [[Career History]] — Yago's full positioning and chronology
-- [[Joint Plans]] — joint decisions with Stephanie
+- [[Source: Relocation Plan]] — plano completo, living document
+- [[Career History]] — Yago's positioning
+- [[Joint Plans]] — joint decisions com Stephanie
 - [[Stephanie]], [[Lorena]] — family pages
-- [[Financial Goals]] — financial milestones
+- [[Financial Goals]] — milestones financeiros alinhados ao plano
+- [[Finances]] — base financeira, surplus, Rico schedule
+- [[Investment Thesis]] — bucket framework, FP equity context
