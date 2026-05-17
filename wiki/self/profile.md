@@ -27,7 +27,7 @@ Baseline personal data for Yago.
 
 ## Body
 
-See [[Health]].
+See [[wiki/self/health]].
 
 ## Work
 

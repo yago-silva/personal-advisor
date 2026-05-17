@@ -20,6 +20,6 @@ Sparse undated snapshot of basic body metrics. Highly incomplete relative to the
 
 ## Wiki updates
 
-- Created: [[Health]]
+- Created: [[wiki/sources/health]]
 - Linked from: [[Profile]]
 - Lint: page is data-thin; no resting HR, sleep, lifts, or labs. The wiki is currently blind to whether the ~R$ 1.5–2k/month wellness spend produces results.

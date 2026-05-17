@@ -5,7 +5,7 @@ Catalog of all wiki pages. Updated on every ingest.
 ## Self
 
 - [[Profile]] — biographical baseline; family + work + active thesis (3 sources)
-- [[Health]] — body metrics; data-thin given the wellness spend (2 sources)
+- [[wiki/self/health]] — body metrics; data-thin given the wellness spend (2 sources)
 - [[Finances]] — full balance sheet, cash flow, Rico schedule (Mai/2026 → Mar/2027), risks, standing instructions (2 sources)
 - [[Financial Goals]] — near/medium/long-term targets + R$ 45k income goal + aspirational ceilings (3 sources)
 - [[Investment Thesis]] — two-bucket framework: Barsi/AGF dividends + insider growth (FP only); FX-hedge orphan flagged (1 source)

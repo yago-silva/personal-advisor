@@ -11,10 +11,14 @@
             "id": "45ce592f93ca3262",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "raw/journal/Finances.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Finances"
             }
           }
         ]
@@ -179,15 +183,22 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "45ce592f93ca3262",
+  "active": "c0ae080390083695",
   "lastOpenFiles": [
+    "raw/journal/Health/body measures history",
+    "raw/journal/Plans/Relocation.md",
+    "raw/journal/Health/Basic Infos.md",
+    "raw/journal/Health/planned diets history/May - Jun 2026.md",
+    "raw/journal/Health/workout history/May - Jun 2026.md",
+    "raw/journal/Health/planned diets history",
+    "raw/journal/Health/workout history",
+    "raw/journal/Health",
     "wiki/people/lorena.md",
     "raw/journal/Finances.md",
     "raw/journal/Family/Daughter/Lorena's Identity.md",
     "raw/journal/Family/Daughter/Lorena's Education.md",
     "raw/journal/Identity.md",
     "raw/journal/Goals.md",
-    "raw/journal/Plans/Relocation.md",
     "raw/journal/Plans/Relocation.md.tmp.29234.1777995201384",
     "index.md.tmp.86551.1777949592546",
     "index.md.tmp.86551.1777949587144",
@@ -195,9 +206,6 @@
     "wiki/people/stephanie-career.md.tmp.86551.1777949529126",
     "wiki/people/stephanie-career.md.tmp.86551.1777949508701",
     "wiki/people/lorena-education.md.tmp.86551.1777949503705",
-    "wiki/self/financial-goals.md.tmp.86551.1777949474186",
-    "wiki/self/financial-goals.md.tmp.86551.1777949455856",
-    "wiki/projects/joint-plans.md.tmp.86551.1777949450144",
     "wiki/sources/relocation-plan.md",
     "wiki/people/stephanie.md",
     "raw/journal/Investment Thesis.md",
@@ -213,10 +221,6 @@
     "wiki/sources/lorena-identity.md",
     "wiki/sources/stephanie-career.md",
     "wiki/sources/stephanie-identity.md",
-    "wiki/sources/career.md",
-    "raw/journal/Family/Wife/Stephanie's Identity.md",
-    "raw/journal/Health.md",
-    "raw/journal/Family/Wife.md",
     "Sem título.canvas"
   ]
 }
