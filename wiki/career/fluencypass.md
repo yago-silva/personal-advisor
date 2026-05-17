@@ -3,7 +3,7 @@ title: Fluencypass
 type: career
 tags: [employer, equity, income, role, partnership, ai-llm, edtech]
 created: 2026-05-02
-updated: 2026-05-04
+updated: 2026-05-17
 sources:
   - "[[Source: Finances]]"
   - "[[Source: Career]]"
@@ -51,31 +51,26 @@ First documented in [[Source: Investment Thesis]] (2026-05-04). Growth data adde
 - **Tenure**: Nov 2023 – present (2y 7m as of May 2026 — current longest tenure of the past decade)
 - **Scope**: owns software architecture and platform evolution — e-commerce, auth, payments, video streaming, LMS, AI features. Technical reference for system design, scalability, HA decisions.
 
-## Compensation structure (clarified 2026-05-03)
+## Compensation structure (clarified 2026-05-03; restructured 2026-05-17)
 
-| Component | R$/mo | Notes |
+| Component | Until Jun/2026 | From Jul/2026 (planned) |
 | --- | --- | --- |
-| PJ invoice gross | 31,500 | full PJ contract value |
-| Equity buy-in (auto) | −2,500 | voluntary opt-in; partnership program |
-| Effective gross | 29,000 | what reaches Yago's hands |
-| Net (after PJ taxes) | **26,500** | this is the inflow used in [[Finances]] |
+| PJ invoice gross | 31,500 | 40,000 |
+| Equity buy-in (auto) | −2,500 | 0 |
+| Effective gross | 29,000 | 39,200 ⚠️ |
+| Net (after PJ taxes) | **26,500** | **36,500** |
+
+> ⚠️ **R$ 800/mo reconciliation gap (Jul/2026+)**: PJ 40,000 − buy-in 0 = 40,000, but documented Gross-to-account is R$ 39,200 (per `Total Ganho No Ano` Jul–Dez Salário). Confirm whether PJ invoice should be R$ 39,200 or there's a new R$ 800 deduction. See [[Finances]] inflow table.
 
 ### Equity position
 
-- **Cumulative bought**: R$ 72,500 (since Nov 2023, ~30 months × R$ 2,500)
+- **Cumulative bought**: **R$ 75,000** (30 × R$ 2,500 from Dez/2023 to Mai/2026, per Aportes Fluencypass sheet)
+- **Current value**: R$ 75,000 (at par; was R$ 72,500 pre-Mai/2026 — May aporte closed the gap that previously suggested either timing mismatch or ~3% unrealized loss)
+- **From Jul/2026**: buy-in stops (goes to zero in the restructured PJ contract) — cumulative parked at R$ 75,000
 - **Vesting**: none — Yago owns each month's purchase day-one
 - **Cliff**: none — leaving Fluencypass does not forfeit the equity
 - **Liquidity**: illiquid until a Fluencypass liquidity event (sale, IPO, etc.)
 - **Per Yago's standing rule** ([[Finances]]): treat as zero for decision-grade net worth
-
-### Math check
-
-30 months × R$ 2,500 = R$ 75,000 bought; current value R$ 72,500. Two possibilities (worth confirming):
-
-- Yago started ~29 months ago (1 month after Nov 2023 start) → R$ 72,500 ≈ 29 × R$ 2,500
-- ~3% unrealized loss on the position
-
-If it's the second case, that's data for Yago's open Q2 in [[Source: Career]] ("is Fluencypass equity better than working abroad?").
 
 ## PJ structure
 
@@ -127,7 +122,7 @@ FP's current internal valuation used to set the buy-in price is still not docume
 
 ## Notable financial reconciliation (resolved 2026-05-03)
 
-The R$ 2,500/mo equity buy-in was a meaningful line not initially broken out in [[Finances]]. **Resolved**: the buy-in is taken at source before cash reaches Yago, so it is **not** in the burn — the cash-flow profile in [[Finances]] (now at the replanned R$ 17,320.70/mo burn) is correct as written. Buy-in is forced savings into illiquid equity, not a recurring outflow.
+The R$ 2,500/mo equity buy-in was a meaningful line not initially broken out in [[Finances]]. **Resolved**: the buy-in is taken at source before cash reaches Yago, so it is **not** in the burn — the cash-flow profile in [[Finances]] (now at the replanned R$ 17,970.70/mo burn) is correct as written. Buy-in is forced savings into illiquid equity, not a recurring outflow. **Note (2026-05-17)**: from Jul/2026 the buy-in stops; the R$ 75k cumulative remains parked but the growth thesis adds no new monthly capital.
 
 ## Open follow-ups
 

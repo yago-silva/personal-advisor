@@ -165,6 +165,35 @@ Chronological record of wiki activity. Append-only. Each entry starts with `## [
   - Long-term passive-income floor explicitly tied to **essential-only** (R$ 8,454/mo) per the new bucket split, not full burn — meaningful softening of the long-term target.
 - consistency note: total Rico scheduled now slightly **exceeds** balance (R$ 42,980 vs R$ 42,800 = ~R$ 180 over). Previously schedule was under balance by ~R$ 1.7k. Worth confirming on next actual fatura whether this is interest-absorbed or a small estimation gap.
 
+## [2026-05-17] re-ingest | Finances.md refreshed from XLSX (Patrimônio + Planejamento de Gastos) + consistency pass
+- raw/journal/Finances.md updated from two spreadsheets (`Patrimônio Líquido.xlsx`, `2026 - Planejamento de Gastos.xls (2).xlsx`); subsequent review pass corrected 9 inline inconsistencies
+- pages updated: [[Source: Finances]], [[Finances]], [[Financial Goals]], [[Investment Thesis]], [[Fluencypass]], [[International Relocation]], [[Joint Plans]], [[Index]]
+- key factual updates:
+  - **Net worth R$ 491,227.23** (was R$ 484,615.81). Gross assets R$ 751,893.95 / liabilities R$ 260,666.72.
+  - **Stock portfolio R$ 131,402.17** (was R$ 137,398.21 — down ~R$ 6k). Per-ticker breakdown flagged as stale (spreadsheets carry only aggregate).
+  - **FP equity at par**: cumulative R$ 75,000 = current value R$ 75,000 (30 × R$ 2,500 Dez/2023 → Mai/2026 per Aportes sheet). Resolves the prior "~3% loss or timing mismatch" math-check open question on [[Fluencypass]].
+  - **CC provision R$ 18,910.73** (was R$ 5,017.60) — significantly larger sinking fund vs Rico; 40% provisionado.
+  - **Rico balance R$ 47,666.72** (was R$ 42,800); cronograma refreshed against new balance (Mai R$ 18,031.45, Jun R$ 7,720, rest unchanged); total R$ 47,763.35.
+  - **New asset row**: investment account cash R$ 847.11.
+  - **Burn replanned R$ 17,970.70/mo** (was R$ 17,320.70; +R$ 650). Changes: Suplementos R$ 600 → R$ 1,000 (disc.); new Remédios R$ 250 (essential). New split: essential R$ 8,704 / discretionary R$ 9,266.70.
+  - **Reserve targets bumped**: 3m R$ 26,112 / R$ 53,912; 6m R$ 52,224 / R$ 107,824; 12m R$ 104,448 / R$ 215,648.
+  - **Planned Jul/2026 salary jump**: PJ Invoice 31,500 → 40,000, buy-in 2,500 → 0, net R$ 26,500 → R$ 36,500 (⚠️ R$ 800/mo reconciliation gap pending vs documented Gross R$ 39,200).
+  - **2026 reserve-build plan**: R$ 107,500 earmarked (per `Investimentos Planejados` sheet) — Jul–Dez at R$ 14,800–18,500/mo. Conditional on income jump landing.
+  - **Effective NW ex-apt/FP**: R$ ~102k → **R$ ~111.3k**.
+- consistency-pass corrections applied to the raw file:
+  - "0.48% of net worth" → "0.48% of stock portfolio (0.13% of net worth)" — the percentage refers to portfolio yield, not NW.
+  - Concentration: "72% in two financial-sector names" listing 3 tickers → "~83% in three financial-sector names" (BBAS3 + CXSE3 + BBSE3).
+  - Cumulative buy-in "R$ 75.5k" → "R$ 75,000" (matches Aportes sheet exactly).
+  - Reserve targets column "Discretionary" had values matching full-burn math → renamed to "Full burn".
+  - Risk row "R$ 7600" → "R$ 7,834"; "R$ 42k... partially provisioned" → "R$ 47,7k gross; R$ 18,9k provisionado (40%)"; "Thin monthly surplus" scoped to Mai–Jun/2026 only.
+  - Long-term FI: "essential monthly burn" → "full monthly burn" (aligned with `feedback-passive-income-full-burn` memory).
+  - Inline ⚠️ added at the unreconciled R$ 800/mo gap for Jul/2026+.
+- analytical implications:
+  - Surplus capacity nearly doubles from Jul/2026 (planned): R$ 8.5k/mo → R$ 18.5k/mo ex-Rico. The 6-month reserve target becomes reachable Q1/2027 (vs Ago/2027 in the [[International Relocation]] locked plan, which still holds as conservative fallback).
+  - With buy-in stopping Jul/2026, the [[Investment Thesis|growth bucket]] adds zero new monthly capital — "continue buy-in until exit" decision is effectively executed by contract restructuring rather than by Yago's unilateral choice.
+  - Mai/2026 cash deficit widens to R$ 9.5k after Rico Mai revision; covered by the larger CC provision (R$ 18.9k) without portfolio liquidation.
+- new risk added: **Income-jump dependency (Jul/2026)** at Medium — the 2026 reserve-build plan is conditional on the R$ 36.5k net materializing.
+
 ## [2026-05-04] ingest | raw/journal/Plans/Relocation.md (NEW — comprehensive 30-month relocation plan)
 - pages created (sources): [[Source: Relocation Plan]]
 - pages updated (wiki): [[International Relocation]] (full integration: 6 phases, decision gates, decisions locked, top-3 actions, salary calibration to $130-150k initial, gaps revised), [[Joint Plans]] (Stephanie path lock-in date Mar/2027 + apartment strategy locked rent year 1), [[Financial Goals]] (FX hedge milestones table, landing capital target, reserve trajectory aligned to phases), [[Lorena Education]] (Praktika decision gate Set/2026 + English ramp plan + ESL adaptation expectations), [[Stephanie Career]] (NCLEX-RN bridge / retreinamento / non-clinical options + CGFNS requirement noted), [[Index]] (new source pointer)

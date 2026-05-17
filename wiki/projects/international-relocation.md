@@ -3,7 +3,7 @@ title: International Relocation
 type: project
 tags: [relocation, career, fx, decision, eb2-niw, family]
 created: 2026-05-02
-updated: 2026-05-04
+updated: 2026-05-17
 sources:
   - "[[Source: Finances]]"
   - "[[Source: Career]]"
@@ -15,6 +15,17 @@ sources:
 # International Relocation
 
 Active project, **fully sequenced as of 2026-05-04**. Yago e [[Stephanie]] aligned. Status moved from "operating thesis" (2026-05-02) to "active project, multi-fase" (2026-05-03) to **"phased plan locked, Phase 0 begins Mai/2026"** (2026-05-04). Plano completo vive em [[Source: Relocation Plan]] (raw/journal/Plans/Relocation.md).
+
+## Update — 2026-05-17 (financial inputs refreshed)
+
+The phased plan (locked 2026-05-04) was anchored to R$ 26.5k/mo net inflow. The 2026-05-17 [[Finances]] refresh documents a **planned Jul/2026 salary jump to R$ 36.5k/mo net** (PJ 40k + buy-in 0; ⚠️ R$ 800/mo reconciliation gap pending). If the jump lands as documented:
+
+- Surplus capacity ex-Rico ~doubles (R$ 8.5k → R$ 18.5k/mo) from Jul/2026.
+- 1-month reserve target hits Jul/2026 (vs Out/2026 in the locked plan).
+- 6-month reserve target reachable Q1/2027 (vs Ago/2027).
+- USD hedge can ramp more aggressively in Phase 1.
+
+Phase plan dates **not** rebased yet — they hold as conservative fallbacks. New burn baseline is R$ 17,970.70/mo (was R$ 17,320.70). Plan gates updated cosmetically (R$ 17k → R$ 18k for 1-month milestone; 6-month full-burn target R$ 107,824 vs R$ 103,924).
 
 ## Status (2026-05-04)
 
@@ -29,7 +40,7 @@ Active project, **fully sequenced as of 2026-05-04**. Yago e [[Stephanie]] align
 
 1. **US primário, Canadá fallback paralelo.** EB2-NIW self-petition. Express Entry como hedge gratuito.
 2. **Apartamento alugado durante ano 1 abroad** (não vender pré-mudança); decisão de venda revisitada Set/2029.
-3. **Buy-in [[Fluencypass]] mantido até saída da empresa** (~Mai/2028). Pausar enquanto interno é sinalizar sócio desengajado. Acumulado R$ 132.5k fica parado sem cliff.
+3. **Buy-in [[Fluencypass]] mantido até saída da empresa** (~Mai/2028). Pausar enquanto interno é sinalizar sócio desengajado. **Atualização 2026-05-17**: o buy-in de R$ 2,5k/mo terminou de fato em Jun/2026 — a partir de Jul/2026 a estrutura PJ vira 40k + buy-in 0 (ver [[Finances]]). Acumulado de **R$ 75k** fica parado sem cliff. A decisão "manter até saída" foi efetivamente executada por restruturação do contrato, não por escolha unilateral de pausa.
 4. **Inglês via Fluencypass + Praktika** (Yago + Stephanie, R$ 600/ano cada). Lorena: avaliação 2-3 meses para decidir minimal vs. imersão presencial.
 5. **IELTS Academic, não TOEFL.** Cobre Canadá EE (obrigatório) + dossiê US num único teste.
 6. **Sem pós-graduação só para credentialing.** ROI ruim vs. inglês/network/dossiê. Bacharel + 15 anos cobre EB2 trivialmente.
@@ -42,7 +53,7 @@ Detalhe completo em [[Source: Relocation Plan]].
 
 | Phase | Período | Marco crítico | Estado fim de phase |
 |-------|---------|---------------|---------------------|
-| **0 — Foundation** | Mai-Out 2026 | Reserva 1 mês + advogado opinion + diploma solicitado + Hep B iniciado | R$ 17k reserva, R$ 14-19k USD |
+| **0 — Foundation** | Mai-Out 2026 | Reserva 1 mês + advogado opinion + diploma solicitado + Hep B iniciado | R$ 18k reserva, R$ 14-19k USD |
 | **1 — Dossier + Hedge** | Nov 2026 - Abr 2027 | IELTS B2 (7.0+), I-140 dossier filable, 50% portfolio em USD | R$ 35-47k reserva, R$ 60-70k USD |
 | **2 — File + Lock** | Mai 2027 - Abr 2028 | I-140 filed, reserva 6m, oferta US assinada, Stephanie path locked | R$ 105k reserva, R$ 130k USD |
 | **3 — Move + Land** | Mai-Out 2028 | Visto, mudança, start date | USD 46k landing capital |
@@ -61,10 +72,10 @@ Detalhe completo em [[Source: Relocation Plan]].
 |------|------|------------|-----------|
 | Opinião advogado pause Brasil | Ago/2026 | NIW filable | Pause ≥24m + sem CRS |
 | Diploma emitido | Ago/2026 | Recebido | Universidade não responde + ouvidoria sem efeito |
-| Reserva 1 mês | Out/2026 | R$ 17k+ | <R$ 8k → Phase 0 estende |
+| Reserva 1 mês | Out/2026 | R$ 18k+ | <R$ 8k → Phase 0 estende |
 | IELTS Academic | Mar/2027 | 7.0+ | <6.5 → +6m slip |
 | Review dossiê I-140 | Abr/2027 | "Forte" | "Fraco" → Canadá |
-| Reserva 6 meses | Ago/2027 | R$ 104k | <R$ 70k → +6m slip |
+| Reserva 6 meses | Ago/2027 | R$ 108k (full-burn) | <R$ 70k → +6m slip |
 | Decisão I-140 | Q4/2027 | Aprovado | Negado → Canadá |
 | Oferta US assinada | Mai/2028 | ≥USD 130k TC | <USD 130k → renegocia |
 | Stephanie joint go/no-go | contínuo | Aligned | Retirada → para projeto |

@@ -3,7 +3,7 @@ title: Investment Thesis
 type: self
 tags: [investment, philosophy, portfolio, dividend, growth, barsi, fluencypass]
 created: 2026-05-04
-updated: 2026-05-04
+updated: 2026-05-17
 sources:
   - "[[Source: Investment Thesis]]"
 ---
@@ -16,7 +16,7 @@ Yago's explicit framework for how the [[Finances|portfolio]] is constructed. Two
 
 **Philosophy**: Luiz Barsi / [AGF (Ações Garantem o Futuro)](https://acoesgarantem.com.br/) methodology. Focus on **consistent monthly dividend income** from stable, mature public companies with modest but durable growth.
 
-**Holdings**: 100% of the public stock portfolio (R$ 137k).
+**Holdings**: 100% of the public stock portfolio (**R$ 131.4k** as of 2026-05-17; was R$ 137k earlier in May).
 
 | Ticker | Position | Sector |
 | --- | --- | --- |
@@ -25,7 +25,7 @@ Yago's explicit framework for how the [[Finances|portfolio]] is constructed. Two
 | ISAE4 | R$ 23,283 | Energy transmission (ISA Energia) |
 | BBSE3 | R$ 15,551 | Insurance (BB Seguridade) |
 
-**Why the concentration is intentional, not accidental**: the [[Finances]] risk assessment flags "Portfolio concentration (4 names, 1 country, financial-sector heavy)" as Medium severity. Per [[Source: Investment Thesis]], this concentration is a deliberate methodology choice — Barsi-style focuses on a small number of dividend-paying blue chips. The risk is real, but Yago has selected it knowingly.
+**Why the concentration is intentional, not accidental**: the [[Finances]] risk assessment flags "Portfolio concentration (4 names, 1 country, ~83% financial-sector)" as Medium severity. Per [[Source: Investment Thesis]], this concentration is a deliberate methodology choice — Barsi-style focuses on a small number of dividend-paying blue chips. The risk is real, but Yago has selected it knowingly. (2026-05-17 correction: concentration figure had been mis-stated as "72% in two names"; the actual exposure is ~83% across three financial-sector tickers — BBAS3 + CXSE3 + BBSE3.)
 
 **Tension to surface**: while the concentration is intentional, it does **not** address the FX hedge gap flagged High in [[Finances]]. Barsi methodology is BRL-denominated by design — it doesn't conflict with USD diversification, but it also doesn't deliver it. The [[International Relocation]] thesis still requires a separate USD allocation.
 
@@ -33,7 +33,7 @@ Yago's explicit framework for how the [[Finances|portfolio]] is constructed. Two
 
 **Philosophy**: invest in companies where Yago has **deep insider knowledge** of operations and current state, and which have **strong growth potential**. The information advantage justifies bypassing public-market diversification.
 
-**Holdings**: [[Fluencypass]] equity only — R$ 75k cumulative buy-in (current value R$ 72.5k).
+**Holdings**: [[Fluencypass]] equity only — **R$ 75k cumulative buy-in, current value R$ 75k** (at par as of 2026-05-17; per Aportes sheet: 30 × R$ 2,500 Dez/2023 → Mai/2026). From Jul/2026 the buy-in goes to zero per the new salary structure (see [[Finances]] cash flow) — growth bucket effectively pauses adding new capital.
 
 This is the **entire growth bucket** of the portfolio. No other company qualifies under this thesis right now.
 
@@ -43,7 +43,7 @@ Per [[Source: Investment Thesis]] (2026-05-04), the dividend bucket is for month
 
 **Implications**:
 
-- The R$ 2,500/mo equity buy-in at [[Fluencypass]] is the **only growth position being added monthly**. Pausing the buy-in (per the open decision in [[Financial Goals]]) effectively pauses the entire growth thesis.
+- The R$ 2,500/mo equity buy-in at [[Fluencypass]] is the **only growth position being added monthly** — and **stops at Jul/2026** per the documented PJ restructuring (PJ 40k + buy-in 0 instead of PJ 31.5k − buy-in 2.5k). This effectively pauses the entire growth thesis from Jul/2026 onward, even though the cumulative R$ 75k stake stays parked.
 - Any "alternative growth bet" Yago might consider (e.g., another startup, tech ETF) would either: (a) need to qualify as "deep insider knowledge" under his own framing, or (b) require him to expand the thesis.
 - Public tech / growth ETFs (NASDAQ, IVVB11, etc.) **don't fit** either bucket as currently defined — they're neither high-yield dividend payers nor insider-knowledge growth bets. If FX hedge is added via S&P 500 / NASDAQ ETFs, that opens a **third bucket** the thesis doesn't yet name.
 

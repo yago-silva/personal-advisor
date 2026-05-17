@@ -3,7 +3,7 @@ title: Joint Plans
 type: project
 tags: [joint, family, stephanie, relocation, planning]
 created: 2026-05-03
-updated: 2026-05-04
+updated: 2026-05-17
 sources:
   - "[[Source: Stephanie's Career]]"
   - "[[Source: Finances]]"
@@ -24,7 +24,7 @@ Per [[Source: Finances]] "Family intersections" section (Yago's documentation, 2
   - Additional transport (amount not yet quantified)
   - [[Lorena]]'s school meals: +R$ 500/mo (presumably for days Stephanie can't pick her up)
   - Other potential costs (childcare, etc.) not yet documented
-- **Net effect estimate**: if Stephanie earns R$ 3k and enabling costs land at ~R$ 700–1k, household cash flow improves by ~R$ 2–2.3k/mo (~13% of the replanned R$ 17.3k/mo burn). Meaningful but not transformative.
+- **Net effect estimate**: if Stephanie earns R$ 3k and enabling costs land at ~R$ 700–1k, household cash flow improves by ~R$ 2–2.3k/mo (~12% of the 2026-05-17 R$ 17,970.70/mo burn). Meaningful but not transformative. Note: from Jul/2026 the FP salary jump (net R$ 26.5k → R$ 36.5k/mo, planned) adds ~R$ 10k/mo to household cash flow — ~4× larger than the Stephanie-returns-to-work scenario, while keeping the boundary intact (her decision, not advised on).
 
 This is information for joint discussion, not a recommendation. The decision of whether/when she returns to work is hers (per the [[Stephanie]] boundary).
 

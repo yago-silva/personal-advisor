@@ -3,7 +3,7 @@ title: Financial Goals
 type: self
 tags: [goals, finances, planning, income]
 created: 2026-05-02
-updated: 2026-05-04
+updated: 2026-05-17
 sources:
   - "[[Source: Goals]]"
   - "[[Source: Finances]]"
@@ -13,22 +13,22 @@ sources:
 
 # Financial Goals
 
-Active goal stack from [[Source: Finances]] plus aspirational ceilings from [[Source: Goals]] plus income target from [[Source: Career]]. Targets re-baselined 2026-05-04 against the new R$ 17,320.70/mo replanned burn (essential R$ 8,454 + discretionary R$ 8,866.70).
+Active goal stack from [[Source: Finances]] plus aspirational ceilings from [[Source: Goals]] plus income target from [[Source: Career]]. Targets re-baselined 2026-05-17 against the new R$ 17,970.70/mo replanned burn (essential R$ 8,704 + discretionary R$ 9,266.70). Yago documented a Jul/2026 income jump from R$ 26,500 net → R$ 36,500 net (planned, ⚠️ R$ 800/mo reconciliation gap pending — see [[Finances]]).
 
 ## Near-term (next 6 months)
 
-- [ ] Build emergency reserve to **R$ 17,320.70** (~1 month of expenses at the new R$ 17.3k/mo burn). Source per [[Source: Finances]]: redirect provisão flows + reduce discretionary.
-- [ ] **Land role at R$ 45k+/mo** (active search per [[Career History]]). Floor unchanged from Yago's framing in [[Source: Career]]. May be Brazilian top-tier employer, dollar-paid remote, or relocation.
-- **Rico (parcelada Mai/2026 → Mar/2027)** — schedule fixed in [[Finances]]; tracked commitment with **Mar/2027 anchor**. Total scheduled: R$ 42,980.34.
+- [ ] Build emergency reserve to **R$ 17,970.70** (~1 month of expenses at the new R$ 17.97k/mo burn). Per `Investimentos Planejados`: Mai R$ 200, Jun R$ 2,200, Jul R$ 16,800. **Target hit Jul/2026** if the Jul income jump lands.
+- [ ] **Land role at R$ 45k+/mo** (active search per [[Career History]]). Floor unchanged from Yago's framing in [[Source: Career]]. The Jul/2026 FP comp jump to R$ 36,500 net narrows this gap to ~R$ 8.5k.
+- **Rico (parcelada Mai/2026 → Mar/2027)** — cronograma refreshed 2026-05-17 against new balance (R$ 47,666.72). Total scheduled R$ 47,763.35; **Mar/2027 anchor** holds.
 - [ ] Begin USD-denominated savings — R$ 1,000+/month → ETF/Wise — to start the FX hedge.
 - [ ] Document [[Fluencypass]] equity terms (vesting, cliff, liquidity events).
-- [ ] **Decide on R$ 2,500/mo equity buy-in at [[Fluencypass]]**: continue, pause, or unwind. Resolved 2026-05-03: not in the burn (taken at source before cash reaches Yago). Decision is now a direct version of Q2 in [[Source: Career]] — "is [[Fluencypass]] equity better than working abroad?" Each R$ 2.5k to equity is R$ 2.5k not going to FX hedge, reserve, or other priorities.
+- [x] ~~Decide on R$ 2,500/mo equity buy-in~~ **Decided 2026-05-04 (per [[International Relocation]]): continue até saída da empresa**. Buy-in goes to zero from Jul/2026 per the new salary structure (PJ → 40k, buy-in → 0) — so the "continue until exit" decision is effectively executed at Jul/2026.
 
-**Note (2026-05-04):** the cumulative surplus Jun/2026 → Mar/2027 grew to **~R$ 64k** under the replanned R$ 17.3k burn (was ~R$ 37k under the old R$ 20k estimate). The 1-month reserve goal is cash-flow trivial; the medium-term 6-month goal becomes reachable in ~14 months without touching the portfolio. Mai/2026 still has a ~R$ 6.3k cash deficit (was R$ 8.3k) — covered by R$ 5k provision buffer + ~R$ 1.3k discretionary cut.
+**Note (2026-05-17):** Mai/2026 has a R$ 9.5k deficit (Rico spike R$ 18,031.45 + new burn), covered by the R$ 18,911 CC provision/sinking fund. From Jul/2026 surplus jumps to **~R$ 14.4–18.5k/mo** (vs ~R$ 0–7k pre-jump). The R$ 107,500 reserve-build plan for 2026 is feasible only if the Jul income jump materializes; otherwise the plan slips materially.
 
 ## Medium-term (12–24 months)
 
-- [ ] Emergency reserve = 6 months of expenses (**~R$ 103,924** at the new R$ 17.3k/mo burn). **Reachable Ago/2027** alinhado com [[Source: Relocation Plan]] Phase 2.
+- [ ] Emergency reserve = 6 months of expenses (**~R$ 107,824** at the new R$ 17.97k/mo burn — was R$ 103,924). **Reachable Q1/2027** se Jul income jump landar (R$ 107.5k earmarked Jul–Dez/2026 só); alinhado com [[Source: Relocation Plan]] Phase 2 (que ainda mira Ago/2027 como fallback conservador).
 - [ ] Diversify portfolio: reduce single-country exposure below 70% — via rotação para USD começando Jan/2027 (Phase 1 do plano).
 - [ ] **Apartment strategy locked 2026-05-04**: alugar durante ano 1 abroad, decisão de venda Set/2029 (ver [[International Relocation]]).
 - [ ] First international comp negotiated — alvo realista USD 130-160k em cidade médio-tier (Phase 2, oferta Mai/2028).
@@ -56,7 +56,7 @@ Active goal stack from [[Source: Finances]] plus aspirational ceilings from [[So
 
 - USD/EUR-denominated income as primary
 - Net worth excluding primary residence > R$ 1M equivalent
-- Passive income covering **full** monthly burn (~R$ 17,320.70/mo at the replanned baseline — essential R$ 8,454 + discretionary R$ 8,866.70). Yago's long-term floor is the full burn, not just the essential bucket — discretionary lifestyle (gyms, supplements, eating out, leisure) is part of what passive income should cover, not something to be cut to call the goal "met."
+- Passive income covering **full** monthly burn (~R$ 17,970.70/mo at the 2026-05-17 baseline — essential R$ 8,704 + discretionary R$ 9,266.70). Yago's long-term floor is the full burn, not just the essential bucket — discretionary lifestyle (gyms, supplements, eating out, leisure) is part of what passive income should cover, not something to be cut to call the goal "met."
 
 ## Aspirational ceilings (from [[Source: Goals]])
 
