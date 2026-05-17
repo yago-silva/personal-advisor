@@ -5,7 +5,7 @@ Catalog of all wiki pages. Updated on every ingest.
 ## Self
 
 - [[Profile]] — biographical baseline; family + work + active thesis (3 sources)
-- [[wiki/self/health]] — body metrics; data-thin given the wellness spend (2 sources)
+- [[wiki/self/health]] — body baseline + full pharmacological stack (TRT + Retatrutide + cardiovascular co-meds), May–Jun 2026 diet (3,500 kcal / 198g protein) and 8-week 5-day training cycle; lint reduced to measurements/labs gap (2 sources)
 - [[Finances]] — balance sheet refreshed 2026-05-17 (NW R$ 491k, burn R$ 17,970.70, Jul/2026 income jump to R$ 36.5k net planned), Rico cronograma R$ 47.7k (2 sources)
 - [[Financial Goals]] — near/medium/long-term targets re-baselined 2026-05-17; 6-month reserve target now R$ 107,824 (3 sources)
 - [[Investment Thesis]] — two-bucket framework: Barsi/AGF dividends (now ~83%/3 names) + insider growth (FP only, at par R$ 75k, monthly buy-in stops Jul/2026) (1 source)
@@ -43,4 +43,4 @@ _(no pages yet)_
 - [[Source: Lorena's Identity]] — biographical card; birthdate corrected (2026-05-03)
 - [[Source: Identity]] — Yago's profile snapshot
 - [[Source: Goals]] — financial goals note (overlaps with Finances)
-- [[Source: Health]] — body-metrics snapshot
+- [[Source: Health]] — Health/ directory (Basic Infos + planned diet May–Jun 2026 + 8-week workout starting 2026-05-15); Retatrutide added to stack (2026-05-17)

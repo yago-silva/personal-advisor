@@ -222,3 +222,16 @@ Chronological record of wiki activity. Append-only. Each entry starts with `## [
   - "Pós-graduação atrapalha?" → não materialmente; bacharel + 15 anos cobre EB2 trivialmente; pós ranqueia 4º-5º em ROI vs. alternativas
 - new feedback memory considered: passive-income floor já capturado em sessão anterior (full burn vs essential-only)
 - pattern noted: a sessão de hoje converteu múltiplas conversas analíticas em um único living planning doc no raw/, espelhando a convenção do Finances.md. Este pattern (consolidação de análise em planning doc raw → single source page no wiki) deve ser repetido para futuros planos multi-fase.
+
+## [2026-05-17] re-ingest | raw/journal/Health/ (directory restructure + Retatrutide + diet + 8-week training)
+- pages updated: [[Source: Health]] (source_path → directory; ingested 2026-05-17; full body rewritten), [[wiki/self/health]] (added pharmacological stack table, diet table, training-cycle table; lint trimmed to measurement/labs gap), [[Index]] (Health one-liner + Source: Health one-liner refreshed)
+- factual deltas vs prior snapshot:
+  - **Retatrutide 2 mg/week** added to `Basic Infos.md` under a new "Other Substances Used" section — first GLP-1/GIP/glucagon triple agonist on record in the wiki.
+  - **Planned diet May–Jun 2026** populated: ~3,500 kcal, 476 g C / 62 g F / 198 g P (~2.83 g/kg), creatine 5 g, multivitamin, omega-3, 3–4 L water.
+  - **Workout plan** renamed `May - Jun 2026.md` → `15 May - 15 Jun 2026.md` and now contains a full 8-week / 5-day program (Seg–Sex), with Week 1 starting loads logged for chest/back/arms days; legs (Qua) and Fri shoulders empty pending execution.
+  - **Body-measures folder** created but empty.
+- analytical notes:
+  - Cardiovascular co-medication (pitavastatina + nebivolol + natokinase) lines up with mitigating known TRT side effects (lipids/hematocrit/BP); supports the "medical supervision" framing as operationalised.
+  - Calorie target ~3,500 kcal at 70 kg is well above maintenance — paired with Retatrutide, the intent (clean lean-gain vs. recomposition) is not stated in source; flagged as open question, not assumed.
+  - Filename "15 May - 15 Jun 2026" describes an 8-week block; if the program truly runs 8 weeks, end date is ~10 Jul 2026 (1-month filename / cycle-length mismatch flagged on [[wiki/self/health]]).
+- lint state: prior "data-thin" lint is largely resolved on protocol/diet/training; remaining gaps recorded on both [[Source: Health]] and [[wiki/self/health]] are (a) no body-measures cadence yet, (b) no lab markers documented, (c) Qua + Sex load tables empty, (d) Retatrutide context (indication, prescriber, duration, exit) not yet captured.

@@ -9,3 +9,5 @@ Premise: I've decided to use hormones to build muscle. I know it can affect my h
 ## Used Hormones
 - Testosterone enanthate 250mg per week
 - Anastrozole 1,5mg per week
+## Other Substances Used
+- RETATRUTIDE 2mg per week
