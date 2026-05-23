@@ -35,9 +35,25 @@
 
 ## Career history
 
+### Yandeh — Staff Product Engineer
+
+**Jun 2026 – Present** · São Paulo (Itaim, hybrid 4 days/week presencial)
+
+[to fill in sector and product positioning once I'm onboarded.]
+
+**Scope:** [to fill in honestly once I start — owned platform, team, charter.]
+
+**Key shipped work:** [to fill in once there's real signal — first 90 days will dictate this.]
+
+**Comp:** PJ R$ 42.000/month + bonus up to 6x salaries tied to goals (conditional, proportional to start date and to permanence on payment date). Benefits: Flash R$ 1.100, Wellhub, SulAmérica Saúde Executivo R1 Apto (titular + deps), Allya, Day Off in birthday month, parental leave (gestation 180d / paternity 30d), mobility R$ 360, 24 days annual vacation. Full offer terms and decision narrative in `raw/journal/Plans/Job-Change-2026-06.md`.
+
+**Lesson:** [to fill in once there's real tenure — too early at signing.]
+
+---
+
 ### Fluencypass — Staff Software Engineer & Patner 
 
-**Nov 2023 – Present** · São Paulo · 2 years 7 months
+**Nov 2023 – Jun 2026** · São Paulo · 2 years 7 months
 
 EdTech: English courses + live conversation + study abroad + AI learning tools.
 
@@ -52,7 +68,7 @@ EdTech: English courses + live conversation + study abroad + AI learning tools.
 
 **Important**: Partner through partnership program (Buying R$ 2,500.00/month in Equity - like stock options)
 
-**Lesson:** [to fill in honestly — what has Fluencypass taught me that I didn't know before? what frustrates me? why am I looking?]
+**Lesson:** Why I'm leaving + what Fluencypass taught me — capturing in `raw/journal/Plans/Job-Change-2026-06.md` over the handoff window (May–Jun 2026).
 
 ---
 
@@ -231,10 +247,13 @@ Not direct related to software engineering. More related to computer networks
 
 ## Job search status
 
-- Active. Searching for jobs that can pay at least R$ 45,000.00/month
+- Closed 2026-05-22. Accepted Yandeh, starts 2026-06-15 (R$ 42.000 PJ base + conditional bonus up to 6x salaries). See `raw/journal/Plans/Job-Change-2026-06.md`.
+- Search-time floor was R$ 45.000/month. Yandeh base R$ 42k landed below that floor; bonus + benefits package + role context made the trade acceptable — narrative to unpack in the job-change doc.
 
 ## Open Questions
 
 1 - Is working abroad (like in the United States or Canada) the best strategy for me ?
 2 - Is Fluencypass Equity better than work abroad?
 3 - IC vs. management in the AI age: which is the smarter long-term decision?
+
+**Status 2026-05-22**: Q2 effectively resolved by the market — accepted Yandeh PJ R$ 42k without equity, ~2 years ahead of the planned FP exit (~May/2028 per `raw/journal/Plans/Relocation.md`). Q1 and Q3 remain open; the Yandeh role will give new signal on both.

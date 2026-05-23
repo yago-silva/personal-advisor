@@ -3,18 +3,42 @@ title: International Relocation
 type: project
 tags: [relocation, career, fx, decision, eb2-niw, family]
 created: 2026-05-02
-updated: 2026-05-17
+updated: 2026-05-22
 sources:
   - "[[Source: Finances]]"
   - "[[Source: Career]]"
   - "[[Source: Stephanie's Career]]"
   - "[[Source: Lorena's Education]]"
   - "[[Source: Relocation Plan]]"
+  - "[[Source: Job Change 2026-06]]"
+  - "[[Source: Yandeh PJ Proposal]]"
 ---
 
 # International Relocation
 
 Active project, **fully sequenced as of 2026-05-04**. Yago e [[Stephanie]] aligned. Status moved from "operating thesis" (2026-05-02) to "active project, multi-fase" (2026-05-03) to **"phased plan locked, Phase 0 begins Mai/2026"** (2026-05-04). Plano completo vive em [[Source: Relocation Plan]] (raw/journal/Plans/Relocation.md).
+
+## Update — 2026-05-22 (FP exit + [[Yandeh]] start)
+
+Yago aceitou [[Yandeh]] PJ R$ 42k começando 2026-06-15. **Sai da [[Fluencypass]] em 2026-06-12, ~2 anos antes do exit assumido no plano locked (Mai/2028)**. Implicações no plano sem rebasear datas:
+
+- **Decisão locked #3 ("Buy-in FP mantido até saída")**: honored 2 anos cedo, via market decision em vez da trajetória prevista. Buy-in efetivamente terminou Mai/2026 (último aporte); R$ 75k cumulativo segue parked.
+- **Decisão locked relacionada à "pausa buy-in só na assinatura da oferta US"**: superseded — a oferta foi Yandeh BR, não US. A racionalização "pausar enquanto interno é sócio desengajado" não se aplica mais.
+- **Inflow trajectory (Jul/2026+)**: passa a vir de Yandeh (~R$ 35–36k net estimado vs R$ 36.5k planejado FP). Surplus ex-Rico cai ~R$ 1k/mo vs cenário FP, mas: (a) benefícios Yandeh offset ~R$ 1.5–2.5k de burn, (b) bônus 6x salários é upside puro. **Reserve trajectory ainda dentro do plano** (R$ 107.5k earmarked 2026 segue atingível).
+- **Q2 das open questions de Yago** ("Is FP equity better than working abroad?"): **resolvida pela decisão de mercado** — aceitou cash PJ BR sem equity ~2 anos antes do exit US. R$ 75k stake fica como option-value; standing rule (treat as zero for planning) permanece.
+- **Gates downstream (English/IELTS, diploma, vacinação, USD hedge, Stephanie path, Lorena schooling)**: **nenhum afetado** pelo job change. Continuam como planejados.
+- **Yandeh como bridge ou terminal?** — open. Pode ser ponte de 12-24 meses até a oferta US (Phase 2) ou pode evoluir para algo que reposicione o plano. Aguardar 90 dias pós-onboarding para sinal.
+
+## Update — 2026-05-17 (financial inputs refreshed)
+
+The phased plan (locked 2026-05-04) was anchored to R$ 26.5k/mo net inflow. The 2026-05-17 [[Finances]] refresh documents a **planned Jul/2026 salary jump to R$ 36.5k/mo net** (PJ 40k + buy-in 0; ⚠️ R$ 800/mo reconciliation gap pending). ~~If the jump lands as documented~~ **[Superseded 2026-05-22 — see top section. The FP restructuring never executed; replaced by Yandeh PJ R$ 42k.]**:
+
+- Surplus capacity ex-Rico ~doubles (R$ 8.5k → R$ 18.5k/mo) from Jul/2026.
+- 1-month reserve target hits Jul/2026 (vs Out/2026 in the locked plan).
+- 6-month reserve target reachable Q1/2027 (vs Ago/2027).
+- USD hedge can ramp more aggressively in Phase 1.
+
+Phase plan dates **not** rebased yet — they hold as conservative fallbacks. New burn baseline is R$ 17,970.70/mo (was R$ 17,320.70). Plan gates updated cosmetically (R$ 17k → R$ 18k for 1-month milestone; 6-month full-burn target R$ 107,824 vs R$ 103,924).
 
 ## Update — 2026-05-17 (financial inputs refreshed)
 
@@ -40,7 +64,7 @@ Phase plan dates **not** rebased yet — they hold as conservative fallbacks. Ne
 
 1. **US primário, Canadá fallback paralelo.** EB2-NIW self-petition. Express Entry como hedge gratuito.
 2. **Apartamento alugado durante ano 1 abroad** (não vender pré-mudança); decisão de venda revisitada Set/2029.
-3. **Buy-in [[Fluencypass]] mantido até saída da empresa** (~Mai/2028). Pausar enquanto interno é sinalizar sócio desengajado. **Atualização 2026-05-17**: o buy-in de R$ 2,5k/mo terminou de fato em Jun/2026 — a partir de Jul/2026 a estrutura PJ vira 40k + buy-in 0 (ver [[Finances]]). Acumulado de **R$ 75k** fica parado sem cliff. A decisão "manter até saída" foi efetivamente executada por restruturação do contrato, não por escolha unilateral de pausa.
+3. **Buy-in [[Fluencypass]] mantido até saída da empresa** (~Mai/2028). Pausar enquanto interno é sinalizar sócio desengajado. ~~**Atualização 2026-05-17**: o buy-in de R$ 2,5k/mo terminou de fato em Jun/2026 — a partir de Jul/2026 a estrutura PJ vira 40k + buy-in 0~~ **Atualização 2026-05-22** (corrige a anterior): Yago aceitou [[Yandeh]] 2026-05-22 e sai da FP em 2026-06-12. O buy-in terminou Mai/2026 (último aporte), 2 anos antes do exit previsto. **R$ 75k cumulativo segue parado**, sem cliff. A decisão "manter até saída" foi honored, mas via job change — não via restruturação interna como anteriormente assumido.
 4. **Inglês via Fluencypass + Praktika** (Yago + Stephanie, R$ 600/ano cada). Lorena: avaliação 2-3 meses para decidir minimal vs. imersão presencial.
 5. **IELTS Academic, não TOEFL.** Cobre Canadá EE (obrigatório) + dossiê US num único teste.
 6. **Sem pós-graduação só para credentialing.** ROI ruim vs. inglês/network/dossiê. Bacharel + 15 anos cobre EB2 trivialmente.
@@ -142,11 +166,11 @@ USD account: Avenue ou Wise, abrir em **Mai-Jun/2026**. R$ 2k/mês recurring tra
 | [[Stephanie]] | **Aligned** (per [[Source: Stephanie's Career]]) | Path lock-in **Mar/2027**: NCLEX-RN bridge OU retreinamento OU não-clínico inicial. Boundary: advisor doesn't drive her career; ver [[Joint Plans]] |
 | [[Lorena]] | Plan owner ramps her | Praktika Kids minimal por 60 dias; decisão Set/2026 sobre imersão presencial. Schooling US plan starts Q3/2027. **No landing terá 13.5 anos** — final da janela ótima 11-13 |
 
-## Yago's three open questions (status 2026-05-04)
+## Yago's three open questions (status 2026-05-22)
 
-1. **Is working abroad (US/Canadá) the best strategy?** — **Sim, financeiramente.** Salário US composto em 5 anos > qualquer cenário plausível de exit FP para a stake atual. Confirmado em análise comparativa 2026-05-04.
-2. **Is [[Fluencypass]] equity better than working abroad?** — **Não, mas mantém o buy-in até saída por sinalização partnership.** Acumulado fica parado sem cliff; pausa só no momento da assinatura da oferta US. B2B em ritmo reforça tese growth FP mas não inverte o ranking.
-3. **IC vs management in the AI age?** — **Independente de geografia.** IC em AI/LLM tem trajetória clara; decidir baseado em preferência pessoal, não no plano de relocação.
+1. **Is working abroad (US/Canadá) the best strategy?** — **Sim, financeiramente.** Salário US composto em 5 anos > qualquer cenário plausível de exit FP para a stake atual. Confirmado em análise comparativa 2026-05-04. **A escolha por [[Yandeh]] BR em 2026-05-22 não inverte o ranking — é interpretada como bridge de 12–24 meses até a oferta US (Phase 2), não como recusa do plano.**
+2. **Is [[Fluencypass]] equity better than working abroad?** — **Resolved by market decision 2026-05-22**: Yago aceitou Yandeh PJ R$ 42k sem equity, ~2 anos antes do exit FP previsto. R$ 75k stake permanece parked (option-value, treat as zero for planning per standing rule em [[Finances]]).
+3. **IC vs management in the AI age?** — **Independente de geografia.** IC em AI/LLM tem trajetória clara; decidir baseado em preferência pessoal, não no plano de relocação. O cargo [[Yandeh]] "Staff Product Engineer" mantém o IC track; sinal sobre se isso continua adequado vem nos primeiros 90 dias.
 
 ## Yago's gaps (atualizado 2026-05-04)
 
@@ -176,6 +200,7 @@ USD account: Avenue ou Wise, abrir em **Mai-Jun/2026**. R$ 2k/mês recurring tra
 - Lorena Praktika minimal vs. imersão presencial — **decisão Set/2026**
 - FX cost modeling se relocação landar antes de Mar/2027 (improvável dado o plano, mas track)
 - Yago's English ramp specific intensity adjustment se B2 não vier em Mar/27
+- **[[Yandeh]] como bridge ou terminal?** (new 2026-05-22) — 90 dias pós-onboarding (até ~Set/2026) para sinal sobre scope, growth, e se a role rebaseiaria materialmente o plano. Default: bridge.
 
 ## See also
 

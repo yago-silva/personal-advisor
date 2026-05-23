@@ -1,18 +1,22 @@
 ---
 title: Fluencypass
 type: career
-tags: [employer, equity, income, role, partnership, ai-llm, edtech]
+tags: [employer, ex-employer, equity, income, role, partnership, ai-llm, edtech]
 created: 2026-05-02
-updated: 2026-05-17
+updated: 2026-05-22
 sources:
   - "[[Source: Finances]]"
   - "[[Source: Career]]"
   - "[[Source: Investment Thesis]]"
+  - "[[Source: Yandeh PJ Proposal]]"
+  - "[[Source: Job Change 2026-06]]"
 ---
 
 # Fluencypass
 
-Yago's current employer. EdTech: English courses + live conversation + study abroad + AI learning tools.
+**Yago's previous employer** (Nov 2023 – Jun 2026; last day 2026-06-12). EdTech: English courses + live conversation + study abroad + AI learning tools.
+
+> **Status 2026-05-22**: Yago accepted [[Yandeh]] PJ R$ 42k starting 2026-06-15. FP equity stake of R$ 75.000 stays parked (no cliff, no forfeit). See [[Source: Job Change 2026-06]] for the transition narrative. The locked exit assumption in [[Source: Relocation Plan]] (saída ~Mai/2028) is invalidated.
 
 ## Operating metrics (Q1 2026)
 
@@ -48,29 +52,32 @@ First documented in [[Source: Investment Thesis]] (2026-05-04). Growth data adde
 ## Yago's role
 
 - **Title**: Staff Software Engineer + Partner
-- **Tenure**: Nov 2023 – present (2y 7m as of May 2026 — current longest tenure of the past decade)
-- **Scope**: owns software architecture and platform evolution — e-commerce, auth, payments, video streaming, LMS, AI features. Technical reference for system design, scalability, HA decisions.
+- **Tenure**: Nov 2023 – Jun 2026 (**closed 2y 7m**; last day 2026-06-12). Was the longest tenure of his past decade at the time of exit.
+- **Scope**: owned software architecture and platform evolution — e-commerce, auth, payments, video streaming, LMS, AI features. Technical reference for system design, scalability, HA decisions.
 
-## Compensation structure (clarified 2026-05-03; restructured 2026-05-17)
+## Compensation structure (final — closed Jun/2026)
 
-| Component | Until Jun/2026 | From Jul/2026 (planned) |
-| --- | --- | --- |
-| PJ invoice gross | 31,500 | 40,000 |
-| Equity buy-in (auto) | −2,500 | 0 |
-| Effective gross | 29,000 | 39,200 ⚠️ |
-| Net (after PJ taxes) | **26,500** | **36,500** |
+The Jul/2026 PJ R$ 40k + buy-in 0 restructuring that was planned (and that drove the R$ 800/mo reconciliation flag) **never materialized** — Yago exited before it took effect. The R$ 800 reconciliation gap is therefore **moot** and removed from open follow-ups.
 
-> ⚠️ **R$ 800/mo reconciliation gap (Jul/2026+)**: PJ 40,000 − buy-in 0 = 40,000, but documented Gross-to-account is R$ 39,200 (per `Total Ganho No Ano` Jul–Dez Salário). Confirm whether PJ invoice should be R$ 39,200 or there's a new R$ 800 deduction. See [[Finances]] inflow table.
+| Component | Effective (Dez/2023 – Jun/2026) |
+| --- | --- |
+| PJ invoice gross | 31,500 |
+| Equity buy-in (auto) | −2,500 |
+| Effective gross | 29,000 |
+| Net (after PJ taxes) | **26,500** |
 
-### Equity position
+For the income profile from Jul/2026 onward see [[Yandeh]] and [[Finances]].
+
+### Equity position (final — parked)
 
 - **Cumulative bought**: **R$ 75,000** (30 × R$ 2,500 from Dez/2023 to Mai/2026, per Aportes Fluencypass sheet)
-- **Current value**: R$ 75,000 (at par; was R$ 72,500 pre-Mai/2026 — May aporte closed the gap that previously suggested either timing mismatch or ~3% unrealized loss)
-- **From Jul/2026**: buy-in stops (goes to zero in the restructured PJ contract) — cumulative parked at R$ 75,000
-- **Vesting**: none — Yago owns each month's purchase day-one
-- **Cliff**: none — leaving Fluencypass does not forfeit the equity
-- **Liquidity**: illiquid until a Fluencypass liquidity event (sale, IPO, etc.)
+- **Current value**: R$ 75,000 (at par as of last refresh 2026-05-17)
+- **Buy-in stopped**: Jun/2026 — by job change, not by the previously planned PJ restructuring. The "continue buy-in until exit" decision locked 2026-05-04 in [[International Relocation]] is effectively honored, just via a different mechanism (market decision vs unilateral pause).
+- **Vesting**: none — Yago owned each month's purchase day-one
+- **Cliff**: none — leaving Fluencypass does **not** forfeit the equity
+- **Liquidity**: still illiquid until a Fluencypass liquidity event (sale, IPO, etc.)
 - **Per Yago's standing rule** ([[Finances]]): treat as zero for decision-grade net worth
+- **Going forward**: no new monthly capital added — [[Investment Thesis]] growth bucket is **frozen** at R$ 75k
 
 ## PJ structure
 
@@ -83,13 +90,15 @@ Yago invoices via "Yago Silva Sistemas" — PJ entity. Generates ISS + INSS obli
 - **AI course generation pipeline**: orchestrates LLMs + audio/video synthesis + RAG to produce complete courses (video lessons, quizzes, flashcards, writing exercises) language-agnostic. Made multi-language courses viable.
 - **AI English Tutor** (own initiative): designed and shipped end-to-end. LLMs + RAG + MCP. Expanded Fluencypass into a new market segment.
 
-## Strategic role in Yago's plan
+## Strategic role in Yago's plan (historical)
 
-- **Single income source** — central risk on [[Finances]].
-- **All-BRL income** — no FX hedge while [[International Relocation]] is the active thesis.
-- **Equity treatment**: per Yago's standing instructions on [[Finances]], do not count Fluencypass equity as decision-grade net worth.
-- **Partnership lock-in tension**: Yago accepted Staff IC step-back specifically to access the partnership/equity. He explicitly asks (in [[Source: Career]]): *is this equity better than working abroad?* — open decision.
-- **Sole "growth" position in portfolio**: per [[Investment Thesis]], FP equity is the entire growth bucket. Pausing the R$ 2,500/mo buy-in pauses the growth thesis as a whole.
+These framed FP while it was Yago's employer. After the 2026-06 exit they read as **past context**, retained for trajectory analysis.
+
+- **Was single income source** until Jun/2026 — risk now transferred to [[Yandeh]].
+- **All-BRL income** — unchanged at [[Yandeh]]; the FX hedge gap on [[International Relocation]] persists.
+- **Equity treatment**: per Yago's standing instructions on [[Finances]], do not count Fluencypass equity as decision-grade net worth. Unchanged at exit — stake parked at R$ 75k, illiquid.
+- **Partnership lock-in tension** (resolved by exit): Yago had accepted the Staff IC step-back specifically to access the partnership/equity. His Q2 in [[Source: Career]] — *is this equity better than working abroad?* — was **effectively resolved by market decision** when he accepted Yandeh's cash PJ R$ 42k without equity, ~2 years ahead of the planned FP exit.
+- **Sole "growth" position in portfolio** — still true post-exit. The R$ 75k stake stays in [[Investment Thesis]]'s growth bucket, but adds zero new capital monthly. Growth thesis effectively pauses (as the locked plan predicted, just via a different trigger).
 
 ## Valuation framing (advisor note, 2026-05-04 — updated with growth data)
 
@@ -122,17 +131,23 @@ FP's current internal valuation used to set the buy-in price is still not docume
 
 ## Notable financial reconciliation (resolved 2026-05-03)
 
-The R$ 2,500/mo equity buy-in was a meaningful line not initially broken out in [[Finances]]. **Resolved**: the buy-in is taken at source before cash reaches Yago, so it is **not** in the burn — the cash-flow profile in [[Finances]] (now at the replanned R$ 17,970.70/mo burn) is correct as written. Buy-in is forced savings into illiquid equity, not a recurring outflow. **Note (2026-05-17)**: from Jul/2026 the buy-in stops; the R$ 75k cumulative remains parked but the growth thesis adds no new monthly capital.
+The R$ 2,500/mo equity buy-in was a meaningful line not initially broken out in [[Finances]]. **Resolved**: the buy-in was taken at source before cash reached Yago, so it was **not** in the burn — the cash-flow profile in [[Finances]] (at the replanned R$ 17,970.70/mo burn) was correct as written. Buy-in was forced savings into illiquid equity, not a recurring outflow. **Closed Jun/2026**: with the [[Yandeh]] move, the buy-in ended (last aporte Mai/2026); the R$ 75k cumulative remains parked and the growth thesis adds no new monthly capital — see [[Investment Thesis]].
 
-## Open follow-ups
+## Open follow-ups (post-exit)
 
-- [ ] Document equity terms (vesting, cliff, liquidity events) — flagged in [[Financial Goals]]
-- [ ] **Get current internal valuation used for buy-in pricing** — required to size % ownership and exit math (added 2026-05-04)
-- [x] ~~Get growth rate trajectory~~ — partially answered 2026-05-04: **13% YoY MRR (Mar 2025 → Mar 2026)**. Still open: B2B trajectory toward 30% target — track quarterly through 2026.
-- [ ] **Get B2C churn trend** (improving / stable / worsening) — Yago's source notes FP itself lacks visibility here; still the most material missing input.
-- [ ] **Watch B2B revenue trajectory through 2026** — if B2B share doesn't visibly accelerate by Q3 2026, the "blended 30-40% growth" scenario for the stake math weakens significantly.
-- [x] ~~Confirm whether R$ 2,500/mo equity buy-in is inside or on-top-of the existing R$ 20k burn~~ — resolved 2026-05-03 (taken at source, not in burn)
-- [ ] (Yago to journal) "What has Fluencypass taught me? What frustrates me? Why am I looking now?" — placeholder in [[Source: Career]]
+Stake-relevant items only — most operational follow-ups closed at exit.
+
+- [ ] **Get current internal valuation used for buy-in pricing** — still required to size the parked R$ 75k stake (was added 2026-05-04). Yago may have access via his partner-era materials.
+- [ ] **Watch B2B revenue trajectory through 2026** — stake outcome still tracks the B2B pivot landing; lower urgency now that buy-in is closed but still material to the exit math.
+- [ ] **Document equity terms** (vesting, cliff, liquidity events) — flagged in [[Financial Goals]]. Post-exit becomes a "what triggers liquidity on the parked stake" question.
+- [ ] (Yago to journal) **"What has Fluencypass taught me? Why did I leave?"** — placeholder kept open in [[Source: Job Change 2026-06]] to be filled over the handoff window May–Jun 2026.
+
+## Closed at exit
+
+- ~~Buy-in continuation decision~~ — terminated Jun/2026 by job change.
+- ~~R$ 800/mo Jul/2026 reconciliation gap~~ — moot; the planned PJ R$ 40k restructuring never executed.
+- ~~Get B2C churn trend (operational view)~~ — no longer Yago's to track from inside; downgrade to "if disclosed at any liquidity event".
+- ~~Get growth rate trajectory~~ — partially answered 2026-05-04: 13% YoY MRR (Mar 2025 → Mar 2026). Stays as the last operating data point; not Yago's to refresh quarterly anymore.
 
 ## Resolved (2026-05-03)
 

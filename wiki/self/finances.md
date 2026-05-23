@@ -3,15 +3,19 @@ title: Finances
 type: self
 tags: [finances, net-worth, cash-flow, risk]
 created: 2026-05-02
-updated: 2026-05-17
+updated: 2026-05-22
 sources:
   - "[[Source: Finances]]"
   - "[[Source: Investment Thesis]]"
+  - "[[Source: Yandeh PJ Proposal]]"
+  - "[[Source: Job Change 2026-06]]"
 ---
 
 # Finances
 
-Snapshot from [[Source: Finances]] — refreshed 2026-05-17 from two spreadsheets (`Patrimônio Líquido.xlsx` + `2026 - Planejamento de Gastos.xlsx`). Rico parcelamento cronograma refreshed against new balance. Portfolio composition explicitly framed under [[Investment Thesis]] (Barsi/AGF dividend methodology). **Outflows replanned 2026-05-17** — new total monthly burn baseline: R$ 17,970.70 (was R$ 17,320.70); breakdown into essential (R$ 8,704) vs discretionary (R$ 9,266.70).
+Snapshot from [[Source: Finances]] — refreshed 2026-05-17 from two spreadsheets (`Patrimônio Líquido.xlsx` + `2026 - Planejamento de Gastos.xlsx`). Rico parcelamento cronograma refreshed against new balance. Portfolio composition explicitly framed under [[Investment Thesis]] (Barsi/AGF dividend methodology). Burn baseline R$ 17,970.70/mo (essential R$ 8,704 + discretionary R$ 9,266.70) — unchanged at 2026-05-22.
+
+**Income event 2026-05-22**: Yago accepted [[Yandeh]] PJ R$ 42.000/month starting 2026-06-15. The Jul/2026 [[Fluencypass]] restructuring (PJ R$ 40k + buy-in 0) **never executed** — it was superseded by the job change. The R$ 800/mo reconciliation gap flagged earlier is therefore moot. New inflow trajectory below.
 
 ## Snapshot
 
@@ -77,10 +81,12 @@ Cronograma refreshed 2026-05-17 against the new balance R$ 47,666.72.
 
 **Total scheduled: R$ 47,763.35** over 11 months — ~R$ 96 above current balance R$ 47,666.72, consistent with small residual interest.
 
-## Cash flow (2026, replanned)
+## Cash flow (2026, post job-change)
 
-- **Net monthly inflow**: R$ 26,500 until Jun/2026; **planned R$ 36,500 from Jul/2026** ([[Fluencypass]] salary jump)
-- **Burn (replanned 2026-05-17)**: **R$ 17,970.70** total — R$ 8,704 essential + R$ 9,266.70 discretionary
+- **Net monthly inflow**: R$ 26,500 until Jun/2026 ([[Fluencypass]]); **~R$ 35–36k net from Jul/2026** ([[Yandeh]] PJ R$ 42k gross — estimate pending first-invoice validation; same PJ entity "Yago Silva Sistemas", same tax regime)
+- **Burn (2026-05-17 baseline, unchanged)**: **R$ 17,970.70** total — R$ 8,704 essential + R$ 9,266.70 discretionary
+- **Benefits offset at Yandeh** (estimated): R$ 1.5–2.5k/month from Flash R$ 1.100 (food/meal), Mobility R$ 360 (net new), SulAmérica Saúde Executivo R1 (replaces convênio premium). Net effect on cash burn — TBD once convênio cost confirmed and Flash usage settled. **Not yet baked into the line items below**.
+- **Bonus (Yandeh, conditional)**: up to 6× salaries, proportional to start date and to permanence on payment date. **Treat as upside, not base** — plan against base only until a bonus actually prints.
 
 ### Replanned monthly outflows (2026-05-17 baseline)
 
@@ -112,57 +118,62 @@ Itemized baseline R$ 17,970.70/mo budget split between essential and discretiona
 
 The full-burn column is the FI/passive-income anchor (Yago's durable rule: passive income covers full burn, not essential-only).
 
-### Salary structure (clarified 2026-05-03; tranche jump 2026-05-17)
+### Salary structure (post job-change 2026-05-22)
 
-Until Jun/2026: R$ 26,500 net **after** a R$ 2,500/mo equity buy-in at [[Fluencypass]] (voluntary opt-in, taken at source before cash reaches Yago).
+Until Jun/2026: R$ 26,500 net **after** a R$ 2,500/mo equity buy-in at [[Fluencypass]] (voluntary opt-in, taken at source). From Jul/2026: [[Yandeh]] PJ R$ 42,000 gross, no equity component.
 
-| Component | Until Jun/2026 | From Jul/2026 (planned) |
+| Component | [[Fluencypass]] (until Jun/2026) | [[Yandeh]] (from Jul/2026) |
 | --- | --- | --- |
-| PJ invoice gross | 31,500 | 40,000 |
-| Equity buy-in (auto) | −2,500 | 0 |
-| Effective gross | 29,000 | 39,200 ⚠️ |
-| Net (after PJ taxes) | **26,500** | **36,500** |
+| PJ invoice gross | 31,500 | **42,000** |
+| Equity buy-in (auto) | −2,500 | — |
+| Effective gross | 29,000 | 42,000 |
+| Net (after PJ taxes) — est. | **26,500** | **~35,000–36,000** |
+| Bonus (conditional) | n/a | **up to 6× salaries**, conditional on metrics + permanence |
 
-> ⚠️ **R$ 800/mo reconciliation gap (Jul/2026+)**: PJ Invoice 40,000 − buy-in 0 = 40,000, but documented Gross to account is R$ 39,200 (planilha "Total Ganho No Ano" Jul–Dez Salário = R$ 39,200). Verify whether the correct PJ invoice is R$ 39,200 or there's a new deduction.
+> **Estimate basis**: same "Yago Silva Sistemas" PJ entity and tax regime. Effective tax rate at FP was ~15.9% (R$ 5k taxes on R$ 31.5k gross). Applied to R$ 42k → R$ 35.3k net, with upside if fixed ISS+INSS components don't scale linearly. Validate against the first Yandeh invoice month and refresh this row.
 
-The R$ 2,500 equity buy-in until Jun/2026 is **not in the burn** — forced savings into illiquid equity. **Cumulative bought to date: R$ 75,000 since Dez/2023** (30 × R$ 2,500 per Aportes Fluencypass sheet). Current equity value R$ 75,000 — at par with cumulative cost as of 2026-05-17.
+The R$ 2,500 equity buy-in (Dez/2023 → Mai/2026) was **never in the burn** — forced savings into illiquid equity. **Cumulative bought R$ 75,000** (30 × R$ 2,500). Buy-in ended at the job change; **stake parked at R$ 75,000** (last refreshed 2026-05-17) — see [[Investment Thesis]] for the now-frozen growth bucket.
 
-### Surplus profile (recomputed at the new burn)
+### Surplus profile (post job-change)
 
-Monthly surplus ex-Rico:
-- **Until Jun/2026**: R$ 26,500 − R$ 17,970.70 = **R$ 8,529.30**
-- **From Jul/2026 (planned)**: R$ 36,500 − R$ 17,970.70 = **R$ 18,529.30**
+Monthly surplus ex-Rico (point estimate using R$ 35.5k Yandeh net mid-estimate):
+- **Until Jun/2026** ([[Fluencypass]]): R$ 26,500 − R$ 17,970.70 = **R$ 8,529.30**
+- **From Jul/2026** ([[Yandeh]]): ~R$ 35,500 − R$ 17,970.70 = **~R$ 17,529.30** (slightly below the prior FP-jump planning number ~R$ 18,500 — within tolerance pending first-invoice validation)
 
-| Period | Inflow | Burn | Rico fatura | Net surplus |
+| Period | Inflow (R$) | Burn | Rico fatura | Net surplus |
 | --- | --- | --- | --- | --- |
-| Mai/2026 | 26.5k | 17.97k | 18.03k | **−9.5k** (cover w/ R$ 18.9k CC provision) |
-| Jun/2026 | 26.5k | 17.97k | 7.72k | +0.8k |
-| Jul/2026 | **36.5k** ⚠️ | 17.97k | 4.14k | +14.4k |
-| Ago/2026 | 36.5k | 17.97k | 3.01k | +15.5k |
-| Set/2026 | 36.5k | 17.97k | 2.61k | +15.9k |
-| Out–Nov/2026 | 36.5k | 17.97k | 2.36k | +16.2k |
-| Dez/2026–Jan/2027 | 36.5k | 17.97k | 1.92k | +16.6k |
-| Fev–Mar/2027 | 36.5k | 17.97k | 1.85k | +16.7k |
-| **Apr/2027 onward** | 36.5k | 17.97k | 0 | **+18.5k** |
+| Mai/2026 | 26.5k (FP) | 17.97k | 18.03k | **−9.5k** (cover w/ R$ 18.9k CC provision) |
+| Jun/2026 | 26.5k (FP last) | 17.97k | 7.72k | +0.8k |
+| Jul/2026 | ~35.5k (Yandeh) | 17.97k | 4.14k | +13.4k |
+| Ago/2026 | ~35.5k | 17.97k | 3.01k | +14.5k |
+| Set/2026 | ~35.5k | 17.97k | 2.61k | +14.9k |
+| Out–Nov/2026 | ~35.5k | 17.97k | 2.36k | +15.2k |
+| Dez/2026–Jan/2027 | ~35.5k | 17.97k | 1.92k | +15.6k |
+| Fev–Mar/2027 | ~35.5k | 17.97k | 1.85k | +15.7k |
+| **Apr/2027 onward** | ~35.5k | 17.97k | 0 | **~+17.5k** |
 
-**Cumulative surplus Jul/2026 → Mar/2027 (under planned Jul jump): ~R$ 132k**. The `Investimentos Planejados` sheet earmarks R$ 107,500/year to the emergency reserve (Jul–Dez: R$ 14,800–18,500/mo). Mai/2026 R$ 9.5k deficit is covered by the R$ 18,911 CC provision/sinking fund — does NOT require touching the portfolio.
+**Cumulative surplus Jul/2026 → Mar/2027 (Yandeh mid-estimate): ~R$ 124k** — slightly below the R$ 132k under the prior FP-jump assumption but **above the R$ 107.5k earmarked** by the `Investimentos Planejados` sheet for 2026. Mai/2026 deficit unchanged (covered by CC provision).
 
-**Critical caveat**: the Jul/2026+ surplus depends on the income jump materializing. If the R$ 36,500 net does NOT land, surplus reverts to ~R$ 0–7k post-Rico through most of 2026 and the R$ 107.5k reserve plan slips.
+**Bonus upside (not in the table)**: 6× salaries at R$ 42k = R$ 252k maximum; metric- and permanence-gated. Even a partial first-year payout (e.g., 1–2× pro-rated) would meaningfully accelerate the reserve build or the USD hedge ramp. Track separately when (if) it prints.
 
-## Risks (re-assessed 2026-05-17)
+**Net effect vs locked plan**: surplus capacity is **~R$ 1k/month lower** than the prior FP-jump assumption, but the **reserve trajectory still lands within the 2026 plan** because: (a) buy-in stopped Jun/2026 (no Jul transition needed), (b) benefits offset ~R$ 1.5–2.5k of burn once settled, (c) bonus is pure upside on top.
+
+## Risks (re-assessed 2026-05-22)
 
 | Risk | Severity | Change |
 | --- | --- | --- |
 | Low emergency reserve | Critical | unchanged (R$ 7,834 ≈ 0.44 months of burn) |
-| **Mai/2026 cash deficit (Rico spike)** | **Medium** | gap widened to R$ 9.5k after Rico Mai revision to R$ 18,031.45; covered by R$ 18.9k CC provision |
-| **Income-jump dependency (Jul/2026)** | **Medium (new 2026-05-17)** | The 2026 reserve-build plan (R$ 107.5k/year) assumes R$ 36,500 net from Jul onward. If the jump doesn't land, surplus reverts and reserve timeline slips materially. |
+| **Mai/2026 cash deficit (Rico spike)** | **Medium** | gap −R$ 9.5k after Rico Mai R$ 18,031.45; covered by R$ 18.9k CC provision |
+| ~~**Income-jump dependency (Jul/2026)**~~ | ~~Medium~~ | **Resolved by job change 2026-05-22**: replaced by [[Yandeh]] PJ R$ 42k (gross) instead of the planned FP restructuring. New dependency is Yandeh first-invoice net validation — see below. |
+| **Yandeh first-invoice net validation** | **Low (new 2026-05-22)** | Net estimated R$ 35–36k pending first invoice month (Jul/2026). If the actual nets significantly below R$ 35k, surplus and reserve build slip by ~R$ 1–2k/mo. |
+| **Income concentration (single PJ source)** | **Medium (unchanged structurally)** | Yandeh is now the single source — same risk shape as FP was, just at higher base + bonus optionality. |
 | No FX hedge while targeting [[International Relocation]] | High | unchanged |
-| Portfolio concentration (~83% financial-sector, 1 country) | Medium | per [[Investment Thesis]] (2026-05-04), this is **intentional** under Barsi/AGF methodology — but note the concentration percentage corrected from 72% in 2 names to ~83% in 3 names |
-| Credit card (Rico) parcelado | Low | balance up to R$ 47,667 (was R$ 42,800); now 40% provisionado (R$ 18,911); cronograma still fixed through Mar/2027 |
+| Portfolio concentration (~83% financial-sector, 1 country) | Medium | per [[Investment Thesis]] (2026-05-04), this is **intentional** under Barsi/AGF methodology |
+| Credit card (Rico) parcelado | Low | balance R$ 47,667; 40% provisionado (R$ 18,911); cronograma fixed through Mar/2027 |
 | Apartment timing risk (forced sale on relocation) | Medium | unchanged |
-| Fluencypass equity counted as asset | Low | unchanged |
-| **Stock portfolio liquidation IR** | **Medium** | R$ 20k/mo gross sale exempt under BR rule; >R$ 20k/mo taxed 15% on gains |
-| ~~Thin monthly surplus~~ | — | **removed** Jun/2026 onward (was reintroduced as "Mai–Jun thin" then resolved by Jul jump) |
+| Fluencypass equity counted as asset | Low | unchanged (R$ 75k parked; no new aportes) |
+| **Stock portfolio liquidation IR** | Medium | R$ 20k/mo gross sale exempt under BR rule; >R$ 20k/mo taxed 15% on gains |
+| ~~Thin monthly surplus~~ | — | removed Jun/2026 onward (covered by job change) |
 
 ## Yago's standing instructions for the advisor
 
@@ -175,13 +186,18 @@ Monthly surplus ex-Rico:
 
 ## Open questions (status)
 
+- **Yandeh first-invoice net** — confirm against the R$ 35–36k estimate, refresh the surplus table
+- **Yandeh benefits cash-equivalent on burn** — once Flash usage settles and convênio cost is confirmed, restate the line items (health, household, discretionary food)
+- **Yandeh bonus mechanics** — metric definitions, measurement cadence, payment schedule; first opportunity to print Q2/2027 at earliest
 - Apartment carry vs. rent post-relocation — **open**
 - Tax cost of liquidating portfolio if needed — **open** (less urgent: portfolio liquidation no longer needed for Rico)
-- ~~Recurring R$ 36k Rico balance: structural or one-off?~~ — **partially answered**: parcelada with fixed schedule through Mar/2027. Origin of the debt (single purchase? prior accumulation?) still worth knowing.
+- ~~Recurring R$ 36k Rico balance: structural or one-off?~~ — **partially answered**: parcelada with fixed schedule through Mar/2027. Origin of the debt still worth knowing.
 - [[Stephanie]] income / joint modeling — **open** (still the largest single unknown)
+- ~~R$ 800/mo Jul/2026 reconciliation gap~~ — **moot 2026-05-22**: the planned FP PJ R$ 40k restructuring never executed.
 
 ## See also
 
+- [[Yandeh]] — incoming employer (PJ R$ 42k + conditional bonus)
+- [[Fluencypass]] — previous employer; equity R$ 75k parked
 - [[Financial Goals]] — near/medium/long-term targets
 - [[International Relocation]] — main strategic context
-- [[Fluencypass]] — single income source

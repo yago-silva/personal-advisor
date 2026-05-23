@@ -3,9 +3,10 @@ title: Investment Thesis
 type: self
 tags: [investment, philosophy, portfolio, dividend, growth, barsi, fluencypass]
 created: 2026-05-04
-updated: 2026-05-17
+updated: 2026-05-22
 sources:
   - "[[Source: Investment Thesis]]"
+  - "[[Source: Job Change 2026-06]]"
 ---
 
 # Investment Thesis
@@ -33,19 +34,22 @@ Yago's explicit framework for how the [[Finances|portfolio]] is constructed. Two
 
 **Philosophy**: invest in companies where Yago has **deep insider knowledge** of operations and current state, and which have **strong growth potential**. The information advantage justifies bypassing public-market diversification.
 
-**Holdings**: [[Fluencypass]] equity only — **R$ 75k cumulative buy-in, current value R$ 75k** (at par as of 2026-05-17; per Aportes sheet: 30 × R$ 2,500 Dez/2023 → Mai/2026). From Jul/2026 the buy-in goes to zero per the new salary structure (see [[Finances]] cash flow) — growth bucket effectively pauses adding new capital.
+**Holdings**: [[Fluencypass]] equity only — **R$ 75k cumulative, current value R$ 75k** (at par as of 2026-05-17; per Aportes sheet: 30 × R$ 2,500 Dez/2023 → Mai/2026).
 
-This is the **entire growth bucket** of the portfolio. No other company qualifies under this thesis right now.
+**Status 2026-05-22 — frozen**: Yago accepted [[Yandeh]] PJ R$ 42k starting 2026-06-15 ([[Source: Job Change 2026-06]]). The buy-in ended Jun/2026 by job change (not by the previously planned PJ restructuring inside FP). The R$ 75k stake **stays parked, no cliff, no forfeit, no new monthly capital**. Growth bucket adds zero new exposure monthly. The locked decision in [[International Relocation]] "Buy-in mantido até saída da empresa (~Mai/2028)" was honored 2 years early — via market decision rather than the planned trajectory.
+
+This is still the **entire growth bucket** of the portfolio. No other company qualifies under this thesis right now — and the **insider-knowledge advantage decays** from Yago's exit forward: after Jun/2026 the operating signal Yago can read on FP weakens quarter by quarter as he is no longer inside.
 
 ## How the two theses interact
 
 Per [[Source: Investment Thesis]] (2026-05-04), the dividend bucket is for monthly income; the growth bucket is for asymmetric upside via insider information.
 
-**Implications**:
+**Implications (updated 2026-05-22)**:
 
-- The R$ 2,500/mo equity buy-in at [[Fluencypass]] is the **only growth position being added monthly** — and **stops at Jul/2026** per the documented PJ restructuring (PJ 40k + buy-in 0 instead of PJ 31.5k − buy-in 2.5k). This effectively pauses the entire growth thesis from Jul/2026 onward, even though the cumulative R$ 75k stake stays parked.
-- Any "alternative growth bet" Yago might consider (e.g., another startup, tech ETF) would either: (a) need to qualify as "deep insider knowledge" under his own framing, or (b) require him to expand the thesis.
+- The R$ 2,500/mo equity buy-in at [[Fluencypass]] was the **only growth position being added monthly** — **ended Jun/2026** via the [[Yandeh]] job change (not via the previously planned PJ restructuring). The entire growth thesis is now **frozen** at R$ 75k parked. The cumulative stake stays in the bucket but the thesis adds zero new capital and Yago's insider visibility decays from here.
+- Any "alternative growth bet" Yago might consider (e.g., another startup, tech ETF) would either: (a) need to qualify as "deep insider knowledge" under his own framing, or (b) require him to expand the thesis. **Yandeh equity is not on offer** in the role — there's no analogue to the Fluencypass partnership.
 - Public tech / growth ETFs (NASDAQ, IVVB11, etc.) **don't fit** either bucket as currently defined — they're neither high-yield dividend payers nor insider-knowledge growth bets. If FX hedge is added via S&P 500 / NASDAQ ETFs, that opens a **third bucket** the thesis doesn't yet name.
+- **The thesis is now lopsided by design**: 100% of new monthly capital flows into the dividend bucket. If Yago wants the growth bucket to keep contributing materially, he'd need to either (a) seed a new insider bet, or (b) explicitly expand the thesis to include index-tracking growth — which [[International Relocation]]'s FX hedge ramp may force as the "third bucket" question.
 
 ## Fluencypass-specific metrics (2026-05-04)
 
@@ -95,14 +99,16 @@ This is a sharper, more falsifiable framing. It points to specific things to wat
 - Q3 2026: B2B revenue share above 18-22%?
 - Q4 2026: at or near 30%?
 
-If B2B share doesn't visibly accelerate quarterly through 2026, the multiple-expansion scenario becomes the only remaining path, which is a much weaker base for keeping R$ 2,500/mo invested in the buy-in.
+If B2B share doesn't visibly accelerate quarterly through 2026, the multiple-expansion scenario becomes the only remaining path.
+
+**Note 2026-05-22**: with Yago out of FP from Jun/2026, the operational visibility on B2B trajectory weakens. The question shifts from "should I keep buying in?" to "should I assume the parked R$ 75k is option-value or write it down to zero in planning?" — same standing rule from [[Finances]] applies (treat as zero for decision-grade net worth).
 
 ## Open questions
 
-- ~~What is FP's MRR growth trajectory?~~ — partially answered: 13% YoY at the consolidated level. Still open: B2B-specific growth rate, churn trend, and whether the 13% itself is accelerating or decelerating QoQ.
-- What is FP's current internal valuation used for the buy-in price? (Open follow-up in [[Fluencypass]].)
-- Does the thesis need a third bucket for "FX hedge / passive index"? Without one, building USD savings creates a thesis-orphaned position.
-- Is the 9-11% B2C monthly churn improving? Stable? Worsening? FP's lack of clear visibility on this (per source) is itself a risk for any 5-10x exit thesis.
+- ~~What is FP's MRR growth trajectory?~~ — partially answered: 13% YoY at the consolidated level. Yago's insider visibility decays from Jun/2026; future signal depends on whatever FP discloses publicly or at liquidity events.
+- What is FP's current internal valuation used for the buy-in price? (Open follow-up in [[Fluencypass]].) Now matters for sizing the parked R$ 75k stake, not for new aportes.
+- **Does the thesis need a third bucket for "FX hedge / passive index"? — now more urgent** with the growth bucket frozen. Without expanding the thesis, all new monthly capital flows to the dividend bucket and the FX hedge for [[International Relocation]] remains thesis-orphaned.
+- Is the 9-11% B2C monthly churn improving? Stable? Worsening? — still material for stake outcome but no longer something Yago can resolve from inside.
 
 ## See also
 

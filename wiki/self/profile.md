@@ -3,11 +3,12 @@ title: Profile
 type: self
 tags: [identity, biography]
 created: 2026-05-02
-updated: 2026-05-03
+updated: 2026-05-22
 sources:
   - "[[Source: Identity]]"
   - "[[Source: Finances]]"
   - "[[Source: Career]]"
+  - "[[Source: Job Change 2026-06]]"
 ---
 
 # Profile
@@ -31,9 +32,11 @@ See [[wiki/self/health]].
 
 ## Work
 
-Staff Software Engineer + Partner @ [[Fluencypass]] (Nov 2023 – present, 2y 7m). PJ entity: "Yago Silva Sistemas". See [[Career History]] for full chronology.
+**Incoming**: Staff Product Engineer @ [[Yandeh]] (starts 2026-06-15, presencial Itaim hybrid 4d/week). PJ entity: "Yago Silva Sistemas". Comp: R$ 42k PJ + bonus up to 6× salaries (conditional).
 
-Currently in **active job search** — floor R$ 45k/month.
+**Previous**: Staff Software Engineer + Partner @ [[Fluencypass]] (Nov 2023 – Jun 2026, 2y 7m). Equity R$ 75k parked at exit.
+
+See [[Career History]] for full chronology and [[Source: Job Change 2026-06]] for the transition narrative.
 
 ## Active operating thesis
 

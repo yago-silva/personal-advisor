@@ -235,3 +235,32 @@ Chronological record of wiki activity. Append-only. Each entry starts with `## [
   - Calorie target ~3,500 kcal at 70 kg is well above maintenance — paired with Retatrutide, the intent (clean lean-gain vs. recomposition) is not stated in source; flagged as open question, not assumed.
   - Filename "15 May - 15 Jun 2026" describes an 8-week block; if the program truly runs 8 weeks, end date is ~10 Jul 2026 (1-month filename / cycle-length mismatch flagged on [[wiki/self/health]]).
 - lint state: prior "data-thin" lint is largely resolved on protocol/diet/training; remaining gaps recorded on both [[Source: Health]] and [[wiki/self/health]] are (a) no body-measures cadence yet, (b) no lab markers documented, (c) Qua + Sex load tables empty, (d) Retatrutide context (indication, prescriber, duration, exit) not yet captured.
+
+## [2026-05-22] ingest | raw/assets/yandeh-proposta-pj-2026-05-22.pdf + raw/journal/Plans/Job-Change-2026-06.md (NEW — job change FP → Yandeh)
+- pages created (sources): [[Source: Yandeh PJ Proposal]], [[Source: Job Change 2026-06]]
+- pages created (wiki): [[Yandeh]]
+- pages updated (wiki): [[Fluencypass]] (closed Jun/2026; open follow-ups pared to stake-relevant items; R$ 800 reconciliation gap moot), [[Career History]] (Yandeh at top, FP closed 2y 7m, search closed, Q2 resolved by market decision), [[Finances]] (salary structure restated Yandeh PJ R$ 42k → ~R$ 35–36k net est.; surplus profile recomputed; risk table rebalanced — income-jump dependency resolved, first-invoice validation now Low), [[Investment Thesis]] (growth bucket frozen at R$ 75k parked; insider visibility decays from Jun/2026; third-bucket question more urgent), [[International Relocation]] (2026-05-22 update banner; decisão locked #3 superseded inline; Q2 resolved; Yandeh as bridge vs terminal flagged for 90-day signal; gates downstream unaffected), [[Financial Goals]] (active search closed at Yandeh; buy-in decision closed; reserve targets still on track but ~R$ 1k/mo lower surplus vs prior FP-jump assumption), [[Profile]] (current role = Yandeh incoming), [[Index]] (Yandeh + 2 new sources; one-liners refreshed across Self/Career/Projects/Sources)
+- key facts captured (raw):
+  - Last day Fluencypass: 2026-06-12
+  - Start Yandeh: 2026-06-15 (proposal letter said 01/06; renegotiated after issuance)
+  - Yandeh role: Staff Product Engineer (per Yago's edit in raw/journal/Career.md 2026-05-22)
+  - Yandeh comp: PJ R$ 42.000 base + bonus up to 6× salaries conditional on metrics + permanence at payment
+  - Yandeh address: Av. Santo Amaro, 48 — Itaim, SP; presencial; currently hybrid 4d/week as agreed
+  - Yandeh benefits: Flash R$ 1.100, Wellhub (8 plans), SulAmérica Saúde Executivo R1 Apto (titular + deps, no monthly fee, coparticipation only), Allya, Day Off in birthday month, parental leave (gestation 180d / paternity 30d / adoption 180-120-30d by age), mobility R$ 360 (hybrid + RMSP), 24d annual vacation (per Yago, not in letter)
+- contradictions surfaced and resolved inline (not overwritten):
+  - **"Saída FP ~Mai/2028"** assumption in [[International Relocation]] / [[Source: Relocation Plan]] — invalidated; exit happened 2026-06. Flagged inline on [[International Relocation]] with update banner; [[Source: Relocation Plan]] left untouched (source-of-record convention).
+  - **"From Jul/2026 buy-in stops per PJ restructuring"** in [[Finances]] / [[Investment Thesis]] — superseded; buy-in actually ended Mai/2026 (last aporte before exit). Decision locked 2026-05-04 ("manter buy-in até saída") is honored, just via job change, not via the planned PJ restructuring.
+  - **"R$ 800/mo Jul/2026 reconciliation gap"** flagged in [[Finances]] and [[Fluencypass]] — moot (the planned PJ R$ 40k structure never executed).
+  - **Q2 open question** ("Is FP equity better than working abroad?") in [[Source: Career]] / [[Career History]] / [[International Relocation]] — effectively resolved by market decision when Yago accepted Yandeh cash PJ without equity ~2 years ahead of plan.
+- analytical implications:
+  - Surplus capacity Jul/2026+ is **~R$ 1k/month lower** than the prior FP-jump assumption (Yandeh net ~R$ 35–36k vs planned FP ~R$ 36.5k), but reserve trajectory still lands within the 2026 plan because (a) buy-in stopped Jun/2026 cleanly, (b) benefits offset ~R$ 1.5–2.5k of burn once settled, (c) bonus is pure upside.
+  - Yandeh base R$ 42k landed R$ 3k below the search-time R$ 45k floor; Yago made the trade against bonus + benefits + role context. Narrative to be unpacked once Yago fills the "why am I leaving" placeholder in [[Source: Job Change 2026-06]].
+  - [[Investment Thesis]] growth bucket frozen creates an explicit "third bucket" gap that [[International Relocation]]'s FX hedge ramp may force resolving (insider-knowledge growth bet is gone; USD index-tracking remains thesis-orphaned).
+  - Yandeh is the **single income source** going forward — same concentration risk shape as FP was, at higher base + bonus optionality.
+- placeholders left open (Yago to fill):
+  - "Why I'm leaving Fluencypass" + "What Fluencypass taught me" (in [[Source: Job Change 2026-06]]) — handoff window May–Jun 2026
+  - Yandeh scope, team, tech stack, charter, first-90-day deliverables (~Q3/2026 when onboarded)
+  - Yandeh bonus mechanics — metric definitions, cadence, payment schedule
+  - Yandeh first-invoice net validation against R$ 35–36k estimate
+  - "Yandeh as bridge or terminal?" decision — default bridge; 90-day signal pulls forward in [[International Relocation]]
+- pattern noted: this was a "live decision invalidates locked plan" ingest — handled by flag-in-place inline updates with explicit "Update 2026-05-22" banners rather than rewriting the locked plan. Preserves history; respects the decision-locked convention; lets Yago see when a downstream gate needs re-pricing without losing the prior reasoning.
