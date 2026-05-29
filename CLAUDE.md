@@ -65,6 +65,11 @@ Pages do not need to live exactly under these top-level folders if a more specif
    "He values long-horizon bets ([[Source: Paul Graham — The Bus Ticket Theory]])."
 7. **Contradictions**: never silently overwrite. Note explicitly:
    "Earlier journals (2026-Q1) framed this as X; the 2026-04 reflection reframed it as Y ([[Journal: 2026-04-12]])."
+8. **No literal financial values in living wiki pages** (set 2026-05-29): when a number is tracked in a spreadsheet the raw links to (net worth, balances, portfolio, burn, income, reserves, provisions, debt), do **not** transcribe it into the wiki — state the qualitative claim and link the sheet. Numbers live in the sheets and are read live via the Drive MCP. Goal *thresholds*, contractual terms, and tax rules (not sheet-tracked state) may stay as literals. See skills `finance-wiki-references` (write side) and `consult-linked-sources` (read side). Source-page modification logs are exempt — they're append-only dated history.
+
+## Linked external files (Drive)
+
+Raw sources increasingly act as thin pointers to external files in Yago's Drive (e.g. `raw/journal/Finances.md` links three Google Sheets). Those files are the source of truth. When you need a value from one, resolve the link **live** via the Drive MCP (`gsheets_read` with targeted ranges, or `gdrive_read_file`) rather than trusting a transcribed copy. The `consult-linked-sources` skill documents the mechanics and known file IDs. Expect more such files over time.
 
 ## Source page convention
 

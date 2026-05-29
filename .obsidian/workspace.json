@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "raw/journal/Finances.md",
+                "file": "raw/journal/Investment Thesis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Finances"
+              "title": "Investment Thesis"
             }
           }
         ]
@@ -185,26 +185,28 @@
   },
   "active": "45ce592f93ca3262",
   "lastOpenFiles": [
-    "index.md.tmp.406675.ae4c50de7613",
-    "index.md.tmp.406675.887f6bb1d6d3",
-    "wiki/self/profile.md.tmp.406675.c27be7c17cad",
-    "wiki/self/profile.md.tmp.406675.856f40bfd027",
-    "wiki/self/financial-goals.md.tmp.406675.66cea48711d7",
-    "wiki/self/financial-goals.md.tmp.406675.a0d4208b154a",
-    "wiki/self/financial-goals.md.tmp.406675.65b7d778f8ce",
-    "wiki/projects/international-relocation.md.tmp.406675.d4aa8a373ebe",
-    "wiki/projects/international-relocation.md.tmp.406675.7cab0408f03c",
-    "wiki/projects/international-relocation.md.tmp.406675.a54d673c0162",
-    "wiki/projects/international-relocation.md.tmp.406675.a8647277cbee",
+    "raw/journal/Finances.md",
+    "wiki/self/finances.md",
+    "wiki/sources/finances.md",
+    "index.md.tmp.1676998.631cc636006b",
+    "wiki/self/financial-goals.md.tmp.1676998.112d534595c8",
+    "wiki/self/financial-goals.md.tmp.1676998.0271702e7776",
+    "wiki/self/financial-goals.md.tmp.1676998.bad028d43bc0",
+    "wiki/self/financial-goals.md.tmp.1676998.02019210ecaf",
+    "wiki/self/investment-thesis.md.tmp.1676998.e643579032cc",
+    "wiki/self/investment-thesis.md.tmp.1676998.cba1a220cc44",
+    "wiki/sources/finances.md.tmp.1676998.0d0da14cdd5c",
+    "wiki/sources/finances.md.tmp.1676998.23dadf8f12bf",
+    "wiki/self/finances.md.tmp.1676998.2964f738df45",
+    "raw/journal/Health/Basic Infos.md",
+    "raw/journal/Identity.md",
+    "wiki/self/profile.md",
     "wiki/career/yandeh.md",
     "wiki/sources/job-change-2026-06.md",
     "wiki/sources/yandeh-proposta.md",
     "raw/journal/Career.md",
     "raw/journal/Health/planned diets history/May - Jun 2026.md",
     "raw/journal/Health/workout history/15 May - 15 Jun 2026.md",
-    "raw/journal/Health/Basic Infos.md",
-    "raw/journal/Finances.md",
-    "raw/journal/Identity.md",
     "raw/journal/Goals.md",
     "raw/journal/Plans/Relocation.md",
     "wiki/people/lorena.md",
@@ -219,8 +221,6 @@
     "wiki/projects/joint-plans.md",
     "wiki/people/lorena-education.md",
     "wiki/people/stephanie-career.md",
-    "wiki/career/career-history.md",
-    "wiki/sources/lorena-education.md",
     "Sem título.canvas"
   ]
 }

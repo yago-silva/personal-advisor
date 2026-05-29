@@ -3,7 +3,7 @@ title: Investment Thesis
 type: self
 tags: [investment, philosophy, portfolio, dividend, growth, barsi, fluencypass]
 created: 2026-05-04
-updated: 2026-05-22
+updated: 2026-05-29
 sources:
   - "[[Source: Investment Thesis]]"
   - "[[Source: Job Change 2026-06]]"
@@ -17,16 +17,14 @@ Yago's explicit framework for how the [[Finances|portfolio]] is constructed. Two
 
 **Philosophy**: Luiz Barsi / [AGF (Ações Garantem o Futuro)](https://acoesgarantem.com.br/) methodology. Focus on **consistent monthly dividend income** from stable, mature public companies with modest but durable growth.
 
-**Holdings**: 100% of the public stock portfolio (**R$ 131.4k** as of 2026-05-17; was R$ 137k earlier in May).
+**Holdings**: 100% of the public stock portfolio. Symbols + sector below; **positions, weights, dividends and ROE are read live from the [Carteira de ações](https://docs.google.com/spreadsheets/d/1v6eTPtx7KzHi77kn6KMjG9nQtfHwXY2nbbhMBzrzgSY/) sheet** (no literal figures filed here — see skill `finance-wiki-references`):
 
-| Ticker | Position | Sector |
-| --- | --- | --- |
-| BBAS3 | R$ 52,127 | Banking (Banco do Brasil) |
-| CXSE3 | R$ 46,437 | Insurance (Caixa Seguridade) |
-| ISAE4 | R$ 23,283 | Energy transmission (ISA Energia) |
-| BBSE3 | R$ 15,551 | Insurance (BB Seguridade) |
+- **BBAS3** — Banking (Banco do Brasil)
+- **CXSE3** — Insurance (Caixa Seguridade)
+- **ISAE4** — Energy transmission (ISA Energia)
+- **BBSE3** — Insurance (BB Seguridade)
 
-**Why the concentration is intentional, not accidental**: the [[Finances]] risk assessment flags "Portfolio concentration (4 names, 1 country, ~83% financial-sector)" as Medium severity. Per [[Source: Investment Thesis]], this concentration is a deliberate methodology choice — Barsi-style focuses on a small number of dividend-paying blue chips. The risk is real, but Yago has selected it knowingly. (2026-05-17 correction: concentration figure had been mis-stated as "72% in two names"; the actual exposure is ~83% across three financial-sector tickers — BBAS3 + CXSE3 + BBSE3.)
+**Why the concentration is intentional, not accidental**: the [[Finances]] risk assessment flags portfolio concentration (4 names, 1 country, heavily financial-sector) as High severity. Per [[Source: Investment Thesis]], this concentration is a deliberate methodology choice — Barsi-style focuses on a small number of dividend-paying blue chips. The risk is real, but Yago has selected it knowingly. **Detail surfaced 2026-05-29**: the **Banco do Brasil group — BBAS3 + BBSE3 — is roughly half the book**, so the exposure is not just sector/country but single-economic-group. The methodology is doing its income job (dividends accrued — see the sheet).
 
 **Tension to surface**: while the concentration is intentional, it does **not** address the FX hedge gap flagged High in [[Finances]]. Barsi methodology is BRL-denominated by design — it doesn't conflict with USD diversification, but it also doesn't deliver it. The [[International Relocation]] thesis still requires a separate USD allocation.
 
@@ -34,9 +32,9 @@ Yago's explicit framework for how the [[Finances|portfolio]] is constructed. Two
 
 **Philosophy**: invest in companies where Yago has **deep insider knowledge** of operations and current state, and which have **strong growth potential**. The information advantage justifies bypassing public-market diversification.
 
-**Holdings**: [[Fluencypass]] equity only — **R$ 75k cumulative, current value R$ 75k** (at par as of 2026-05-17; per Aportes sheet: 30 × R$ 2,500 Dez/2023 → Mai/2026).
+**Holdings**: [[Fluencypass]] equity only — the cumulative buy-in (Dez/2023 → Mai/2026; value tracked in the [Patrimônio Líquido](https://docs.google.com/spreadsheets/d/13cod5YUveCILRhjTISBC6xe8za1xNRLSjFkRw4edFxg/) sheet, carried at par).
 
-**Status 2026-05-22 — frozen**: Yago accepted [[Yandeh]] PJ R$ 42k starting 2026-06-15 ([[Source: Job Change 2026-06]]). The buy-in ended Jun/2026 by job change (not by the previously planned PJ restructuring inside FP). The R$ 75k stake **stays parked, no cliff, no forfeit, no new monthly capital**. Growth bucket adds zero new exposure monthly. The locked decision in [[International Relocation]] "Buy-in mantido até saída da empresa (~Mai/2028)" was honored 2 years early — via market decision rather than the planned trajectory.
+**Status 2026-05-22 — frozen**: Yago accepted [[Yandeh]] PJ starting 2026-06-15 ([[Source: Job Change 2026-06]]). The buy-in ended Jun/2026 by job change (not by the previously planned PJ restructuring inside FP). The stake **stays parked, no cliff, no forfeit, no new monthly capital**. Growth bucket adds zero new exposure monthly. The locked decision in [[International Relocation]] "Buy-in mantido até saída da empresa (~Mai/2028)" was honored 2 years early — via market decision rather than the planned trajectory.
 
 This is still the **entire growth bucket** of the portfolio. No other company qualifies under this thesis right now — and the **insider-knowledge advantage decays** from Yago's exit forward: after Jun/2026 the operating signal Yago can read on FP weakens quarter by quarter as he is no longer inside.
 
@@ -46,7 +44,7 @@ Per [[Source: Investment Thesis]] (2026-05-04), the dividend bucket is for month
 
 **Implications (updated 2026-05-22)**:
 
-- The R$ 2,500/mo equity buy-in at [[Fluencypass]] was the **only growth position being added monthly** — **ended Jun/2026** via the [[Yandeh]] job change (not via the previously planned PJ restructuring). The entire growth thesis is now **frozen** at R$ 75k parked. The cumulative stake stays in the bucket but the thesis adds zero new capital and Yago's insider visibility decays from here.
+- The monthly equity buy-in at [[Fluencypass]] was the **only growth position being added monthly** — **ended Jun/2026** via the [[Yandeh]] job change (not via the previously planned PJ restructuring). The entire growth thesis is now **frozen** (stake parked). The cumulative stake stays in the bucket but the thesis adds zero new capital and Yago's insider visibility decays from here.
 - Any "alternative growth bet" Yago might consider (e.g., another startup, tech ETF) would either: (a) need to qualify as "deep insider knowledge" under his own framing, or (b) require him to expand the thesis. **Yandeh equity is not on offer** in the role — there's no analogue to the Fluencypass partnership.
 - Public tech / growth ETFs (NASDAQ, IVVB11, etc.) **don't fit** either bucket as currently defined — they're neither high-yield dividend payers nor insider-knowledge growth bets. If FX hedge is added via S&P 500 / NASDAQ ETFs, that opens a **third bucket** the thesis doesn't yet name.
 - **The thesis is now lopsided by design**: 100% of new monthly capital flows into the dividend bucket. If Yago wants the growth bucket to keep contributing materially, he'd need to either (a) seed a new insider bet, or (b) explicitly expand the thesis to include index-tracking growth — which [[International Relocation]]'s FX hedge ramp may force as the "third bucket" question.
@@ -65,7 +63,7 @@ Headline numbers:
 - B2C churn 9-11% / month, LTV 8-12 months
 - B2B (launched Nov/2025) targeted to grow from 8% → 30% of revenue in 2026
 
-These numbers materially constrain valuation modeling. At 2-3x revenue (BR EdTech base case), FP ≈ R$ 30-45M; at 5x, ~R$ 75M; at 10x, ~R$ 150M. Yago's R$ 75k cumulative buy-in implies ownership of roughly 0.05% to 0.25% depending on the actual current valuation — which is still undocumented.
+These numbers materially constrain valuation modeling. At 2-3x revenue (BR EdTech base case), FP ≈ R$ 30-45M; at 5x, ~R$ 75M; at 10x, ~R$ 150M. Yago's cumulative buy-in (value in the Patrimônio Líquido sheet) implies ownership of roughly 0.05% to 0.25% depending on the actual current valuation — which is still undocumented. *(These FP valuation figures are growth-thesis analysis from [[Source: Investment Thesis]], not personal balance-sheet values.)*
 
 ## Growth-trajectory analysis (added 2026-05-04 13:31)
 
@@ -101,12 +99,12 @@ This is a sharper, more falsifiable framing. It points to specific things to wat
 
 If B2B share doesn't visibly accelerate quarterly through 2026, the multiple-expansion scenario becomes the only remaining path.
 
-**Note 2026-05-22**: with Yago out of FP from Jun/2026, the operational visibility on B2B trajectory weakens. The question shifts from "should I keep buying in?" to "should I assume the parked R$ 75k is option-value or write it down to zero in planning?" — same standing rule from [[Finances]] applies (treat as zero for decision-grade net worth).
+**Note 2026-05-22**: with Yago out of FP from Jun/2026, the operational visibility on B2B trajectory weakens. The question shifts from "should I keep buying in?" to "should I assume the parked stake is option-value or write it down to zero in planning?" — same standing rule from [[Finances]] applies (treat as zero for decision-grade net worth).
 
 ## Open questions
 
 - ~~What is FP's MRR growth trajectory?~~ — partially answered: 13% YoY at the consolidated level. Yago's insider visibility decays from Jun/2026; future signal depends on whatever FP discloses publicly or at liquidity events.
-- What is FP's current internal valuation used for the buy-in price? (Open follow-up in [[Fluencypass]].) Now matters for sizing the parked R$ 75k stake, not for new aportes.
+- What is FP's current internal valuation used for the buy-in price? (Open follow-up in [[Fluencypass]].) Now matters for sizing the parked stake, not for new aportes.
 - **Does the thesis need a third bucket for "FX hedge / passive index"? — now more urgent** with the growth bucket frozen. Without expanding the thesis, all new monthly capital flows to the dividend bucket and the FX hedge for [[International Relocation]] remains thesis-orphaned.
 - Is the 9-11% B2C monthly churn improving? Stable? Worsening? — still material for stake outcome but no longer something Yago can resolve from inside.
 

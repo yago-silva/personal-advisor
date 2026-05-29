@@ -264,3 +264,24 @@ Chronological record of wiki activity. Append-only. Each entry starts with `## [
   - Yandeh first-invoice net validation against R$ 35–36k estimate
   - "Yandeh as bridge or terminal?" decision — default bridge; 90-day signal pulls forward in [[International Relocation]]
 - pattern noted: this was a "live decision invalidates locked plan" ingest — handled by flag-in-place inline updates with explicit "Update 2026-05-22" banners rather than rewriting the locked plan. Preserves history; respects the decision-locked convention; lets Yago see when a downstream gate needs re-pricing without losing the prior reasoning.
+
+## [2026-05-29] ingest | Finances raw restructured to sheet-pointer + live MCP refresh
+- pages updated: Finances, Financial Goals, Investment Thesis, Source: Finances, index.md
+- pages created: none
+- source: raw/journal/Finances.md restructured by Yago into a thin pointer (3 Google Sheets links + reserve/CC-provision goal tabs + Family intersections + push-backs); numeric balance sheet now lives in the sheets, not the note. Google Sheets API enabled this session → read all three sheets live via Drive MCP (`2026 - Planejamento de Gastos`, `Patrimônio Líquido`, `Carteira de ações`).
+- live snapshot deltas vs 2026-05-22:
+  - net worth R$ 491,227.23 → **R$ 487,843.29** (market drift); gross R$ 734,436.21; liabilities R$ 246,592.92
+  - **Rico R$ 47,666.72 → R$ 33,592.92** (Mai/2026 fatura R$ 18,031.45 settled)
+  - **CC provision R$ 18,910.73 → R$ 33,189.56** (~92% of gross card debt) → **net card liability R$ 3,045.04** (was ~R$ 28.8k)
+  - **portfolio per-ticker now live** (was "aggregate only, broker refresh needed"): BBAS3 37.0% / CXSE3 34.4% / ISAE4 16.4% / BBSE3 12.2%; total ~R$ 130.6k; **BB-group (BBAS3+BBSE3) ≈ 49%**; proventos R$ 24,705.81 (DYOC 28.99%)
+  - passive income R$ 629.54/mo (0.48%); projected R$ 769.74 (0.59%); reserve unchanged R$ 7,833.94
+- risk reassessment (2026-05-29): CC revolving **near-neutralized** (Low); portfolio concentration **Medium → High** (BB-group exposure made explicit); added **"total dependence on active income"** (passive ≈ 3.5% of burn); Mai/2026 cash-deficit risk closed (played out as planned)
+- goals restructure: reserve ladder now 1→6→12 months (R$ 17,970.70 / 107,824 / 215,648); explicit "complete the credit-card provision" goal added (~92% done)
+- notes: intraday B3 drift observed between two reads in-session (portfolio R$ 129,810 vs R$ 130,615) — flagged inline. Rico forward cronograma now ~R$ 3.9k below current balance → flagged as needing refresh against the new balance. Two-tab gids in raw (606320972 / 1857567584) both resolve to the `Resumo` summary tab, not separate detail tabs.
+
+## [2026-05-29] ingest | Wiki convention: reference sheets, no literal financial values + 2 skills
+- pages updated: Finances, Financial Goals, Investment Thesis (rewritten reference-based), Source: Finances, index.md, CLAUDE.md
+- skills created: .claude/skills/finance-wiki-references (write side), .claude/skills/consult-linked-sources (read side)
+- trigger: Yago — "na Wiki não quero valores literais no financeiro, e sim referencias as planilhas" + create two skills (always use the sheets instead of fixing values; always consult linked Drive files referenced in raw)
+- convention: living wiki pages carry no transcribed currency state — qualitative claim + link to the sheet; numbers read live via Drive MCP. Goal thresholds / contract terms / tax rules may stay literal. Source-page logs exempt (append-only history). Encoded as CLAUDE.md page-convention #8 + new "Linked external files" section.
+- notes: stripped net worth / balances / portfolio R$ & weights / burn amount / reserve target amounts / passive income / Rico balances from the three living pages; reserve targets re-expressed as multiples of full burn. FP valuation analysis kept (growth-thesis input from a source, not finance-sheet state) but flagged as such. index.md one-liners de-literalized.

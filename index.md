@@ -6,9 +6,9 @@ Catalog of all wiki pages. Updated on every ingest.
 
 - [[Profile]] — biographical baseline; family + work updated to Yandeh incoming 2026-06-15 (4 sources)
 - [[wiki/self/health]] — body baseline + full pharmacological stack (TRT + Retatrutide + cardiovascular co-meds), May–Jun 2026 diet (3,500 kcal / 198g protein) and 8-week 5-day training cycle; lint reduced to measurements/labs gap (2 sources)
-- [[Finances]] — NW R$ 491k, burn R$ 17,970.70, **Jul/2026 inflow ~R$ 35–36k net via Yandeh PJ R$ 42k** (supersedes prior FP-restructuring assumption), Rico cronograma R$ 47.7k (4 sources)
-- [[Financial Goals]] — near/medium/long-term targets baselined; 6-month reserve target R$ 107,824; **job search closed 2026-05-22** at Yandeh R$ 42k base + 6× conditional (6 sources)
-- [[Investment Thesis]] — two-bucket framework: Barsi/AGF dividends (~83%/3 names) + insider growth (**frozen at FP R$ 75k parked from Jun/2026** post-exit) (2 sources)
+- [[Finances]] — **reference-based (no literal values; numbers live in the sheets, read via Drive MCP)**: Rico paid down + CC provision near-complete, reserve still critically thin, single PJ income (Yandeh from Jul/2026), portfolio heavily financial-sector (BB-group ≈ half) (4 sources)
+- [[Financial Goals]] — reserve ladder 1→6→12 months of full burn; CC-provision goal nearly done; diversify single-country <70%; job search closed 2026-05-22 at Yandeh (6 sources)
+- [[Investment Thesis]] — two-bucket framework: Barsi/AGF dividends (4 names, BB-group ≈ half) + insider growth (**frozen, FP stake parked from Jun/2026** post-exit) (2 sources)
 
 ## Career
 
