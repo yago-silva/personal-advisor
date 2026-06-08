@@ -27,7 +27,7 @@ Check in [this sheet](https://docs.google.com/spreadsheets/d/1v6eTPtx7KzHi77kn6K
 ## Family intersections
 - Currently I'm the only provider of the family. My wife ([[stephanie-identity]]) is curreltly Unemployed. To work allow she to work, We need add some coast in out life:
 	- Transport
-	- Lorena's meals at school (~ R$ 500.00 more) 
+	- Lorena's meals at school
 - Stephanie’s earning potential in Brazil is around R$3,000, based on her current field, experience, and qualifications as a nursing technician.
 ## Things to push back on
 

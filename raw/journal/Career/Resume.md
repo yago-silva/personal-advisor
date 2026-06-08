@@ -35,19 +35,10 @@
 
 ## Career history
 
-### Yandeh — Staff Product Engineer
+###  [[raw/journal/Career/Yandeh/Basic Infos|Yandeh]] — Staff Product Engineer at Yandeh
 
 **Jun 2026 – Present** · São Paulo (Itaim, hybrid 4 days/week presencial)
-
-[to fill in sector and product positioning once I'm onboarded.]
-
-**Scope:** [to fill in honestly once I start — owned platform, team, charter.]
-
-**Key shipped work:** [to fill in once there's real signal — first 90 days will dictate this.]
-
-**Comp:** PJ R$ 42.000/month + bonus up to 6x salaries tied to goals (conditional, proportional to start date and to permanence on payment date). Benefits: Flash R$ 1.100, Wellhub, SulAmérica Saúde Executivo R1 Apto (titular + deps), Allya, Day Off in birthday month, parental leave (gestation 180d / paternity 30d), mobility R$ 360, 24 days annual vacation. Full offer terms and decision narrative in `raw/journal/Plans/Job-Change-2026-06.md`.
-
-**Lesson:** [to fill in once there's real tenure — too early at signing.]
+[[History]]
 
 ---
 
