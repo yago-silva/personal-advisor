@@ -11,14 +11,12 @@
             "id": "45ce592f93ca3262",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "raw/Career/Resume.md",
-                "mode": "source",
-                "source": false
+                "file": "rule-buttons.png"
               },
-              "icon": "lucide-file",
-              "title": "Resume"
+              "icon": "lucide-image",
+              "title": "rule-buttons"
             }
           }
         ]
@@ -185,8 +183,11 @@
   },
   "active": "45ce592f93ca3262",
   "lastOpenFiles": [
-    "raw/Career/Yandeh/History.md",
+    "raw/Plans/Relocation.md",
+    "raw/library/README.md",
+    "CLAUDE.md",
     "raw/Career/Resume.md",
+    "raw/Career/Yandeh/History.md",
     "raw/Career/Yandeh/Basic Infos.md",
     "raw/Family/Lorena/Identity.md",
     "raw/Family/Lorena/Education.md",
@@ -197,7 +198,6 @@
     "raw/Family/Stephanie/Career.md",
     "raw/Self/Identity.md",
     "CLAUDE.md.tmp.10333.89c83143c1ed",
-    "raw/library/README.md",
     "raw/library/README.md.tmp.10333.fc22a86414f1",
     "raw/library",
     "raw/Career/Resume.md.tmp.10333.f2467c045c47",
@@ -217,10 +217,8 @@
     "raw/Health/Body Measures History.md",
     "raw/Health/Workout History/May - Jun 2026.md",
     "raw/Health/Diet History/May - Jun 2026.md",
-    "raw/Plans/Relocation.md",
     "raw/Health/workout history/May - Jun 2026.md",
     "raw/Health/planned diets history/May - Jun 2026.md",
-    "raw/Health/Body measures history.md",
     "rule-buttons.png",
     "Sem título.canvas"
   ]
