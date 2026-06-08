@@ -5,7 +5,7 @@ Catalog of all wiki pages. Updated on every ingest.
 ## Self
 
 - [[Profile]] — biographical baseline; family + work updated to Yandeh incoming 2026-06-15 (4 sources)
-- [[wiki/self/health]] — body baseline + full pharmacological stack (TRT + Retatrutide + cardiovascular co-meds), May–Jun 2026 diet (3,500 kcal / 198g protein) and 8-week 5-day training cycle; lint reduced to measurements/labs gap (2 sources)
+- [[wiki/self/health]] — body baseline + full pharmacological stack (TRT + Retatrutide + cardiovascular co-meds), May–Jun 2026 diet (3,500 kcal / 198g protein) and 8-week training cycle (Weeks 1–3 logged in sheet); new daily habit tracker: workout high, cardio + English at 0; lint: still no body-composition data (2 sources)
 - [[Finances]] — **reference-based (no literal values; numbers live in the sheets, read via Drive MCP)**: Rico paid down + CC provision near-complete, reserve still critically thin, single PJ income (Yandeh from Jul/2026), portfolio heavily financial-sector (BB-group ≈ half) (4 sources)
 - [[Financial Goals]] — reserve ladder 1→6→12 months of full burn; CC-provision goal nearly done; diversify single-country <70%; job search closed 2026-05-22 at Yandeh (6 sources)
 - [[Investment Thesis]] — two-bucket framework: Barsi/AGF dividends (4 names, BB-group ≈ half) + insider growth (**frozen, FP stake parked from Jun/2026** post-exit) (2 sources)
@@ -46,4 +46,4 @@ _(no pages yet)_
 - [[Source: Lorena's Identity]] — biographical card; birthdate corrected (2026-05-03)
 - [[Source: Identity]] — Yago's profile snapshot
 - [[Source: Goals]] — financial goals note (overlaps with Finances)
-- [[Source: Health]] — Health/ directory (Basic Infos + planned diet May–Jun 2026 + 8-week workout starting 2026-05-15); Retatrutide added to stack (2026-05-17)
+- [[Source: Health]] — Health/ directory, refactored to thin-pointer sheets 2026-05-29 (workout + habit tracker now in Drive); Weeks 1–3 of training logged; Retatrutide in stack since 2026-05-17

@@ -3,7 +3,7 @@ title: Health
 type: self
 tags: [health, body-metrics, protocol, training, nutrition]
 created: 2026-05-02
-updated: 2026-05-17
+updated: 2026-05-29
 sources:
   - "[[Source: Health]]"
   - "[[Source: Finances]]"
@@ -16,7 +16,7 @@ sources:
 - Height: 1.61 m
 - Weight: ~70 kg
 
-Body-measures history folder exists in `raw/journal/Health/body measures history/` but is empty — no weekly weight or circumference log yet ([[Source: Health]]).
+As of 2026-05-29, `raw/journal/Health/Body measures history.md` points to a [Google Sheet](https://docs.google.com/spreadsheets/d/1UN2SAj1kk9DJUJp6f-BMcDKiGx95vCri7n7KgGwrB-c) — but despite the name, its only tab is a daily habit-adherence tracker (see below), **not** a weight or circumference log. No body-composition trend is recorded yet ([[Source: Health]]).
 
 ## Pharmacological stack (under medical supervision)
 
@@ -47,19 +47,29 @@ Supplements: Whey (already counted in macros), Creatine 5 g/day, multivitamin, o
 
 Macro split skews high-carb / low-fat / high-protein — hypertrophy/recomp bias. At 70 kg, the calorie target is a substantial surplus relative to maintenance (~2,400–2,600 kcal); combined with Retatrutide, the intended trajectory (lean-gain vs. body-recomp) is not yet stated in the source.
 
-## Training plan (15 May → ~15 Jul 2026, 8-week cycle)
+## Training plan (May–Jun 2026, 8-week cycle)
 
 5-day split, Monday–Friday, hypertrophy rep ranges (8–10 / 5–6 / 8–12) with one CLUSTER SET finisher per exercise on most days:
 
 | Day | Focus | Notes |
 | --- | --- | --- |
-| Seg | Peito + Ombro anterior + Abdômen + Panturrilha | Week 1 loads logged for chest/shoulder; abs + calves marked "—" |
-| Ter | Costas + Ombro posterior + Abdômen | Week 1 and Week 8 columns both populated; mixed plate/pin reference noted in source |
-| Qua | Pernas (quad + posterior + panturrilha) | All loads "—" — to be filled during execution |
+| Seg | Peito + Ombro anterior + Abdômen + Panturrilha | Loads logging; chest/shoulder progressing across weeks |
+| Ter | Costas + Ombro posterior + Abdômen | Mixed plate/pin reference noted in source |
+| Qua | Pernas (quad + posterior + panturrilha) | Loads still blank in the sheet — fill during execution |
 | Qui | Peito + Tríceps + Bíceps + Abdômen | Week 1 marked *"casa"* (home gym) |
-| Sex | Peito + Ombros (lateral/posterior) + Panturrilha | All loads "—" — to be filled during execution |
+| Sex | Peito + Ombros (lateral/posterior) + Panturrilha | Loads still blank in the sheet — fill during execution |
 
-Starting loads (Week 1) include e.g. Crucifixo Inclinado halter 30→34 kg, Pull Down corda 70→75 kg, Supino Reto Máquina Articulado 30→35 kg, Rosca Alternada com Giro 14→16 kg. Full table in `raw/journal/Health/workout history/15 May - 15 Jun 2026.md` (filename says "15 May - 15 Jun" but the program is 8 weeks, so it runs to ~10 Jul 2026 — possible filename/cycle-length mismatch worth confirming).
+The full per-set table and weekly loads now live in the "Treino yago 21" [Google Sheet](https://docs.google.com/spreadsheets/d/1q7dF-CTRqfGMQ71Wft20UyIbxq0mmfllyzVzKgNbWGo), linked from `raw/journal/Health/workout history/May - Jun 2026.md` (read live via the Drive MCP rather than transcribed — [[consult-linked-sources]]). As of 2026-05-29, **Weeks 1–3 are logged** (Semana 3 dated 25/05/2026) with loads progressing week over week, so the program is being executed and tracked, not just planned ([[Source: Health]]).
+
+## Habit adherence (from 2026-05-29)
+
+A daily self-scoring tracker (0–10 per behavior) started 25/05/2026, kept in the [habit sheet](https://docs.google.com/spreadsheets/d/1UN2SAj1kk9DJUJp6f-BMcDKiGx95vCri7n7KgGwrB-c) (the file is named "Body measures history" but currently holds this, not measurements). Four tracked behaviors: **Workout, Cardio, English Lesson, AI Lesson**. Early pattern (read live for current values):
+
+- **Workout** — consistently high (8–10). Discipline is real here, consistent with the training-section progression.
+- **Cardio** and **English Lesson** — **0 every logged day**. Either dropped or never started.
+- **AI Lesson** — trending down (8 → 0 over the first five days).
+
+The signal: effort is concentrated almost entirely on lifting; cardio and study habits are not being executed. Whether cardio/English are *intended* habits or stale columns is unconfirmed ([[Source: Health]]).
 
 ## Spend signal
 
@@ -67,7 +77,8 @@ Starting loads (Week 1) include e.g. Crucifixo Inclinado halter 30→34 kg, Pull
 
 ## Open lint
 
-- **No measurement cadence yet** — placeholder folder present, but no actual weekly weights or monthly circumferences. Without it the wiki still cannot evaluate whether the spend produces results.
+- **Still no body-composition data** — the "Body measures history" sheet tracks daily habits, not weight or circumferences. Without a weight/measure trend the wiki still cannot evaluate whether the protocol + diet are producing results. Add a measures tab or rename the sheet.
+- **Cardio + English at 0** — flatlined in the habit tracker since 25/05. If intended, this is a live adherence gap worth a journal note; if not, drop the columns.
 - **No lab markers documented** — the stack warrants minimum monitoring (lipids, hematocrit, BP, HbA1c, estradiol). Worth a journal entry.
-- **Pernas + Sexta loads empty** — backfill during execution per the source's own observation.
+- **Pernas + Sexta loads empty** — still blank in the workout sheet; backfill during execution.
 - **Retatrutide context missing** — indication, prescriber, duration, exit plan not yet captured.

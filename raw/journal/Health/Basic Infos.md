@@ -11,3 +11,9 @@ Premise: I've decided to use hormones to build muscle. I know it can affect my h
 - Anastrozole 1,5mg per week
 ## Other Substances Used
 - RETATRUTIDE 2mg per week
+
+## Important References
+
+- [[Body measures history]]
+- [[raw/journal/Health/workout history/May - Jun 2026|May - Jun 2026]]
+- 
