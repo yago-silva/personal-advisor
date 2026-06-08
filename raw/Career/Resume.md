@@ -6,7 +6,6 @@ created: unknown
 updated: 2026-06-08
 lang: en
 ---
-
 ## Headline (current LinkedIn)
 
 > Staff Software Engineer @ Fluencypass | Java | React | AI/LLM | AWS | Software Architecture
@@ -68,7 +67,6 @@ EdTech: English courses + live conversation + study abroad + AI learning tools.
 
 **Important**: Partner through partnership program (Buying R$ 2,500.00/month in Equity - like stock options)
 
-**Lesson:** Why I'm leaving + what Fluencypass taught me — capturing in `raw/journal/Plans/Job-Change-2026-06.md` over the handoff window (May–Jun 2026).
 
 ---
 
