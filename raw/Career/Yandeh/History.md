@@ -1,3 +1,12 @@
+---
+type: reference
+domain: career
+entity: Yandeh
+created: unknown
+updated: 2026-06-08
+lang: en
+---
+
 ## Inicial offer terms
 
 Source: `raw/assets/yandeh-proposta-pj-2026-05-22.pdf` (proposal letter, model PJ).

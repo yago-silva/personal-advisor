@@ -1,3 +1,11 @@
+---
+type: note
+domain: finances
+created: unknown
+updated: 2026-06-08
+lang: en
+---
+
 ## Dividend aligned with growth
 
 The idea behind these investments is to focus on generating consistent monthly income. This approach is based on [Luis Barsi's ](https://pt.wikipedia.org/wiki/Luiz_Barsi_Filho) investment philosophy and the [AGF](https://acoesgarantem.com.br/) methodology.  

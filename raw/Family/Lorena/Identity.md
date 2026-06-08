@@ -1,3 +1,13 @@
+---
+type: note
+domain: family
+entity: Lorena
+relation: daughter
+created: unknown
+updated: 2026-06-08
+lang: en
+---
+
 ## Basic infos
 - Complete Name: Lorena Jesus dos Santos
 - Birthdate: March 22, 2015
@@ -6,4 +16,4 @@
 
 ## More infos
 
-[[Lorena's Education]]
+[[raw/Family/Lorena/Education|Education]]

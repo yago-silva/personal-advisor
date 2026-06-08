@@ -1,3 +1,14 @@
+---
+type: note
+domain: health
+entity: Yago
+created: unknown
+updated: 2026-06-08
+lang: pt
+links:
+  - "https://docs.google.com/spreadsheets/d/1q7dF-CTRqfGMQ71Wft20UyIbxq0mmfllyzVzKgNbWGo"
+---
+
 Objetivo: Hipertrofia com menor ganho de gordura possível
 ## Programa de 8 Semanas
 

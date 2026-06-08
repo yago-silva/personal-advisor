@@ -1,3 +1,15 @@
+---
+type: reference
+domain: finances
+created: unknown
+updated: 2026-06-08
+lang: en
+links:
+  - "https://docs.google.com/spreadsheets/d/15qSiPTHYmzh1_ItzET0VZStiVu32KEodbBxU30Sl78w/"
+  - "https://docs.google.com/spreadsheets/d/13cod5YUveCILRhjTISBC6xe8za1xNRLSjFkRw4edFxg"
+  - "https://docs.google.com/spreadsheets/d/1v6eTPtx7KzHi77kn6KMjG9nQtfHwXY2nbbhMBzrzgSY"
+---
+
 ## Anual Planned Incomes
 
 _Last refresh: 2026-05-29
@@ -25,7 +37,7 @@ Check in [this sheet](https://docs.google.com/spreadsheets/d/1v6eTPtx7KzHi77kn6K
 ### Long-term (5+ years)
 - **Build emergency reserve 12 months**  - More details in [this sheet](https://docs.google.com/spreadsheets/d/13cod5YUveCILRhjTISBC6xe8za1xNRLSjFkRw4edFxg/edit?gid=606320972#gid=606320972)
 ## Family intersections
-- Currently I'm the only provider of the family. My wife ([[stephanie-identity]]) is curreltly Unemployed. To work allow she to work, We need add some coast in out life:
+- Currently I'm the only provider of the family. My wife ([[raw/Family/Stephanie/Identity|Stephanie]]) is curreltly Unemployed. To work allow she to work, We need add some coast in out life:
 	- Transport
 	- Lorena's meals at school
 - Stephanie’s earning potential in Brazil is around R$3,000, based on her current field, experience, and qualifications as a nursing technician.

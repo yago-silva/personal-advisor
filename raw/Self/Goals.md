@@ -1,3 +1,11 @@
+---
+type: note
+domain: self
+created: unknown
+updated: 2026-06-08
+lang: en
+---
+
 ## Finances
 
 ### First million in reals (BRL)

@@ -1,3 +1,13 @@
+---
+type: note
+domain: family
+entity: Stephanie
+relation: partner
+created: unknown
+updated: 2026-06-08
+lang: en
+---
+
 ## Profile
 - **Profession:** Nursing Technician (Técnica de Enfermagem)
 - **Years in healthcare:** ~7 years (since 2019)

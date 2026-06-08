@@ -1,3 +1,13 @@
+---
+type: note
+domain: family
+entity: Lorena
+relation: daughter
+created: unknown
+updated: 2026-06-08
+lang: en
+---
+
 ## School
 - Current studying at [Arbos](https://arbos.com.br/). She started in this school in 2026 
 - Attending the 6th grade of elementary school 2

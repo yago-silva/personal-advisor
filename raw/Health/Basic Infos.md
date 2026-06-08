@@ -1,3 +1,12 @@
+---
+type: reference
+domain: health
+entity: Yago
+created: unknown
+updated: 2026-06-08
+lang: mixed
+---
+
 Premise: I've decided to use hormones to build muscle. I know it can affect my health, but I’m under medical supervision. Please don’t judge my decision.
 ## Basic Infos
 - Height: 1.61 meters
@@ -14,6 +23,6 @@ Premise: I've decided to use hormones to build muscle. I know it can affect my h
 
 ## Important References
 
-- [[Body measures history]]
-- [[raw/journal/Health/workout history/May - Jun 2026|May - Jun 2026]]
+- [[raw/Health/Body Measures History|Body Measures History]]
+- [[raw/Health/Workout History/May - Jun 2026|May - Jun 2026]]
 - 

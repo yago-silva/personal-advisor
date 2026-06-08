@@ -1,3 +1,12 @@
+---
+type: reference
+domain: career
+entity: Yandeh
+created: unknown
+updated: 2026-06-08
+lang: mixed
+---
+
 ## Company Details
 
 Site: https://yandeh.com/

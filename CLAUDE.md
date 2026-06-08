@@ -1,204 +1,77 @@
 ---
-name: Personal Advisor — LLM Wiki Schema
+name: Personal Advisor — knowledge base schema
 description: Configuration for Claude Code when operating on this knowledge base
 ---
 
 # Personal Advisor
 
-A personal + career knowledge base maintained by Claude. The user, **Yago Silva** (yago.silva@fluencypass.com, FluencyPass), curates raw sources; Claude reads them, integrates them into this wiki, and keeps the structure consistent over time.
+A personal + career knowledge base curated by **Yago Silva** (yago.silva@fluencypass.com, FluencyPass). Yago authors and maintains the source notes; Claude reads them live to answer questions, surface connections across domains, and help keep the structure consistent.
 
-The wiki is the LLM-built compounding artifact between Yago and his raw sources. Yago's job: source, direct, ask. Claude's job: read, summarize, cross-link, file, maintain.
+Yago's job: source, direct, ask. Claude's job: read, synthesize, cross-link, advise — and maintain the structure when asked.
 
-## Three layers
+## Layers
 
-- **`raw/`** — immutable source documents. Read-only.
-- **`wiki/`** — Claude-generated and maintained pages. Claude owns this entire layer.
-- **`CLAUDE.md`** (this file) — schema and conventions. Co-evolved with Yago over time.
-
-Plus two index files at the root: `index.md` (catalog) and `log.md` (chronological).
+- **`raw/`** — Yago's living, curated knowledge tree, organized by domain. Authored and owned by Yago; Claude edits it only when Yago asks. Notes evolve in place; history is kept by git (there is no "immutable" rule).
+- **`CLAUDE.md`** (this file) — schema and conventions, co-evolved with Yago over time.
 
 ## Directory layout
 
 ```
 .
 ├── CLAUDE.md
-├── index.md
-├── log.md
-├── raw/
-│   ├── articles/       web clips (Obsidian Web Clipper, .md)
-│   ├── journal/        first-person notes by Yago (.md)
-│   ├── transcripts/    podcast / video transcripts (.md)
-│   └── assets/         images, PDFs, attachments
-└── wiki/
-    ├── self/           identity, values, goals, psychology, health, habits, decisions
-    ├── career/         FluencyPass, LinkedIn, professional strategy, skills, network
-    ├── people/         one page per recurring person in life or career
-    ├── concepts/       mental models, frameworks, recurring ideas
-    ├── projects/       active initiatives and decisions-in-progress
-    └── sources/        one canonical summary page per ingested source
+└── raw/
+    ├── Career/        professional history, current role, positioning
+    ├── Family/        one subfolder per person (Lorena/, Stephanie/, …)
+    ├── Finances/      overview + investment thesis (numbers live in linked Sheets)
+    ├── Health/        baseline + diet/workout history (details in linked Sheets)
+    ├── Plans/         active multi-step plans (e.g. Relocation)
+    ├── Self/          identity, goals, values, decisions
+    ├── assets/        binaries: PDFs, images, attachments
+    └── library/       imported external captures (web clips, transcripts, articles)
 ```
 
-Pages do not need to live exactly under these top-level folders if a more specific subfolder helps. Create subfolders when a category grows past ~10 pages.
+Domain folders hold Yago's own notes; `library/` holds material he did not author (captures). Create subfolders when a domain grows, and nest by entity where it helps (e.g. `Family/<person>/`, `Career/<company>/`).
 
-## Page conventions
+## File conventions
 
-1. **Language**: English, always. Even when sources are Portuguese, summarize and discuss in English. Preserve original-language quotes verbatim.
-2. **Filenames**: kebab-case ASCII, e.g. `linkedin-strategy.md`, `paul-graham-bus-ticket.md`. No spaces, no accents.
-3. **Wikilinks**: use `[[Page Title]]` (Obsidian-compatible). Cross-link aggressively — entity mentions, concept references, related sources. The wiki's value compounds with links.
-4. **Frontmatter**: every wiki page starts with YAML frontmatter:
+1. **Filenames**: Title Case with spaces, ASCII-friendly, no apostrophes (e.g. `Basic Infos.md`, `Body Measures History.md`). Folders likewise (`Diet History/`, not `diet history/`). Keeps Obsidian `[[ ]]` links ergonomic and scripts/git happy.
+2. **Language**: a note may be PT or EN (Yago's choice per note); record it in `lang`. Preserve his words verbatim — don't translate or paraphrase first-person reflections.
+3. **Internal links**: `[[…]]` Obsidian-compatible. The vault root is the repo root, and several files share a basename (`Identity.md`), so link by full vault path with an alias: `[[raw/Family/Lorena/Identity|Lorena]]`.
+4. **Frontmatter**: every `.md` starts with:
    ```yaml
    ---
-   title: <human-readable title>
-   type: self | career | people | concept | project | source
-   tags: [<short tags>]
-   created: YYYY-MM-DD
+   type: note | reference | plan | capture
+   domain: career | family | finances | health | plans | self | library
+   created: YYYY-MM-DD        # or `unknown` if not knowable — don't invent
    updated: YYYY-MM-DD
-   sources:
-     - "[[Source Page 1]]"
-     - "[[Source Page 2]]"
+   lang: pt | en | mixed
+   entity: <person/company>   # optional
+   relation: <e.g. daughter>  # optional, for people
+   links:                     # optional: live sources of truth (Sheets, URLs)
+     - "<url>"
    ---
    ```
-   Use the multi-line list form for `sources:` — it's unambiguous YAML and renders cleanly in Obsidian Properties.
-   Bump `updated:` whenever you modify the page. Append new entries to `sources:` as they accumulate.
-5. **Headings**: H1 matches the title. Use H2/H3 for structure.
-6. **Citations**: when a claim comes from a specific source, link the source page inline:
-   "He values long-horizon bets ([[Source: Paul Graham — The Bus Ticket Theory]])."
-7. **Contradictions**: never silently overwrite. Note explicitly:
-   "Earlier journals (2026-Q1) framed this as X; the 2026-04 reflection reframed it as Y ([[Journal: 2026-04-12]])."
-8. **No literal financial values in living wiki pages** (set 2026-05-29): when a number is tracked in a spreadsheet the raw links to (net worth, balances, portfolio, burn, income, reserves, provisions, debt), do **not** transcribe it into the wiki — state the qualitative claim and link the sheet. Numbers live in the sheets and are read live via the Drive MCP. Goal *thresholds*, contractual terms, and tax rules (not sheet-tracked state) may stay as literals. See skills `finance-wiki-references` (write side) and `consult-linked-sources` (read side). Source-page modification logs are exempt — they're append-only dated history.
+   Bump `updated:` whenever you change a file.
+5. **No literal financial state values** (set 2026-05-29): when a number is tracked in a linked spreadsheet (net worth, balances, portfolio, burn, income, reserves, provisions, debt), don't transcribe it into a note — state it qualitatively and link the Sheet via `links:`. Numbers live in the Sheets, read live via the Drive MCP. Goal *thresholds*, contractual terms, and tax rules (not sheet-tracked state) may stay literal. Dated plan documents (e.g. `Plans/Relocation.md`) may carry a projection/cost model as a snapshot of planning assumptions.
 
 ## Linked external files (Drive)
 
-Raw sources increasingly act as thin pointers to external files in Yago's Drive (e.g. `raw/journal/Finances.md` links three Google Sheets). Those files are the source of truth. When you need a value from one, resolve the link **live** via the Drive MCP (`gsheets_read` with targeted ranges, or `gdrive_read_file`) rather than trusting a transcribed copy. The `consult-linked-sources` skill documents the mechanics and known file IDs. Expect more such files over time.
+Notes increasingly act as thin pointers to external files in Yago's Drive (e.g. `Finances/Overview.md` and the Health history files link Google Sheets). Those files are the source of truth. When you need a value, resolve the link **live** via the Drive MCP (`gsheets_read` with targeted ranges, or `gdrive_read_file`) rather than trusting a transcribed copy. The `consult-linked-sources` skill documents the mechanics and known file IDs. Expect more such files over time.
 
-## Source page convention
+## How Claude works here
 
-Every file in `raw/` gets a corresponding page in `wiki/sources/`. Frontmatter:
-```yaml
----
-title: <source title>
-type: source
-source_type: article | journal | transcript
-source_path: raw/articles/whatever.md
-source_url: <if web>
-source_date: YYYY-MM-DD     # publish or recording date
-ingested: YYYY-MM-DD
-author: <if known>
-tags: [...]
----
-```
-Body structure:
-- 1-paragraph summary
-- Key takeaways (bullets)
-- Notable direct quotes worth preserving
-- **Wiki updates** section listing which other pages this source touched
-
-## Workflows
-
-### Ingest
-
-Trigger: Yago drops a file in `raw/` and says "ingest" / names a path / asks Claude to process it.
-
-1. Read the source in full.
-2. Discuss 3–5 key takeaways and ask which threads to emphasize. Skip this step if Yago says "go" or "just ingest."
-3. Create `wiki/sources/<slug>.md` per the source-page convention.
-4. Walk wiki pages this source touches. For each:
-   - Integrate the new info.
-   - Add the source to `sources:` frontmatter.
-   - Bump `updated:`.
-   - Flag any contradiction inline rather than overwriting.
-5. Create new entity / concept / project pages where warranted.
-6. Update `index.md`: add new pages, refresh one-line summaries on materially changed pages.
-7. Append a log entry to `log.md`.
-8. Report back: "ingested X, touched N wiki pages, created M new pages, K contradictions flagged."
-
-#### Source-type-specific notes
-
-- **Articles** (`raw/articles/`): typically Obsidian Web Clipper output. Strip boilerplate (cookie banners, related-posts, ads). If images are downloaded to `raw/assets/`, view them when visual context matters.
-- **Journal** (`raw/journal/`): first-person from Yago. Treat as primary self-evidence. These mainly update `wiki/self/*`. Quote Yago's words directly with date attribution. Do not paraphrase first-person reflections into third-person observation.
-- **Transcripts** (`raw/transcripts/`): can be long. Extract entities (every person and concept mentioned), themes, and quotes worth preserving. If the transcript covers multiple topics, include a mini-TOC in the source page.
-
-### Query
-
-Trigger: Yago asks a question.
-
-1. Read `index.md` first to find candidate pages.
-2. Read those pages (and source pages they cite if needed).
-3. Synthesize an answer with inline citations: "Based on [[Linkedin Strategy]] and [[Source: That Talk]], ..."
-4. If the answer surfaces a new connection, comparison, or analysis worth keeping, **offer** to file it back as a wiki page (typically `wiki/concepts/` or `wiki/self/`). Do not file unprompted unless Yago says "file useful answers automatically."
-5. Append a query entry to `log.md` if the work was substantive (skip for trivial lookups).
-
-### Lint
-
-Trigger: Yago says "lint" or "health check."
-
-Walk the wiki and report:
-- Contradictions between pages
-- Stale claims newer sources have superseded
-- Orphan pages (no inbound `[[wikilinks]]`)
-- Important entities/concepts mentioned but lacking their own page
-- Missing cross-references (page A clearly should link page B but doesn't)
-- Data gaps that could be filled with web search
-
-Then propose a plan. Do not auto-fix — wait for approval.
-
-## index.md format
-
-Catalog organized by category. Each entry: `- [[Page Title]] — one-line summary (N sources)`.
-
-Sections, in this order: **Self**, **Career**, **People**, **Concepts**, **Projects**, **Sources** (latest-first within Sources).
-
-Keep entries skimmable; this file is loaded into context on every query.
-
-## log.md format
-
-Append-only. Each entry starts with a parseable header so `grep "^## \[" log.md | tail -10` works.
-
-```
-## [YYYY-MM-DD] ingest | <Source Title>
-- pages created: X, Y
-- pages updated: A, B, C
-- notes: <noteworthy items — contradictions surfaced, entity created, etc.>
-
-## [YYYY-MM-DD] query | <one-line question>
-- pages consulted: A, B
-- output: chat-only / filed as [[New Page]]
-- notes: <if useful>
-
-## [YYYY-MM-DD] lint
-- findings: <count>
-- actions: <list>
-```
-
-## Output formats beyond markdown
-
-Default: markdown wiki pages.
-
-On request:
-- **Comparison** → markdown table.
-- **Slide deck** → Marp markdown at `wiki/decks/<slug>.md` with Marp frontmatter (Marp Obsidian plugin not yet installed; flag that the plugin is needed when first used).
-- **Chart** → matplotlib script at `wiki/charts/<slug>.py` plus the rendered PNG at `wiki/charts/<slug>.png`. Reference the PNG from the relevant wiki page.
-- **Canvas** → Obsidian `.canvas` file (JSON) under `wiki/canvases/`.
+- **Answering**: read the relevant `raw/` notes (and their linked Sheets, live) and synthesize a direct answer, citing the note paths. Don't rely on memory for figures — read the Sheet.
+- **Maintaining**: edit `raw/` only when Yago asks. Preserve his first-person voice; never invent claims about him that aren't grounded in a note. Flag contradictions explicitly instead of silently overwriting.
+- **Boundaries**: don't advise on Stephanie's career direction — document what she shares and surface joint trade-offs only.
 
 ## Tone and voice
 
-- Wiki pages: neutral, structured, concrete, third-person — except `wiki/self/*` which can quote Yago's first-person journal text directly with date attribution.
-- No filler. No "in conclusion." No "it's important to note." Claims and citations only.
-- When uncertain, say so explicitly: "Two journal entries from 2026-03 suggest X, but no other sources confirm."
-- Brevity beats completeness. A page that says one true thing and links to three others is better than a page that says ten vague things.
+- Direct, structured, concrete. No filler, no "in conclusion," no "it's important to note." Claims and citations only.
+- When uncertain, say so explicitly: "Two notes from 2026-03 suggest X, but nothing else confirms."
+- Brevity beats completeness: one true thing plus links beats ten vague ones.
 
 ## Operating principles
 
-- The wiki is a compounding artifact. Every ingest should leave it richer than it was — at minimum, one new cross-link.
-- Yago directs; Claude maintains. Never invent claims about Yago that aren't grounded in a source.
-- When a question opens up a useful framing, offer to file it. The wiki should grow from queries too, not just ingests.
-- The schema is co-evolved. If a workflow recurs (e.g. weekly review), Yago and Claude formalize it in this file.
-
-## Optional tooling (not yet installed)
-
-- **Obsidian Web Clipper** browser extension for fast article ingest into `raw/articles/`.
-- **Dataview** plugin to run frontmatter queries (e.g., recent updates, source counts per page).
-- **Marp** plugin for slide-deck rendering.
-- **qmd** (https://github.com/tobi/qmd) — local hybrid BM25/vector search if `index.md` outgrows being readable in one pass (~200 sources).
-
-Mention these only when their absence becomes a friction point.
+- Yago directs; Claude maintains. Every interaction should leave the tree clearer, not just bigger.
+- The schema is co-evolved. If a workflow recurs (e.g. a weekly review), formalize it here.
+- `raw/` is the primary durable layer. Optimize it to be (a) easy for Yago to find and update, and (b) readable live by an LLM for synthesis on demand.

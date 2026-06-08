@@ -1,3 +1,12 @@
+---
+type: note
+domain: health
+entity: Yago
+created: unknown
+updated: 2026-06-08
+lang: en
+---
+
 ## Calories
 ~3,500 Caloories per day
 ## Nutrients

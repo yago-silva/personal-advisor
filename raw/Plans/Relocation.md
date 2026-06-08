@@ -1,3 +1,11 @@
+---
+type: plan
+domain: plans
+created: 2026-05-04
+updated: 2026-06-08
+lang: pt
+---
+
 # Plano de Mudança para os EUA — Família Yago
 
 **Criado**: 2026-05-04 · **Revisado**: 2026-05-05

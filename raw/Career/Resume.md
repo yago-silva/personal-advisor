@@ -1,3 +1,12 @@
+---
+type: note
+domain: career
+entity: Yago
+created: unknown
+updated: 2026-06-08
+lang: en
+---
+
 ## Headline (current LinkedIn)
 
 > Staff Software Engineer @ Fluencypass | Java | React | AI/LLM | AWS | Software Architecture
@@ -35,7 +44,7 @@
 
 ## Career history
 
-###  [[raw/journal/Career/Yandeh/Basic Infos|Yandeh]] — Staff Product Engineer at Yandeh
+###  [[raw/Career/Yandeh/Basic Infos|Yandeh]] — Staff Product Engineer at Yandeh
 
 **Jun 2026 – Present** · São Paulo (Itaim, hybrid 4 days/week presencial)
 [[History]]
@@ -247,4 +256,4 @@ Not direct related to software engineering. More related to computer networks
 2 - Is Fluencypass Equity better than work abroad?
 3 - IC vs. management in the AI age: which is the smarter long-term decision?
 
-**Status 2026-05-22**: Q2 effectively resolved by the market — accepted Yandeh PJ R$ 42k without equity, ~2 years ahead of the planned FP exit (~May/2028 per `raw/journal/Plans/Relocation.md`). Q1 and Q3 remain open; the Yandeh role will give new signal on both.
+**Status 2026-05-22**: Q2 effectively resolved by the market — accepted Yandeh PJ R$ 42k without equity, ~2 years ahead of the planned FP exit (~May/2028 per `raw/Plans/Relocation.md`). Q1 and Q3 remain open; the Yandeh role will give new signal on both.
