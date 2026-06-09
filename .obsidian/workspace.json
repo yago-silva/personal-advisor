@@ -11,12 +11,14 @@
             "id": "45ce592f93ca3262",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "rule-buttons.png"
+                "file": "raw/Self/Identity.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "rule-buttons"
+              "icon": "lucide-file",
+              "title": "Identity"
             }
           }
         ]
@@ -183,6 +185,10 @@
   },
   "active": "45ce592f93ca3262",
   "lastOpenFiles": [
+    "raw/Self/Goals.md",
+    "raw/Self/Identity.md",
+    "raw/assets/Yago_Silva-CliftonStrengths_SF_TOP_5.pdf",
+    "rule-buttons.png",
     "raw/Plans/Relocation.md",
     "raw/library/README.md",
     "CLAUDE.md",
@@ -196,7 +202,6 @@
     "raw/Finances/Investment Thesis.md",
     "raw/Family/Stephanie/Identity.md",
     "raw/Family/Stephanie/Career.md",
-    "raw/Self/Identity.md",
     "CLAUDE.md.tmp.10333.89c83143c1ed",
     "raw/library/README.md.tmp.10333.fc22a86414f1",
     "raw/library",
@@ -206,9 +211,7 @@
     "raw/Finances/Overview.md.tmp.10333.0e0b659c8001",
     "raw/Family/Stephanie/Identity.md.tmp.10333.22a3318f1ab8",
     "raw/Family/Lorena/Identity.md.tmp.10333.64e70d9dc1af",
-    "raw/Self/Identity.md.tmp.10333.772872fd3fc0",
     "raw/journal/Family/Daughter/Lorena's Identity.md",
-    "raw/Self/Goals.md",
     "raw/Family/Stephanie/Stephanie's Identity.md",
     "raw/Family/Stephanie/Stephanie's Career.md",
     "raw/Family/Lorena/Lorena's Identity.md",
@@ -218,8 +221,6 @@
     "raw/Health/Workout History/May - Jun 2026.md",
     "raw/Health/Diet History/May - Jun 2026.md",
     "raw/Health/workout history/May - Jun 2026.md",
-    "raw/Health/planned diets history/May - Jun 2026.md",
-    "rule-buttons.png",
     "Sem título.canvas"
   ]
 }
