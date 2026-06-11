@@ -1,7 +1,0 @@
-#!/usr/bin/env bash
-# Auto-maintain frontmatter on staged raw/ notes before each commit.
-# Bumps `updated:` to today and scaffolds missing frontmatter, then re-stages.
-# Only touches files added/modified in THIS commit (git diff --cached). Never blocks.
-set -euo pipefail
-HOOK_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
-python3 "$HOOK_DIR/fill-frontmatter.py" || true
