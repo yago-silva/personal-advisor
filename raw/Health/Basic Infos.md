@@ -3,7 +3,7 @@ type: reference
 domain: health
 entity: Yago
 created: unknown
-updated: 2026-06-08
+updated: 2026-06-11
 lang: mixed
 ---
 
@@ -18,8 +18,13 @@ Premise: I've decided to use hormones to build muscle. I know it can affect my h
 ## Used Hormones
 - Testosterone enanthate 250mg per week
 - Anastrozole 1,5mg per week
+- Masteron
 ## Other Substances Used
 - RETATRUTIDE 2mg per week
+- Melatonin 280 mcg per day
+- Cafeína 200mg por dia
+- Ferro 14 mg (fisiogen)
+- Multivitamínico
 
 ## Important References
 
