@@ -11,20 +11,21 @@ description: Keep YAML frontmatter on raw/ wiki notes correct per the CLAUDE.md 
 
 A tracked hook fills frontmatter on **only the files added/modified in each commit**, then re-stages them — so every commit lands with correct metadata regardless of who runs `git commit`.
 
-- **Hook:** `.githooks/pre-commit` → runs `.githooks/fill-frontmatter.py` with no args (staged mode).
+- **Logic (versioned):** `.githooks/fill-frontmatter.py` + `.githooks/pre-commit` — live in the repo so the rules travel with it.
+- **Trigger (classic, NOT versioned):** `.git/hooks/pre-commit` — a thin wrapper that `exec`s `.githooks/pre-commit`. This is the standard git hook location; `core.hooksPath` is intentionally left unset.
 - **Scope:** `raw/**/*.md` only. Files outside `raw/` (e.g. `.claude/skills/*/SKILL.md`, root `README.md`/`CLAUDE.md`) are deliberately ignored — their frontmatter is a different schema and must not be touched.
 
-### How it gets armed (two layers)
+### Re-installing after a fresh clone
 
-Git never runs versioned hooks automatically (security), so the repo's `.githooks/` has to be wired up. Two mechanisms cover that:
+Git never runs versioned hooks automatically (security), and `.git/hooks/` isn't cloned — so each new clone needs the wrapper installed once:
 
-1. **This clone:** `git config core.hooksPath .githooks` (local config — already set here).
-2. **Every *future* clone on this machine, zero-touch:** a global git template seeds a dispatcher into each new clone's `.git/hooks/`:
-   - `~/.config/git/template/hooks/pre-commit` — a generic dispatcher that `exec`s `<repo>/.githooks/<hookname>` when present, else no-ops.
-   - Armed with `git config --global init.templateDir ~/.config/git/template`.
-   - On `git clone`, git copies that dispatcher into `.git/hooks/`; since a clone has no local `core.hooksPath`, the dispatcher runs and delegates to this repo's `.githooks/`. Verified working.
+```bash
+# from the repo root, after cloning:
+printf '#!/usr/bin/env bash\nexec "$(git rev-parse --show-toplevel)/.githooks/pre-commit"\n' \
+  > .git/hooks/pre-commit && chmod +x .git/hooks/pre-commit
+```
 
-**On a brand-new machine** (where the global template doesn't exist yet), re-create those two pieces, or just run `git config core.hooksPath .githooks` in the clone. The dispatcher is safe for all repos — it only acts when a repo ships `.githooks/`.
+(A symlink works too: `ln -sf ../../.githooks/pre-commit .git/hooks/pre-commit`.) This is a deliberate, repo-local choice — no global git config is touched.
 
 Per-file behavior:
 - Always rewrites `updated:` to today (inserts the key if absent).
