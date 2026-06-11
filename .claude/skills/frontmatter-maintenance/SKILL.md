@@ -12,8 +12,19 @@ description: Keep YAML frontmatter on raw/ wiki notes correct per the CLAUDE.md 
 A tracked hook fills frontmatter on **only the files added/modified in each commit**, then re-stages them — so every commit lands with correct metadata regardless of who runs `git commit`.
 
 - **Hook:** `.githooks/pre-commit` → runs `.githooks/fill-frontmatter.py` with no args (staged mode).
-- **Wired via:** `git config core.hooksPath .githooks`. This is **local git config, not committed** — after a fresh clone, run that one command once to re-arm the hook.
 - **Scope:** `raw/**/*.md` only. Files outside `raw/` (e.g. `.claude/skills/*/SKILL.md`, root `README.md`/`CLAUDE.md`) are deliberately ignored — their frontmatter is a different schema and must not be touched.
+
+### How it gets armed (two layers)
+
+Git never runs versioned hooks automatically (security), so the repo's `.githooks/` has to be wired up. Two mechanisms cover that:
+
+1. **This clone:** `git config core.hooksPath .githooks` (local config — already set here).
+2. **Every *future* clone on this machine, zero-touch:** a global git template seeds a dispatcher into each new clone's `.git/hooks/`:
+   - `~/.config/git/template/hooks/pre-commit` — a generic dispatcher that `exec`s `<repo>/.githooks/<hookname>` when present, else no-ops.
+   - Armed with `git config --global init.templateDir ~/.config/git/template`.
+   - On `git clone`, git copies that dispatcher into `.git/hooks/`; since a clone has no local `core.hooksPath`, the dispatcher runs and delegates to this repo's `.githooks/`. Verified working.
+
+**On a brand-new machine** (where the global template doesn't exist yet), re-create those two pieces, or just run `git config core.hooksPath .githooks` in the clone. The dispatcher is safe for all repos — it only acts when a repo ships `.githooks/`.
 
 Per-file behavior:
 - Always rewrites `updated:` to today (inserts the key if absent).
