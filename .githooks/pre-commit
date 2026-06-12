@@ -1,0 +1,120 @@
+#!/usr/bin/env python3
+"""Pre-commit hook: refresh/insert frontmatter on staged raw/**/*.md.
+
+Versioned hook — armed via `git config core.hooksPath .githooks` (Claude does
+this on the first commit in a fresh clone; see CLAUDE.md).
+
+For each staged (added/copied/modified) Markdown file under raw/:
+  - set `updated:` to today (insert the key if missing);
+  - if newly added and missing `created:`, add `created: <today>`;
+  - if it has no frontmatter at all, prepend a scaffold
+    (type/domain/created/updated/lang), inferring `domain` from the path.
+Then re-stage the changed files so the bump lands in this commit.
+Scope is raw/ only — never touches .claude/skills/*/SKILL.md, README, CLAUDE.md.
+Never blocks a commit: any error -> warn on stderr, exit 0.
+"""
+import os
+import re
+import subprocess
+import sys
+from datetime import date
+
+DOMAIN_BY_TOP = {
+    "Career": "career", "Family": "family", "Finances": "finances",
+    "Health": "health", "Plans": "plans", "Self": "self", "library": "library",
+}
+FM_RE = re.compile(r"^(---[ \t]*\n)(.*?\n)(---[ \t]*\n?)", re.DOTALL)
+
+
+def git(args):
+    return subprocess.check_output(["git"] + args, stderr=subprocess.DEVNULL).decode()
+
+
+def staged(diff_filter):
+    out = git(["diff", "--cached", "--name-only",
+               f"--diff-filter={diff_filter}", "-z", "--", "raw"])
+    return [f for f in out.split("\0") if f.endswith(".md")]
+
+
+def infer_domain(rel):
+    parts = rel.split("/")
+    if len(parts) >= 2 and parts[0] == "raw":
+        return DOMAIN_BY_TOP.get(parts[1], parts[1].lower())
+    return None
+
+
+def _find(lines, key):
+    for i, ln in enumerate(lines):
+        if re.match(rf"^{re.escape(key)}\s*:", ln):
+            return i
+    return -1
+
+
+def edit_fm(fm_body, today, is_new):
+    lines = fm_body.split("\n")
+    while lines and lines[-1] == "":
+        lines.pop()
+    ui = _find(lines, "updated")
+    if ui >= 0:
+        lines[ui] = f"updated: {today}"
+    else:
+        ci = _find(lines, "created")
+        lines.insert(ci + 1 if ci >= 0 else len(lines), f"updated: {today}")
+    if is_new and _find(lines, "created") < 0:
+        lines.insert(_find(lines, "updated"), f"created: {today}")
+    return "\n".join(lines) + "\n"
+
+
+def scaffold(rel, today, is_new):
+    dom = infer_domain(rel)
+    out = ["type: note"]
+    if dom:
+        out.append(f"domain: {dom}")
+    out.append(f"created: {today if is_new else 'unknown'}")
+    out.append(f"updated: {today}")
+    out.append("lang: pt")
+    return "---\n" + "\n".join(out) + "\n---\n\n"
+
+
+def process(text, rel, today, is_new):
+    bom = ""
+    if text.startswith("﻿"):
+        bom, text = "﻿", text[1:]
+    m = FM_RE.match(text)
+    if m:
+        return bom + m.group(1) + edit_fm(m.group(2), today, is_new) + m.group(3) + text[m.end():]
+    return bom + scaffold(rel, today, is_new) + text
+
+
+def main():
+    today = date.today().isoformat()
+    try:
+        root = git(["rev-parse", "--show-toplevel"]).strip()
+        files = staged("ACM")
+        added = set(staged("A"))
+    except Exception as e:
+        print(f"pre-commit frontmatter: skipped ({e})", file=sys.stderr)
+        return 0
+    changed = []
+    for rel in files:
+        path = os.path.join(root, rel)
+        if not os.path.isfile(path):
+            continue
+        try:
+            with open(path, encoding="utf-8") as fh:
+                text = fh.read()
+            new = process(text, rel, today, rel in added)
+            if new != text:
+                with open(path, "w", encoding="utf-8") as fh:
+                    fh.write(new)
+                changed.append(rel)
+        except Exception as e:
+            print(f"pre-commit frontmatter: skipped {rel} ({e})", file=sys.stderr)
+    if changed:
+        subprocess.call(["git", "add", "--"] + changed)
+        print("pre-commit frontmatter: updated " + ", ".join(changed))
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())

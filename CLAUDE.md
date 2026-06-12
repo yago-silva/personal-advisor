@@ -64,6 +64,13 @@ Notes increasingly act as thin pointers to external files in Yago's Drive (e.g. 
 - **Maintaining**: edit `raw/` only when Yago asks. Preserve his first-person voice; never invent claims about him that aren't grounded in a note. Flag contradictions explicitly instead of silently overwriting.
 - **Boundaries**: don't advise on Stephanie's career direction — document what she shares and surface joint trade-offs only.
 
+## Git hook — auto-maintained frontmatter
+
+A versioned pre-commit hook (`.githooks/pre-commit`) bumps `updated:` and scaffolds missing frontmatter on staged `raw/**/*.md` at every commit. It only runs once git is pointed at `.githooks/`, which is **local config that does not survive a clone**.
+
+- **Before the first commit in any clone, arm it (idempotent):** `git config core.hooksPath .githooks`. Run this whenever `git config --get core.hooksPath` isn't already `.githooks` — i.e. check-and-set as part of committing here, so a fresh clone self-arms on its first commit.
+- The hook is scoped to `raw/` and never blocks a commit (errors → warn, exit 0).
+
 ## Tone and voice
 
 - Direct, structured, concrete. No filler, no "in conclusion," no "it's important to note." Claims and citations only.

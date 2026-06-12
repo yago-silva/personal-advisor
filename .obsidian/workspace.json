@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "raw/Health/Diagnostics History/README.md",
+                "file": "raw/Self/Goals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Goals"
             }
           }
         ]
@@ -185,22 +185,24 @@
   },
   "active": "45ce592f93ca3262",
   "lastOpenFiles": [
+    "CLAUDE.md.tmp.68414.7ff98e6e2e74",
+    "raw/Health/_hooktest.md",
+    "raw/Self/Identity.md",
+    "raw/Self/Goals.md",
+    "raw/Health/Diagnostics History/2026-06-09.md",
+    "raw/Health/Diagnostics History/README.md",
+    "raw/Health/Workout History/May - Jun 2026.md",
     "raw/Health/_fmtest_new.md",
     "raw/Health/_fmtest_noupd.md",
     "raw/Health/_fmtest_old.md",
     "raw/Health/_fmtest_nofm.md",
-    "raw/Health/Diagnostics History/2026-06-09.md",
-    "raw/Health/Diagnostics History/README.md",
     "raw/Family/Stephanie/Identity.md",
     "raw/assets/Stephanie_Santos-CliftonStrengths_SF_TOP_5.pdf",
     "raw/assets/Yago_Silva-CliftonStrengths_SF_TOP_5.pdf",
-    "raw/Self/Identity.md",
     "raw/Health/Basic Infos.md",
     "raw/Health/Body Measures History.md",
-    "raw/Self/Goals.md",
     "raw/library/README.md",
     "raw/Plans/Relocation.md",
-    "raw/Health/Workout History/May - Jun 2026.md",
     "raw/Health/Diagnostics History",
     "raw/Health/Diagnostics History.md.tmp.68414.9ed579811a56",
     "rule-buttons.png",
@@ -220,8 +222,6 @@
     "raw/Career/Resume.md.tmp.10333.f2467c045c47",
     "raw/Career/Resume.md.tmp.10333.35ed5a425040",
     "raw/Health/Basic Infos.md.tmp.10333.4a8ad72925d1",
-    "raw/journal/Family/Daughter/Lorena's Identity.md",
-    "raw/Family/Stephanie/Stephanie's Identity.md",
     "Sem título.canvas"
   ]
 }
