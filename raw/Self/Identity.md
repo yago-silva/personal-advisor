@@ -27,3 +27,23 @@ Test result details: [[Yago_Silva-CliftonStrengths_SF_TOP_5.pdf]]
 
 ### DISC Analysis
 [[DISC - Yago Silv.pdf]]
+
+### Valores
+
+Por ordem de importância:
+1 - Família
+	Tenho um perfil provedor, mas também quero (dentro do possível) passar tempo com as pessoas que amo.
+	
+2 - Honestidade
+	Não gosto de pessoas que tentem de alguma maneira engar as outras! Ter pessoas honestas ao meu lado é algo que valorizo muito.
+	
+3 - Humildade
+	Todas as pessoas merecem respeito, independente de sua classe social, raça, cor, religião, orientação sexual ou etc. Além disso, acredito que sempre podemos aprender algo com as pessoas (as vezes com as coisas que fala, as vezes com as atitudes).
+	
+4 - Ambição e realização
+	Busco sempre melhorar em todos os aspectos da minha vida, financeiro é o mais evidente! Busco prosperidade, e sempre coloco muita energia em coisas que me ajudem a ser mais próspero. Não gosto de sentir que estou perdendo tempo, por isso tento alinhar meu lazer ao aprendizado contínuo sempre que possível.
+	
+5 - Excelência
+	Quero sempre o maior nível que qualidade em tudo o que faço! Meu nível de exigência comigo mesmo é bem alto!
+
+Quero construir prosperidade e excelência, mantendo minha integridade e cumprindo minha responsabilidade com a família.
