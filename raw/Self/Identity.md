@@ -3,7 +3,7 @@ type: note
 domain: self
 entity: Yago
 created: unknown
-updated: 2026-06-08
+updated: 2026-06-14
 lang: en
 ---
 ## Basic Infos
@@ -24,3 +24,6 @@ lang: en
 - Competition
 
 Test result details: [[Yago_Silva-CliftonStrengths_SF_TOP_5.pdf]]
+
+### DISC Analysis
+[[DISC - Yago Silv.pdf]]
