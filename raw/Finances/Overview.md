@@ -2,7 +2,7 @@
 type: reference
 domain: finances
 created: unknown
-updated: 2026-06-08
+updated: 2026-06-14
 lang: en
 links:
   - "https://docs.google.com/spreadsheets/d/15qSiPTHYmzh1_ItzET0VZStiVu32KEodbBxU30Sl78w/"
@@ -21,6 +21,11 @@ Check in [this sheet](https://docs.google.com/spreadsheets/d/13cod5YUveCILRhjTIS
 
 ## Stock Investments
 Check in [this sheet](https://docs.google.com/spreadsheets/d/1v6eTPtx7KzHi77kn6KMjG9nQtfHwXY2nbbhMBzrzgSY) using google drive MCP
+
+
+## Life Insurance
+
+[[Seguro de Vida Yago - Silva.pdf]]
 
 ## Goals (financial)
 
