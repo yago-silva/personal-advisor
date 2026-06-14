@@ -2,7 +2,7 @@
 type: note
 domain: health
 created: unknown
-updated: 2026-06-12
+updated: 2026-06-14
 lang: pt
 ---
 

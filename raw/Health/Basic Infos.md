@@ -3,7 +3,7 @@ type: reference
 domain: health
 entity: Yago
 created: unknown
-updated: 2026-06-11
+updated: 2026-06-14
 lang: mixed
 ---
 
@@ -30,4 +30,8 @@ Premise: I've decided to use hormones to build muscle. I know it can affect my h
 
 - [[raw/Health/Body Measures History|Body Measures History]]
 - [[raw/Health/Workout History/May - Jun 2026|May - Jun 2026]]
-- 
+
+## Histórico de exames médicos
+
+Disponível no google drive no diretório: https://drive.google.com/drive/folders/1xv3Po21QT-8JkpBbfxPcTNybZZx_lYt-
+

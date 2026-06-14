@@ -11,12 +11,14 @@
             "id": "9674008a669cb9ab",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "raw/assets/DISC - Yago Silv.pdf"
+                "file": "raw/Health/Basic Infos.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "DISC - Yago Silv"
+              "icon": "lucide-file",
+              "title": "Basic Infos"
             }
           }
         ]
@@ -183,17 +185,19 @@
   },
   "active": "9674008a669cb9ab",
   "lastOpenFiles": [
+    "raw/Health/Body Measures History.md",
+    "raw/Health/Basic Infos.md",
+    "raw/Health/Workout History/May - Jun 2026.md",
+    "raw/Health/Diagnostics History/README.md",
+    "raw/Health/Diagnostics History/2026-06-09.md",
     "raw/assets/DISC - Yago Silv.pdf",
     "raw/assets/Seguro de Vida Yago - Silva.pdf",
     "raw/Finances/Overview.md",
     "raw/Self/Identity.md",
-    "raw/Health/Diagnostics History/README.md",
-    "raw/Health/Diagnostics History/2026-06-09.md",
     "raw/Self/Goals.md",
     "raw/Health/_probe.md",
     "CLAUDE.md.tmp.68414.7ff98e6e2e74",
     "raw/Health/_hooktest.md",
-    "raw/Health/Workout History/May - Jun 2026.md",
     "raw/Health/_fmtest_new.md",
     "raw/Health/_fmtest_noupd.md",
     "raw/Health/_fmtest_old.md",
@@ -201,8 +205,6 @@
     "raw/Family/Stephanie/Identity.md",
     "raw/assets/Stephanie_Santos-CliftonStrengths_SF_TOP_5.pdf",
     "raw/assets/Yago_Silva-CliftonStrengths_SF_TOP_5.pdf",
-    "raw/Health/Basic Infos.md",
-    "raw/Health/Body Measures History.md",
     "raw/library/README.md",
     "raw/Plans/Relocation.md",
     "raw/Health/Diagnostics History",
@@ -219,7 +221,6 @@
     "CLAUDE.md.tmp.10333.89c83143c1ed",
     "raw/library/README.md.tmp.10333.fc22a86414f1",
     "raw/library",
-    "raw/Career/Resume.md.tmp.10333.f2467c045c47",
     "Sem título.canvas"
   ]
 }
