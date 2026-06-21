@@ -3,7 +3,7 @@ type: note
 domain: career
 entity: Yago
 created: unknown
-updated: 2026-06-08
+updated: 2026-06-21
 lang: en
 ---
 ## Headline (current LinkedIn)
@@ -46,7 +46,7 @@ lang: en
 ###  [[raw/Career/Yandeh/Basic Infos|Yandeh]] — Staff Product Engineer at Yandeh
 
 **Jun 2026 – Present** · São Paulo (Itaim, hybrid 4 days/week presencial)
-[[History]]
+[[Details]]
 
 ---
 
