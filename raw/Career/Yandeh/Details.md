@@ -17,7 +17,7 @@ Source: `raw/assets/yandeh-proposta-pj-2026-05-22.pdf` (proposal letter, model P
 - **Bonus**: up to 6x salaries, tied to goal attainment. Proportional to start date and to time still employed on the payment date — i.e. conditional upside, not base inflow
 - **Work model**: in-person, Av. Santo Amaro, 48 — Itaim, São Paulo. Currently hybrid 4 days/week as agreed with the area
 - **Role title**: [to fill in — not on the proposal letter; confirm in onboarding]
-- **Annual vacation**: 24 days/year, **paid** — Yandeh pays out vacation even under the PJ model
+- **Annual vacation**: 22 days/year, **paid** — Yandeh pays out vacation even under the PJ model
 - **13th salary**: paid — Yandeh grants it under the PJ model as well
 - **Benefits**:
   - **Flash** R$ 1.100,00/month (meal/food, credit-at-sight model)
