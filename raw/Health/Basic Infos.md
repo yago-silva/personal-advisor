@@ -34,6 +34,7 @@ Premise: I've decided to use hormones to build muscle. I know it can affect my h
 - [[raw/Health/Body Measures History|Body Measures History]]
 - [[raw/Health/Workout History/May - Jun 2026|May - Jun 2026]]
 - [[raw/Health/Diagnostics History/2026-08-05|Painel laboratorial 2026-08-05]]
+- [[raw/Health/Lab Trends|Tendências laboratoriais]] — série longitudinal de todas as coletas
 
 ## Histórico de exames médicos
 
