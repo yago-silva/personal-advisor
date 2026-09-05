@@ -31,9 +31,6 @@ Check in [this sheet](https://docs.google.com/spreadsheets/d/1v6eTPtx7KzHi77kn6K
 
 **Contractual rate: 7,65% a.a.** (stated by Yago, 2026-09-05). Outstanding balance and monthly parcela live in the net worth and cash flow sheets — read them live.
 
-**Not yet confirmed — ask before re-running the maths:** whether the 7,65% is flat nominal or indexed (`TR + 7,65%` / `IPCA + 7,65%`), and whether the amortization system is SAC or Price. Indexation is the variable that could flip the conclusion below.
-
-
 ## Goals (financial)
 
 **Primary goal (set 2026-09-05): the first million in BRL, counted only as what is liquid within a week** — see [[raw/Self/Goals|Goals]]. Track it against `Investimentos não comprometidos` in the net worth sheet; the headline patrimônio líquido figure includes the apartment and the vehicles and does not count toward this.
