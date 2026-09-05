@@ -31,6 +31,14 @@ Check in [this sheet](https://docs.google.com/spreadsheets/d/1v6eTPtx7KzHi77kn6K
 
 **Contractual rate: 7,65% a.a.** (stated by Yago, 2026-09-05). Outstanding balance and monthly parcela live in the net worth and cash flow sheets — read them live.
 
+## Vehicles
+
+Two vehicles: BMW (car) and Triumph Speed 400 (motorcycle). Both are classified **Passivo** in the net worth sheet — read balances and running costs live, don't transcribe.
+
+**The motorcycle is Yago's commute to work** (stated by Yago, 2026-09-05). It is not a duplicate of the car: the Yandeh office is in Itaim, São Paulo, under a hybrid 4-days-a-week in-person model ([[raw/Career/Yandeh/Details|Details]]), and the bike is what covers that trip. Its running line in the cash flow (fuel, insurance, two parking entries, maintenance) is **commute cost, not discretionary spend** — treat it as such in any burn analysis.
+
+Open trade-off, not a recommendation: the capital sitting in the two vehicles is large against what exists in liquid assets, and the primary goal counts only what is liquid within a week ([[raw/Self/Goals|Goals]]). Selling the bike would move capital and running cost at once — but it would push the commute onto the car or onto paid transport, which claws part of that back. Whoever revisits this must price the replacement commute, not just the savings.
+
 ## Goals (financial)
 
 **Primary goal (set 2026-09-05): the first million in BRL, counted only as what is liquid within a week** — see [[raw/Self/Goals|Goals]]. Track it against `Investimentos não comprometidos` in the net worth sheet; the headline patrimônio líquido figure includes the apartment and the vehicles and does not count toward this.
