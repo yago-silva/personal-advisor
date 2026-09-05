@@ -2,7 +2,7 @@
 type: reference
 domain: finances
 created: unknown
-updated: 2026-06-14
+updated: 2026-09-05
 lang: en
 links:
   - "https://docs.google.com/spreadsheets/d/15qSiPTHYmzh1_ItzET0VZStiVu32KEodbBxU30Sl78w/"
@@ -27,7 +27,20 @@ Check in [this sheet](https://docs.google.com/spreadsheets/d/1v6eTPtx7KzHi77kn6K
 
 [[Seguro de Vida Yago - Silva.pdf]]
 
+## Real estate financing (apartment)
+
+**Contractual rate: 7,65% a.a.** (stated by Yago, 2026-09-05). Outstanding balance and monthly parcela live in the net worth and cash flow sheets — read them live.
+
+**Not yet confirmed — ask before re-running the maths:** whether the 7,65% is flat nominal or indexed (`TR + 7,65%` / `IPCA + 7,65%`), and whether the amortization system is SAC or Price. Indexation is the variable that could flip the conclusion below.
+
+
 ## Goals (financial)
+
+**Primary goal (set 2026-09-05): the first million in BRL, counted only as what is liquid within a week** — see [[raw/Self/Goals|Goals]]. Track it against `Investimentos não comprometidos` in the net worth sheet; the headline patrimônio líquido figure includes the apartment and the vehicles and does not count toward this.
+
+Reserve targets below are multiples of **full monthly burn** — a derived value that moves whenever burn moves. See [[raw/Finances/Cash Burn|Cash Burn]] for how to measure it and why the Débito total is not the burn.
+
+The relocation plan is **paused as of 2026-09-05** ([[raw/Plans/Relocation|Relocation]]); dollar-buying and B3 rotation are suspended with it.
 
 ### Near-term (next 6 months)
 
@@ -52,3 +65,4 @@ Check in [this sheet](https://docs.google.com/spreadsheets/d/1v6eTPtx7KzHi77kn6K
 - New equity purchases before emergency reserve is built (current strategy is upside-down: invested but unprotected)
 - Relocation timing that assumes apartment sells in <90 days at fair value
 - Treating Fluencypass equity as part of decision-making net worth
+- Early amortization of the apartment financing while it costs ~3% real and the primary goal counts only liquid capital — see the section above

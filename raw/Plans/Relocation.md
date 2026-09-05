@@ -2,19 +2,57 @@
 type: plan
 domain: plans
 created: 2026-05-04
-updated: 2026-06-08
+updated: 2026-09-05
 lang: pt
 ---
 
 # Plano de Mudança para os EUA — Família Yago
 
-**Criado**: 2026-05-04 · **Revisado**: 2026-05-05
+**Criado**: 2026-05-04 · **Revisado**: 2026-05-05 · **Pausado**: 2026-09-05
 **Quem vai**: Yago, Stephanie, Lorena (11 anos)
 **Para onde**: EUA primeiro, Canadá como plano B
-**Quando pousar**: Outubro/2028
-**Status**: Ativo. Fase 0 começou em maio/2026.
+**Quando pousar**: Outubro/2028 — *data suspensa, ver abaixo*
+**Status**: ⏸️ **PAUSADO em 2026-09-05.** Fase 0 rodou de mai a set/2026.
 
-> Documento vivo. Atualizar a cada revisão de fase ou quando uma decisão fechada mudar.
+---
+
+## ⏸️ Pausa — decisão de 2026-09-05
+
+**Decisão do Yago: pausar o plano de relocação por ora.** Não é cancelamento — o documento fica congelado como está, com o percurso e o raciocínio preservados, para ser retomado ou descartado numa revisão futura.
+
+**A meta principal passou a ser o primeiro milhão** ([[raw/Self/Goals|Goals]]), medido só pelo que é líquido em uma semana. Emigrar não é estratégia de enriquecimento — é de consumo e opcionalidade, e dobra o consumo familiar durante o percurso.
+
+**O que a pausa suspende:**
+
+- Compra recorrente de dólar e rotação da carteira B3 para ETFs em dólar (Fases 1 e 2)
+- Advogado em retainer, petição I-140, WES, apostilamento, IELTS como item de cronograma
+- Express Entry do Canadá como hedge de Q3/2026
+- Toda a trajetória de patrimônio das Fases 1 a 5 abaixo
+
+**O que continua valendo por mérito próprio, independente de mudança de país:**
+
+- Inglês — vale para carreira e opcionalidade futura, a custo baixo
+- Diploma e histórico emitidos e guardados — resolve uma pendência de 10+ anos
+- Carteira de vacinação da família em dia
+- Publicação técnica e dossiê — servem à credencial e à carreira, não só ao visto
+
+**Gatilhos para reabrir:** oferta internacional concreta na mesa; o primeiro milhão atingido; ou uma mudança material nas condições de vida no Brasil.
+
+---
+
+## ⚠️ Premissas financeiras deste documento estão vencidas
+
+O modelo abaixo foi construído sobre o replanejamento de mai/2026. A leitura ao vivo das planilhas em **2026-09-05** invalidou três premissas centrais. Ficam registradas aqui como **snapshot datado**, não como estado atual — o estado vive nas planilhas linkadas em [[raw/Finances/Overview|Finances Overview]], e o método de medição em [[raw/Finances/Cash Burn|Cash Burn]].
+
+| Premissa do modelo | O que a leitura de 2026-09-05 mostrou |
+|---|---|
+| Despesa mensal R$ 17.320,70 | Burn recorrente ~60% maior. Quase todo o aumento é provisão discricionária nova, não custo fixo |
+| Reserva de 6 meses = R$ 103,9 mil em ago/2027 | Alvo bem maior (6 × burn novo), mas atingido **antes** — o ritmo de aporte atual é muito superior ao modelado |
+| Mar/2027 libera R$ 9,2 mil/mês com o fim do Rico | **Falso.** A parcela do cartão não passa pelo fluxo mensal; consome a provisão. O fim do parcelamento libera a provisão, não fluxo |
+
+Também não modelado em lugar nenhum deste documento: a **moto Triumph** (ativo + custeio recorrente) e a **neutralização da dívida de cartão**, que passou a estar integralmente coberta pela provisão entre ago e set/2026.
+
+Se o plano for retomado, **refazer o modelo do zero** a partir das planilhas. Não reaproveitar nenhum número das tabelas abaixo.
 
 ---
 
